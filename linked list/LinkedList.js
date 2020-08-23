@@ -69,10 +69,9 @@ class LinkedListNode {
 
 LinkedList.fromValues = function (...values) {
   const ll = new LinkedList();
-  for (let i = values.length; i >= 0; i--) {
+  for (let i = values.length - 1; i >= 0; i--) {
     ll.insertAtHead(values[i]);
   }
   return ll;
 };
-
 module.exports = LinkedList;

@@ -79,10 +79,11 @@ describe("#insertAtIndex", () => {
     test("it returns the element at that index", () => {
       const ll = new LinkedList.fromValues(10, 20, 30, 40);
       ll.insertAtIndex(2, 70);
-      const node = ll.getByIndex(2);
+      const node = ll.getByIndex(3);
 
-      expect(node.value).toBe(70);
-      expect(ll.head.next.value).toBe(30);
+      expect(node.value).toBe(30);
+      expect(ll.head.next.value).toBe(20);
+      expect(ll.head.next.next.value).toBe(70);
       expect(ll.length).toBe(5);
     });
   });
