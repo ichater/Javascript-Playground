@@ -253,10 +253,14 @@
 // Frodo.weight = 300;
 // console.log(Frodo); // Output: ReferenceError: Hobbit is not defined
 
-console.log(null == undefined);
+// console.log(null == undefined);
 
-console.log(null === undefined);
+// console.log(null === undefined);
 
-console.log("1" == 1);
+// console.log("1" == 1);
 
-console.log("1" === 1);
+// console.log("1" === 1);
+
+const istrue = false;
+
+istrue ? console.log("its true!") : console.log("flase");

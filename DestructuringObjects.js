@@ -29,3 +29,12 @@ console.log(city);
 const person3 = { ...person2, ...person };
 
 console.log(person3);
+
+use strict;
+
+function logThis() {
+  this.desc = "logger";
+  console.log(this);
+}
+
+new logThis();
