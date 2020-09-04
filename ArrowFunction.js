@@ -31,3 +31,44 @@ const profile1 = {
 
 profile1.setName("john doe");
 console.log(profile1.firstName1);
+
+function sum(a, b) {
+  return a + b;
+}
+
+const sum2 = (a, b) => a + b;
+
+function isPositive(number) {
+  return number >= 0;
+}
+
+const isPositive2 = (number) => number >= 0;
+
+function randomNumber() {
+  return Math.random();
+}
+
+const randomNumber2 = (a) => Math.random(a);
+
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+  printNameArrow() {
+    setTimeout(() => {
+      console.log("arrow: " + this.name), 100;
+    });
+  }
+
+  printNameFunction() {
+    setTimeout(function () {
+      console.log("function: " + this.name), 100;
+    });
+  }
+}
+
+const roy = new Person("roy");
+
+console.log(roy.printNameArrow());
+//below does not print out anything
+console.log(roy.printNameFunction());

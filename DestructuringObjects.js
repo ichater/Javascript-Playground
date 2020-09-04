@@ -17,24 +17,16 @@ const {
   firstName: name,
   age,
   favouriteFood = "ricecream",
-  address: { city },
+  address: { city, state },
 } = person2;
 
 console.log(name);
 console.log(age);
 console.log(favouriteFood);
 console.log(city);
+console.log(state);
 
 //overwrite shared attibutesd of "person2" with "person"
 const person3 = { ...person2, ...person };
 
 console.log(person3);
-
-use strict;
-
-function logThis() {
-  this.desc = "logger";
-  console.log(this);
-}
-
-new logThis();
