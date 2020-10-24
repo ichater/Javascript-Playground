@@ -32,5 +32,6 @@ const robot2 = "place 3 , 2 , north";
 const words1 = robot2.split(" ");
 const [word, ...restOfWords] = words1;
 console.log(word);
+console.log(restOfWords.join(""));
 console.log(restOfWords.join(" ").split(","));
 console.log(restOfWords.join(" ").split(",")[2]);
