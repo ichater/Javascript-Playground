@@ -31,55 +31,55 @@
 
 // console.log(person3);
 
-function nestedArrayAndObject() {
-  // refactor this to a single line of destructuring...
-  const info = {
-    title: "Once Upon a Time",
-    protagonist: {
-      name: "Emma Swan",
-      enemies: [
-        { name: "Regina Mills", title: "Evil Queen" },
-        { name: "Cora Mills", title: "Queen of Hearts" },
-        { name: "Peter Pan", title: `The boy who wouldn't grow up` },
-        { name: "Zelena", title: "The Wicked Witch" },
-      ],
-    },
-  };
-  const {
-    title,
-    protagonist: {
-      name,
-      enemies: [{ name: enemyName, title: enemyTitle }],
-    },
-  } = info; // <-- replace the next few `const` lines with this
+// function nestedArrayAndObject() {
+//   // refactor this to a single line of destructuring...
+//   const info = {
+//     title: "Once Upon a Time",
+//     protagonist: {
+//       name: "Emma Swan",
+//       enemies: [
+//         { name: "Regina Mills", title: "Evil Queen" },
+//         { name: "Cora Mills", title: "Queen of Hearts" },
+//         { name: "Peter Pan", title: `The boy who wouldn't grow up` },
+//         { name: "Zelena", title: "The Wicked Witch" },
+//       ],
+//     },
+//   };
+//   const {
+//     title,
+//     protagonist: {
+//       name,
+//       enemies: [{ name: enemyName, title: enemyTitle }],
+//     },
+//   } = info; // <-- replace the next few `const` lines with this
 
-  return `${enemyName} (${enemyTitle}) is an enemy to ${name} in "${title}"`;
-}
+//   return `${enemyName} (${enemyTitle}) is an enemy to ${name} in "${title}"`;
+// }
 
-console.log(nestedArrayAndObject());
+// console.log(nestedArrayAndObject());
 
-const metadata = {
-  title: "Scratchpad",
-  translations: [
-    {
-      locale: "de",
-      localization_tags: [],
-      last_edit: "2014-04-14T08:43:37",
-      url: "/de/docs/Tools/Scratchpad",
-      title: "JavaScript-Umgebung",
-    },
-  ],
-  url: "/en-US/docs/Tools/Scratchpad",
-};
+// const metadata = {
+//   title: "Scratchpad",
+//   translations: [
+//     {
+//       locale: "de",
+//       localization_tags: [],
+//       last_edit: "2014-04-14T08:43:37",
+//       url: "/de/docs/Tools/Scratchpad",
+//       title: "JavaScript-Umgebung",
+//     },
+//   ],
+//   url: "/en-US/docs/Tools/Scratchpad",
+// };
 
-let {
-  title: englishTitle, // rename
-  translations: [
-    {
-      title: localeTitle, // rename
-    },
-  ],
-} = metadata;
+// let {
+//   title: englishTitle, // rename
+//   translations: [
+//     {
+//       title: localeTitle, // rename
+//     },
+//   ],
+// } = metadata;
 
-console.log(englishTitle); // "Scratchpad"
-console.log(localeTitle);
+// console.log(englishTitle); // "Scratchpad"
+// console.log(localeTitle);
