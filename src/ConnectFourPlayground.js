@@ -149,7 +149,7 @@ const i = 0;
 
 const result = [board[i][0], board[i + 1][0], board[i + 2][0], board[i + 3][0]];
 
-console.log(result);
+console.table(board);
 
 // const isConnectedHorizontal = (gameCells, i, j) => {
 //   const result = gameCells[i].slice(gameCells[i][j], 4);
