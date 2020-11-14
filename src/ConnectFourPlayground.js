@@ -79,12 +79,12 @@
 //   return [...Array(number)].map((_, i) => i + 1);
 // };
 
-const gameBoardCells = (board) => {
-  const cell = { token: null };
-  return [...Array(board.y)].map(() => [...Array(board.x)].map((_, i) => cell));
-};
+// const gameBoardCells = (board) => {
+//   const cell = { token: null };
+//   return [...Array(board.y)].map(() => [...Array(board.x)].map((_, i) => cell));
+// };
 
-// console.log(gameBoardCells({ x: 6, y: 7 }));
+// // console.log(gameBoardCells({ x: 6, y: 7 }));
 
 const board = [
   [
@@ -145,48 +145,67 @@ const board = [
   ],
 ];
 
-const isConnectedHorizontal = (gameCells, i, j) => {
-  const result = gameCells[i].slice(gameCells[i][j], 4);
-  return (
-    result.every((x) => x.token === "red") ||
-    result.every((x) => x.token === "yellow")
-  );
-};
+const i = 0;
 
-const isConnectedVerticle = (gameCells, i, j) => {
-  const result = [
-    gameCells[i][j],
-    gameCells[i][j],
-    gameCells[i][j],
-    gameCells[i][j],
-  ];
-  console.log([gameCells[i + 1][j], gameCells[i + 2][j]]);
-  console.log(result);
-  return (
-    result.every((x) => x.token === "red") ||
-    result.every((x) => x.token === "yellow")
-  );
-};
+const result = [board[i][0], board[i + 1][0], board[i + 2][0], board[i + 3][0]];
 
-const isConnected = (gameCells) => {
-  for (var i = 1; i < gameCells.length; i++) {
-    for (var j = 1; j < gameCells[i].length; j++) {
-      const result = gameCells[i][j].token;
+console.log(result);
 
-      if (result !== null) {
-        if (
-          isConnectedHorizontal(gameCells, i, j) ||
-          isConnectedVerticle(gameCells, i, j)
-        ) {
-          return "got a winner!";
-        } else {
-          continue;
-        }
-      } else {
-        continue;
-      }
-    }
-  }
-};
+// const isConnectedHorizontal = (gameCells, i, j) => {
+//   const result = gameCells[i].slice(gameCells[i][j], 4);
+//   return (
+//     result.every((x) => x.token === "red") ||
+//     result.every((x) => x.token === "yellow")
+//   );
+// };
 
-console.log(isConnected(board));
+// const isConnectedVerticle = (gameCells, i, j) => {
+//   const result = [...gameCells[i]];
+//   // console.log([gameCells[i + 1][j], gameCells[i + 2][j]]);
+//   console.log(result);
+//   return (
+//     result.every((x) => x.token === "red") ||
+//     result.every((x) => x.token === "yellow")
+//   );
+// };
+
+// const isConnected = (gameCells) => {
+//   for (var i = 1; i < gameCells.length; i++) {
+//     for (var j = 1; j < gameCells[i].length; j++) {
+//       const result = gameCells[i][j].token;
+
+//       if (result !== null) {
+//         if (
+//           isConnectedHorizontal(gameCells[i], j) ||
+//           isConnectedVerticle(gameCells, i, j)
+//         ) {
+//           return "got a winner!";
+//         } else {
+//           continue;
+//         }
+//       } else {
+//         continue;
+//       }
+//     }
+//   }
+// };
+
+// console.log(isConnectedVerticle(board));
+
+// const arr = [
+//   { token: "red" },
+//   { token: "yellow" },
+//   { token: "yellow" },
+//   { token: null },
+//   { token: null },
+//   { token: null },
+//   { token: "red" },
+//   { token: "yellow" },
+//   { token: "yellow" },
+//   { token: null },
+//   { token: null },
+//   { token: null },
+// ];
+
+// const j = 2;
+// console.log(arr.slice(j, j + 4));
