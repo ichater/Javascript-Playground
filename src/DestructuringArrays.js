@@ -10,19 +10,21 @@ const [a, , c, ...rest] = alphabet;
 //same as alphabet.concat(numbers)
 const newArray = [...alphabet, ...numbers];
 
-console.log(a);
-// console.log(b);
-console.log(c);
-console.log(rest);
+console.log(alphabet + [...numbers]);
 
-console.log(newArray);
+// console.log(a);
+// // console.log(b);
+// console.log(c);
+// console.log(rest);
 
-function sumAndMultiply(a, b) {
-  return [a + b, a * b, a / b];
-}
+// console.log(newArray);
 
-const [sum, multiply, division = "no division"] = sumAndMultiply(2, 3);
+// function sumAndMultiply(a, b) {
+//   return [a + b, a * b, a / b];
+// }
 
-console.log(sum);
-console.log(multiply);
-console.log(division);
+// const [sum, multiply, division = "no division"] = sumAndMultiply(2, 3);
+
+// console.log(sum);
+// console.log(multiply);
+// console.log(division);

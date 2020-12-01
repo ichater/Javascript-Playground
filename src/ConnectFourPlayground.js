@@ -96,7 +96,7 @@ const board = [
     { token: null },
   ],
   [
-    // { token: "red" },
+    { token: "red" },
     // { token: "red" },
     // { token: "red" },
     { token: null },
@@ -198,8 +198,8 @@ for (let i = 0; i < board.length; i++) {
       break;
     }
 
-    let length = board.length - 1;
-    return length === i && board[length].length - 1 === j
+    let length1 = board.length - 1;
+    return length1 === i && board[length1].length - 1 === j
       ? console.log("false")
       : console.log("true");
   }
