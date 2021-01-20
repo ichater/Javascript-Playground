@@ -1,6 +1,6 @@
 const tierOne = (balance) => {
   const fee = balance * 0.004;
-  if (fee === 0) {
+  if (fee <= 0) {
     return 0;
   } else if (fee < 375) {
     return 375;
@@ -12,22 +12,18 @@ const tierOne = (balance) => {
 };
 
 const tierTwo = (balance) => {
-  const fee = (balance - 200000) * 0.0015;
-  if (fee <= 0) {
-    return 0;
-  } else if (fee >= 1 && fee < 450) {
-    return fee;
-  } else {
-    return 450;
-  }
+  const tierTwoUncapped =
+    (balance - 200000) * 0.0015 <= 0 ? 0 : (balance - 200000) * 0.0015;
+  return tierTwoUncapped > 450 ? 450 : tierTwoUncapped;
 };
 
 const tierThree = (balance) =>
   (balance - 500000) * 0.0003 <= 0 ? 0 : (balance - 500000) * 0.0003;
 
-const feeTotal = (balance) => {
-  const total = tierOne(balance) + tierTwo(balance) + tierThree(balance);
-  return total < 2400 ? total : 2400;
-};
+const feeTotalUnCapped = (balance) =>
+  tierOne(balance) + tierTwo(balance) + tierThree(balance);
 
-console.log(feeTotal(1750000));
+const feeTotalCapped = (balance) =>
+  feeTotalUnCapped(balance) < 2400 ? feeTotalUnCapped(balance) : 2400;
+
+console.log(feeTotalCapped(150000));
