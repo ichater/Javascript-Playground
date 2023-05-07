@@ -14,7 +14,8 @@ const tierOne = (balance) => {
 const tierTwo = (balance) => {
   const tierTwoUncapped =
     (balance - 200000) * 0.0015 <= 0 ? 0 : (balance - 200000) * 0.0015;
-  return tierTwoUncapped > 450 ? 450 : tierTwoUncapped;
+  const isTirerTwo = tierTwoUncapped > 450 ? 450 : tierTwoUncapped
+  return balance > 200000 ? isTirerTwo : 0
 };
 
 const tierThree = (balance) =>

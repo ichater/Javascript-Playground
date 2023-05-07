@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^26.4.2",
+    "nodemon": "^2.0.19",
     "prompt-sync": "^4.2.0"
   }
 }
