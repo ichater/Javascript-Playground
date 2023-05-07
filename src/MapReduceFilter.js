@@ -7,7 +7,7 @@ var officers = [
 
 console.log(officers.map((officer) => officer.id));
 
-var pilots = [
+const pilots = [
   {
     id: 10,
     name: "Poe Dameron",
@@ -30,29 +30,29 @@ var pilots = [
   },
 ];
 
-console.log(
-  pilots.reduce((accumulator, pilot) => accumulator + pilot.years, 0)
-);
+// console.log(
+//   pilots.reduce((accumulator, pilot) => accumulator + pilot.years, 0)
+// );
 
-console.log(
-  pilots.reduce((accumulator, pilot) => {
-    return accumulator + pilot.id;
-  }, 0)
-);
+// console.log(
+//   pilots.reduce((accumulator, pilot) => {
+//     return accumulator + pilot.id;
+//   }, 0)
+// );
 
-console.log(
-  pilots.reduce(
-    (oldest, pilot) => ((oldest.years || 0) > pilot.years ? oldest : pilot),
-    {}
-  )
-);
+// console.log(
+//   pilots.reduce(
+//     (oldest, pilot) => ((oldest.years || 0) > pilot.years ? oldest : pilot),
+//     {}
+//   )
+// );
 
-console.log(
-  pilots.reduce(
-    (youngest, pilot) => (youngest.years < pilot.years ? youngest : pilot),
-    {}
-  )
-);
+// console.log(
+//   pilots.reduce(
+//     (youngest, pilot) => (youngest.years < pilot.years ? youngest : pilot),
+//     {}
+//   )
+// );
 
 var pilots2 = [
   {
@@ -77,9 +77,9 @@ var pilots2 = [
   },
 ];
 
-console.log(pilots.filter((pilot) => pilot.faction === "Rebels"));
+// console.log(pilots2.filter((pilot) => pilot.faction === "Rebels"));
 
-console.log(pilots.filter((pilot) => pilot.faction === "Empire"));
+// console.log(pilots2.filter((pilot) => pilot.faction === "Empire"));
 
 var personnel = [
   {
@@ -119,9 +119,9 @@ var personnel = [
   },
 ];
 
-console.log(
-  personnel
-    .filter((person) => person.isForceUser)
-    .map((jedi) => jedi.pilotingScore + jedi.shootingScore)
-    .reduce((acc, score) => acc + score, 0)
-);
+// console.log(
+//   personnel
+//     .filter((person) => person.isForceUser)
+//     .map((jedi) => jedi.pilotingScore + jedi.shootingScore)
+//     .reduce((acc, score) => acc + score, 0)
+// );
