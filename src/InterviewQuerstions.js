@@ -28,20 +28,23 @@
 
 const longestChar = (str) => {
   const strArr = str.split("");
-  const repearArr = [];
-  let repString = "";
-  for (let i = 0; i < strArr.length; i++) {
-    if (i === strArr.length - 1) {
-      repearArr.push(repString);
+  const repeatWordArr = [];
+
+  strArr.reduce((acc, cur, index) => {
+    if (index === strArr.length - 1) {
+      repeatWordArr.push([...acc, cur]);
     }
-    if (!repString.includes(strArr[i])) {
-      repString += strArr[i];
+    if (!acc.includes(cur)) {
+      return [...acc, cur];
     } else {
-      repearArr.push(repString);
-      repString = "";
+      repeatWordArr.push(acc);
+      return "";
     }
-  }
-  return repearArr.reduce((acc, cur) => (cur.length > acc.length ? cur : acc));
+  });
+
+  return repeatWordArr
+    .reduce((acc, cur) => (cur.length > acc.length ? cur : acc))
+    .join("");
 };
 
 console.log(longestChar("abcddddefghijk"));
@@ -49,3 +52,5 @@ console.log(longestChar("abcddddefghijk"));
 console.log(longestChar("abcddddefghi"));
 
 console.log(longestChar("abcddddefghhiiiiijklmnopqqqqrstuvwx"));
+
+console.log(typeof [1, 2, 3]);

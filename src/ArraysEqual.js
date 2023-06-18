@@ -1,16 +1,32 @@
-const arr1 = [1, 2, 1, 3, 4];
-const arr2 = [1, 2, 2, 3];
+function selectionSort(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    let minIndex = i;
 
-const sortByNumbers = (a, b) => a - b;
+    for (let j = minIndex; j < arr.length; j++) {
+      if (arr[j] < arr[minIndex]) {
+        minIndex = j;
+      }
+    }
 
-const checkArrays = (arr1, arr2) =>
-  arr1.length !== arr2.length
-    ? false
-    : arr1.sort(sortByNumbers).toString() ===
-      arr2.sort(sortByNumbers).toString();
+    [([arr[i], arr[minIndex]] = [arr[minIndex], arr[i]])];
+  }
 
-console.log(arr1, arr2);
+  return arr;
+}
 
-console.log(checkArrays(arr1, arr2));
+console.log("working");
 
-console.log(arr1, arr2);
+function selectionSortAlso(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    
+  }
+
+  return arr;
+}
+
+
+
+selectionSort([5, 7, 2, 1, 3, 9, 86]);
+console.log(selectionSort([5, 7, 2, 1, 3, 68, 9, 86]));
+
+console.log(selectionSort([5, 4, 3, 2, 1]));

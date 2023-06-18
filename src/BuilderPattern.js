@@ -38,7 +38,6 @@ class UserBuilder {
     return this.user;
   }
 }
-
 // Builder class methods allow you to chain in different additions to your class below.
 let bob = new UserBuilder("Bob")
   .setAge(19)
@@ -63,3 +62,54 @@ let Maggie = new UserBuilderJavascript("maggie", {
 });
 
 console.log(Maggie);
+
+class NewUserBuilder {
+  constructor(username) {
+    this.user = new NewUser(username);
+  }
+
+  setFirstName(firstName) {
+    this.user.first_name = firstName;
+    return this;
+  }
+
+  build() {
+    return this.user;
+  }
+}
+
+class NewUser {
+  constructor(
+    username = "Ledwards",
+    id = 12235135,
+    first_name = "Leon",
+    last_name = "Edwards",
+    email = "Ledwards@Nottingham.uk",
+    city = "Nottingham",
+    password = "23ssdag1245ger24",
+    phone = "042607708",
+    belt = "BLACK",
+    about = "",
+    created_at = new Date(),
+    updated_at = new Date()
+  ) {
+    this.id = id;
+    this.first_name = first_name;
+    this.last_name = last_name;
+    this.username = username;
+    this.email = email;
+    this.city = city;
+    this.password = password;
+    this.phone = phone;
+    this.belt = belt;
+    this.about = about;
+    this.created_at = created_at;
+    this.updated_at = updated_at;
+  }
+}
+
+const leonEdwards = new NewUserBuilder("endnow").setFirstName("izaak").build();
+
+console.log(leonEdwards);
+
+const newUser = new NewUser();
