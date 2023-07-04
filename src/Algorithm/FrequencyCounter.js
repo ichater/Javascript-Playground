@@ -103,17 +103,17 @@
 
 // console.log(validAnagramColt("raacc", "caarr"));
 
-function areThereDuplicates(arr) {
-  let lookup = {};
-  for (let i = 0; i < arr.length; i++) {
-    let key = arr[i];
-    lookup[key] = lookup[key] === 1 ? (lookup[key] += 1) : 1;
-    if (lookup[key] > 1) {
-      return true;
-    }
-  }
-  console.log(lookup);
-  return false;
-}
+// function areThereDuplicates(arr) {
+//   let lookup = {};
+//   for (let i = 0; i < arr.length; i++) {
+//     let key = arr[i];
+//     lookup[key] = lookup[key] === 1 ? (lookup[key] += 1) : 1;
+//     if (lookup[key] > 1) {
+//       return true;
+//     }
+//   }
+//   console.log(lookup);
+//   return false;
+// }
 
-console.log(areThereDuplicates([1, 2, 3]));
+// console.log(areThereDuplicates([1, 2, 3]));
