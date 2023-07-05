@@ -5,29 +5,29 @@ var fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 const ManagedFundSMA = require("./ManagedFundAndSMA");
 
-const ManagedFundSMACat = ManagedFundSMA.map((inv) => inv.apir);
-const ManagedFundSMACatSet = new Set(ManagedFundSMACat);
+// const ManagedFundSMACat = ManagedFundSMA.map((inv) => inv.apir);
+// const ManagedFundSMACatSet = new Set(ManagedFundSMACat);
 
-function areThereDuplicates(arr) {
-  let lookup = {};
-  for (let i = 0; i < arr.length; i++) {
-    let key = arr[i];
-    lookup[key] = lookup[key] === 1 ? (lookup[key] += 1) : 1;
-  }
-  const filteredObj = () => {
-    const newObj = {};
-    for ([key, value] of Object.entries(lookup)) {
-      if (value > 1) {
-        newObj[key] = value;
-      }
-    }
-    return newObj;
-  };
+// function areThereDuplicates(arr) {
+//   let lookup = {};
+//   for (let i = 0; i < arr.length; i++) {
+//     let key = arr[i];
+//     lookup[key] = lookup[key] === 1 ? (lookup[key] += 1) : 1;
+//   }
+//   const filteredObj = () => {
+//     const newObj = {};
+//     for ([key, value] of Object.entries(lookup)) {
+//       if (value > 1) {
+//         newObj[key] = value;
+//       }
+//     }
+//     return newObj;
+//   };
 
-  return filteredObj();
-}
+//   return filteredObj();
+// }
 
-console.log(areThereDuplicates(ManagedFundSMACat));
+// console.log(areThereDuplicates(ManagedFundSMACat));
 
 const smaDataTranspiled = smaData.map((sma) => ({
   id: uuidv4(),
@@ -47,15 +47,16 @@ const MFdataTranspiled = MFs.map((fund) => ({
   category: "Managed Fund",
 }));
 
+// const data = JSON.stringify([...MFdataTranspiled, ...smaDataTranspiled]);
 const data = JSON.stringify(
-  // sharesRaw.map((data) => ({
-  //   id: uuidv4(),
-  //   asxCode: data["ASX code"].toString(),
-  //   name: data["Listed investment name"],
-  //   category: data.Category,
-  // }))
-  [...MFdataTranspiled, ...smaDataTranspiled]
+  sharesRaw.map((data) => ({
+    id: uuidv4(),
+    asxCode: data["ASX code"].toString(),
+    name: data["Listed investment name"],
+    category: data.Category,
+  }))
 );
+console.log(data);
 
 const newFile = (fileName, data) =>
   fs.writeFile(
@@ -68,4 +69,4 @@ const newFile = (fileName, data) =>
     }
   );
 
-newFile("ManagedFundAndSMA", data);
+newFile("ConvertedInvestments/TranspiledShares", data);

@@ -1,0 +1,5066 @@
+[
+  {
+    "id": "e50950c8-e4d6-4966-a877-5ff7b604d7f7",
+    "name": "MLC Wholesale Horizon 1 Bond Portfolio",
+    "apir": "MLC0669AU",
+    "nabOwned": true,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "acac7aab-1fd1-4fa6-9eba-d2a41b24ccf0",
+    "name": "MLC Wholesale Horizon 2 Income Portfolio",
+    "apir": "MLC0670AU",
+    "nabOwned": true,
+    "mer": 0.91,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a9500361-449b-4d1a-aa17-0255b2752246",
+    "name": "MLC Wholesale Horizon 3 Conservative Growth Portfolio",
+    "apir": "MLC0398AU",
+    "nabOwned": true,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3dfc8f6c-f451-4d0c-b0c3-fca9b6a209fd",
+    "name": "MLC Wholesale Horizon 4 Balanced Portfolio",
+    "apir": "MLC0260AU",
+    "nabOwned": true,
+    "mer": 1.08,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "63d98bf9-481a-4e6f-8fe6-5225ee1f85b1",
+    "name": "MLC Wholesale Horizon 5 Growth Portfolio",
+    "apir": "MLC0265AU",
+    "nabOwned": true,
+    "mer": 1.08,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e6061be4-fe6f-42ce-b4be-0182473d90be",
+    "name": "MLC Wholesale Horizon 6 Share Portfolio",
+    "apir": "MLC0397AU",
+    "nabOwned": true,
+    "mer": 1.06,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9cb15832-934b-4743-ac28-b3c8fae14055",
+    "name": "MLC Wholesale Horizon 7 Accelerated Growth Portfolio",
+    "apir": "MLC0449AU",
+    "nabOwned": true,
+    "mer": 1.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5130a34a-28eb-4d90-8cdd-a1b76214890e",
+    "name": "MLC Wholesale Index Plus Balanced Portfolio",
+    "apir": "MLC7387AU",
+    "nabOwned": true,
+    "mer": 0.4,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b1d3bbef-6928-46bd-97bf-ef01b5ca332d",
+    "name": "MLC Wholesale Index Plus Conservative Growth Portfolio",
+    "apir": "MLC7849AU",
+    "nabOwned": true,
+    "mer": 0.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d1803416-aece-488c-b520-38cf58e65f0c",
+    "name": "MLC Wholesale Index Plus Growth Portfolio",
+    "apir": "MLC9748AU",
+    "nabOwned": true,
+    "mer": 0.42,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8f0e63c6-ee47-466f-ba7e-37ab25abef86",
+    "name": "MLC Wholesale Inflation Plus � Assertive",
+    "apir": "MLC0667AU",
+    "nabOwned": true,
+    "mer": 1.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ae050f98-582e-477d-9086-724105cefdb3",
+    "name": "MLC Wholesale Inflation Plus � Conservative",
+    "apir": "MLC0921AU",
+    "nabOwned": true,
+    "mer": 0.91,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b776fb90-ded0-475c-8be3-ca0faa1bca55",
+    "name": "MLC Wholesale Inflation Plus � Moderate",
+    "apir": "MLC0920AU",
+    "nabOwned": true,
+    "mer": 1.11,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a8cd9627-4c61-4a79-858f-0003a8a0a20e",
+    "name": "MLC Wholesale Australian Share Fund",
+    "apir": "MLC0262AU",
+    "nabOwned": true,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4b677a7b-c999-4b1d-966b-195cb85ca980",
+    "name": "MLC Wholesale Australian Share Index Fund",
+    "apir": "MLC0893AU",
+    "nabOwned": true,
+    "mer": 0.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a0e82ecd-cee9-4248-bd51-96624d1fa39c",
+    "name": "MLC Wholesale Diversified Debt Fund",
+    "apir": "MLC0839AU",
+    "nabOwned": true,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f5efe3fc-5d79-441d-b8ac-a4dbe4bdf79b",
+    "name": "MLC Wholesale Global Property Fund",
+    "apir": "MLC0786AU",
+    "nabOwned": true,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fc844439-a456-451c-9669-e173bbc03579",
+    "name": "MLC Wholesale Global Share Fund",
+    "apir": "MLC0261AU",
+    "nabOwned": true,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "48fdc1a3-a7e2-4686-95f2-0601bb045534",
+    "name": "MLC Wholesale IncomeBuilder",
+    "apir": "MLC0264AU",
+    "nabOwned": true,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "029a672b-0975-4c93-9488-e76793fe99bb",
+    "name": "MLC Wholesale Platinum Global Fund",
+    "apir": "MLC0317AU",
+    "nabOwned": true,
+    "mer": 1.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "429e7638-eacb-4e54-8ceb-0a0f471233be",
+    "name": "MLC Wholesale Property Securities Fund",
+    "apir": "MLC0263AU",
+    "nabOwned": true,
+    "mer": 0.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1637c076-7805-465c-9094-d2fde1b40c85",
+    "name": "BWA Cash Management Trust - IDPS",
+    "apir": "BWA0002AU",
+    "nabOwned": false,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f922b6e3-d0bd-490a-8c22-1ca67ba75254",
+    "name": "Cash Account Series 2",
+    "apir": "-",
+    "nabOwned": true,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a6236921-53b6-41a1-9094-737e5cc1f12f",
+    "name": "Macquarie (Wholesale) Master Cash Fund",
+    "apir": "MAQ0187AU",
+    "nabOwned": false,
+    "mer": 0.51,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c91d8b74-d5b6-4d6d-af38-aaedee78f2c8",
+    "name": "UBS Cash Fund",
+    "apir": "SBC0811AU",
+    "nabOwned": false,
+    "mer": 0.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "00abc4e9-6179-4bb9-aa91-534e2e6fc98b",
+    "name": "CG Investment Bond MIF Guaranteed Cash",
+    "apir": "NFS0211AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d245dd5c-73ed-4fc8-9b05-108901e68991",
+    "name": "Macquarie Treasury Fund",
+    "apir": "MAQ0055AU",
+    "nabOwned": false,
+    "mer": 0.44,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6b940982-c1f1-49ad-a7a0-04fefea73c69",
+    "name": "Pendal Enhanced Cash Fund",
+    "apir": "WFS0377AU",
+    "nabOwned": false,
+    "mer": 0.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "23ad86e9-dc77-4c2b-858b-857af07414e6",
+    "name": "UBS Cash Plus Fund",
+    "apir": "SBC0812AU",
+    "nabOwned": false,
+    "mer": 0.3,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "541575cc-cc7d-4709-b1f6-f8f4495af46e",
+    "name": "Vanguard Cash Plus Fund",
+    "apir": "VAN0102AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0524cb5d-68f7-4245-9357-6ce9fdf95dff",
+    "name": "Aberdeen Standard Australian Fixed Income Fund",
+    "apir": "CRS0004AU",
+    "nabOwned": false,
+    "mer": 0.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a9c441d8-4f2c-41b2-9861-0274f8015ae1",
+    "name": "Altius Sustainable Bond Fund",
+    "apir": "AUS0071AU",
+    "nabOwned": false,
+    "mer": 0.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "121af12a-713f-4018-83f4-5335f7e3c880",
+    "name": "BlackRock Indexed Australian Bond Fund",
+    "apir": "BGL0105AU",
+    "nabOwned": false,
+    "mer": 0.22,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b7da9ccd-546a-4140-b6ba-e6e617f0fbdc",
+    "name": "BT Investment Funds - BT Fixed Interest",
+    "apir": "RFA0002AU",
+    "nabOwned": false,
+    "mer": 1.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "88500e48-22b0-4c39-97f0-d26f8849a9d3",
+    "name": "BT Investor Choice Funds - Westpac Australian Bond",
+    "apir": "WFS0013AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "42d6aafb-a969-4200-99c4-98015421973a",
+    "name": "CFCL Personal Super Investment Growth Bond - Fixed Interest",
+    "apir": "LGL0403AU",
+    "nabOwned": false,
+    "mer": 1.84,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c402daba-82f8-4d3f-810b-f3c83bab7e65",
+    "name": "Invesco Wholesale Senior Secured Income Fund",
+    "apir": "CNA0805AU",
+    "nabOwned": false,
+    "mer": 0.75,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9a8c790d-599c-40ac-992d-8e71edb2f770",
+    "name": "IOOF WealthBuilder Fixed Interest Fund",
+    "apir": "IOF0008AU",
+    "nabOwned": false,
+    "mer": 1.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "25296460-1e73-42fa-a2c1-f78173ad739f",
+    "name": "Janus Henderson Australian Fixed Interest Fund",
+    "apir": "IOF0046AU",
+    "nabOwned": false,
+    "mer": 0.47,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9b845817-d46f-4611-92b2-3c3ba19a1abd",
+    "name": "Janus Henderson Cash Enhanced Fund",
+    "apir": "IOF0047AU",
+    "nabOwned": false,
+    "mer": 0.41,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "22ecf2ce-9b05-4c6b-8d80-03b3bbd7e948",
+    "name": "Legg Mason Western Asset Australian Bond Trust - Class A",
+    "apir": "SSB0122AU",
+    "nabOwned": false,
+    "mer": 0.42,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6e4cdc03-1b66-4d60-bb78-a5c348df6d53",
+    "name": "Macquarie Australian Fixed Interest Fund",
+    "apir": "MAQ0061AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "62d04b32-8f0a-4ffa-88d8-4fd31b4d6d3f",
+    "name": "Macquarie Master Enhanced Fixed Interest Fund",
+    "apir": "MAQ0180AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "23128c35-429f-45e6-8005-34a259f48173",
+    "name": "Nikko AM Aust Bond fund",
+    "apir": "TYN0104AU",
+    "nabOwned": false,
+    "mer": 0.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6f987f06-66bf-42ee-95d3-23823b81e93b",
+    "name": "Pendal Fixed Interest Fund",
+    "apir": "RFA0813AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5442acb1-3773-4c60-91bb-3da118917164",
+    "name": "Pendal Sustainable Australian Fixed Interest Fund",
+    "apir": "BTA0507AU",
+    "nabOwned": false,
+    "mer": 0.4,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "80f35b89-6e83-4d93-b283-db72957cc5c2",
+    "name": "PIMCO Wholesale Australian Bond Fund",
+    "apir": "ETL0015AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "79385e3a-6d33-4fda-b22d-95db0c16e540",
+    "name": "Schroder Absolute Return Income Fund - Professional Class",
+    "apir": "SCH0024AU",
+    "nabOwned": false,
+    "mer": 0.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1accbf91-5ea7-4d4b-8cd5-cd16a4dd6571",
+    "name": "Specialist Income Fund",
+    "apir": "MMC0102AU",
+    "nabOwned": false,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "50fe24a8-a9d0-4e90-901c-e1d22be7670f",
+    "name": "UBS Australian Bond Fund",
+    "apir": "SBC0813AU",
+    "nabOwned": false,
+    "mer": 0.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fd1e02dc-6bd3-4e9d-b9b2-7a3ec51dd0c8",
+    "name": "Vanguard Australian Fixed Interest Index Fund",
+    "apir": "VAN0001AU",
+    "nabOwned": false,
+    "mer": 0.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "30819548-ad0f-4f00-89a7-f56b8d3d561b",
+    "name": "Vanguard Australian Government Bond Index Fund",
+    "apir": "VAN0025AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "977ded04-71c0-4104-8f2b-8797b287c5d6",
+    "name": "Antares Income Fund",
+    "apir": "PPL0028AU",
+    "nabOwned": true,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "138d8b38-1447-4742-80bd-99d3ee6848aa",
+    "name": "BlackRock Global Bond Index Fund",
+    "apir": "BGL0008AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "227f5c40-4534-434e-a8f1-62fbda05a9cd",
+    "name": "BlackRock Wholesale International Bond Fund",
+    "apir": "PWA0825AU",
+    "nabOwned": false,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e7bc6fa1-25b9-4bda-a15b-a095b0d49ff8",
+    "name": "Colonial First State Wholesale Global Credit Income Fund",
+    "apir": "FSF0084AU",
+    "nabOwned": false,
+    "mer": 0.63,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cbabb390-b0fa-4c04-a0a2-22bb06f55dee",
+    "name": "Dimensional Global Bond Trust",
+    "apir": "DFA0028AU",
+    "nabOwned": false,
+    "mer": 0.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bc3101f6-ff76-496a-a490-3fef6c9e33a8",
+    "name": "Franklin Templeton Global Aggregate Bond Fund",
+    "apir": "FRT0025AU",
+    "nabOwned": false,
+    "mer": 0.59,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3fb169ba-9bb1-4dcd-89a5-572923d9804c",
+    "name": "Legg Mason Brandywine Global Opportunities Fixed Income",
+    "apir": "SSB0014AU",
+    "nabOwned": false,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "40bb3442-910e-40f7-b804-512e2df219fe",
+    "name": "Macquarie True Index Global Bond Fund",
+    "apir": "MAQ0266AU",
+    "nabOwned": false,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "edeb113e-296a-4d7d-a92f-391f468d4a67",
+    "name": "Payden Global Income Opportunities Fund",
+    "apir": "GSF0008AU",
+    "nabOwned": false,
+    "mer": 0.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1ff55d55-cab1-4f51-9319-f5363a028138",
+    "name": "PIMCO ESG Global Bond Fund",
+    "apir": "PIC6396AU",
+    "nabOwned": false,
+    "mer": 0.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8a70a1e7-e95c-4369-9337-e3818e8baa94",
+    "name": "PIMCO Global Credit Fund - Wholesale Class",
+    "apir": "ETL0019AU",
+    "nabOwned": false,
+    "mer": 0.61,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ac112e27-c711-4963-8612-0e17eee89b5b",
+    "name": "PIMCO Wholesale Global Bond Fund",
+    "apir": "ETL0018AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "48b32314-6c42-4fc1-8380-5ace0542bbff",
+    "name": "UBS International Bond Fund",
+    "apir": "SBC0819AU",
+    "nabOwned": false,
+    "mer": 0.49,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8fda0333-58c9-4215-bdd5-79808d60c720",
+    "name": "Vanguard International Fixed Interest Index Fund (Hedged)",
+    "apir": "VAN0103AU",
+    "nabOwned": false,
+    "mer": 0.26,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3b9647cd-ffcd-4867-9046-49d0dbe1ad6a",
+    "name": "Aberdeen Standard Diversified Fixed Income Fund",
+    "apir": "CSA0062AU",
+    "nabOwned": false,
+    "mer": 0.59,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "abbf69ac-237f-49b6-9260-752de8dd8b5f",
+    "name": "AMP Capital Corporate Bond Fund (Class A)",
+    "apir": "AMP0557AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6f587841-d302-4103-8568-6a5ca6219e8c",
+    "name": "Dimensional Five Year Diversified Fixed Interest",
+    "apir": "DFA0108AU",
+    "nabOwned": false,
+    "mer": 0.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "09e45478-e2cb-4969-9c61-106b742fab58",
+    "name": "Dimensional Short Term Fixed Interest Trust",
+    "apir": "DFA0100AU",
+    "nabOwned": false,
+    "mer": 0.19,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a641a40e-5ae4-4068-b12b-f9354331e9b8",
+    "name": "Dimensional Two Year Diversified Fixed Interest",
+    "apir": "DFA0002AU",
+    "nabOwned": false,
+    "mer": 0.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e1b5d51f-4c38-41e6-9abd-8fd7ada21c70",
+    "name": "JPMorgan Global Strategic Bond Fund",
+    "apir": "PER0727AU",
+    "nabOwned": false,
+    "mer": 0.58,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8d1b274e-7de4-4ef4-9da5-28d7e9674353",
+    "name": "Macquarie Diversified Fixed Interest Fund",
+    "apir": "MAQ0274AU",
+    "nabOwned": false,
+    "mer": 0.63,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dc91e615-55dc-464c-9b17-e9cd76ab06fb",
+    "name": "OnePath Wholesale Diversified Fixed Interest Trust",
+    "apir": "ANZ0212AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "38bc36db-69a7-4ae2-b2cd-17b8a5dd3119",
+    "name": "PIC Wholesale 0/100 Portfolio",
+    "apir": "MLC0774AU",
+    "nabOwned": true,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "70737b1d-acec-44cc-98d9-a4fe86fbeedd",
+    "name": "PIC Wholesale Diversified Debt Fund",
+    "apir": "MLC0840AU",
+    "nabOwned": true,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "48c48e60-e6f1-4b28-bd12-522731101c30",
+    "name": "PIMCO Wholesale Diversified Fixed Interest Fund",
+    "apir": "ETL0016AU",
+    "nabOwned": false,
+    "mer": 0.51,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a1c2c149-4feb-4eee-9921-97e038701cb8",
+    "name": "PM CAPITAL Enhanced Yield Fund",
+    "apir": "PMC0103AU",
+    "nabOwned": false,
+    "mer": 0.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d9ad2ef1-0bbf-43f4-b86c-b192ca8fd4ba",
+    "name": "Schroder (Wholesale) Fixed Income Fund",
+    "apir": "SCH0028AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6a816800-be1f-444e-b14b-9181ec155063",
+    "name": "UBS Diversified Fixed Income Fund",
+    "apir": "SBC0007AU",
+    "nabOwned": false,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1bb41fcc-b03f-4a11-aad9-cfce13670454",
+    "name": "Vanguard Diversified Bond Index Fund",
+    "apir": "VAN0042AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7b312fe4-a8a2-4aa2-b436-42c9c57f6a66",
+    "name": "Vanguard Index Diversified Bond Fund",
+    "apir": "VAN0101AU",
+    "nabOwned": false,
+    "mer": 0.75,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c593fbc5-6f1a-4e6c-9440-5150b57721ec",
+    "name": "Vanguard International Credit Securities Index Fund (Hedged)",
+    "apir": "VAN0106AU",
+    "nabOwned": false,
+    "mer": 0.32,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fbecd81e-0950-4fe9-a4c7-d6c5ab3411ad",
+    "name": "Alpha Enhanced Yield Fund",
+    "apir": "ETL0093AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3a6c99d2-3673-4c13-91e4-2d7552160a71",
+    "name": "Bentham Wholesale Global Income Fund",
+    "apir": "CSA0038AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d416df84-c153-45f3-aea1-20117481b752",
+    "name": "Bentham Wholesale Syndicated Loan Fund",
+    "apir": "CSA0046AU",
+    "nabOwned": false,
+    "mer": 0.84,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4a76578a-3b7d-4571-b821-37c0305d8b1c",
+    "name": "Colonial First State Wholesale Target Return Income",
+    "apir": "FSF0694AU",
+    "nabOwned": false,
+    "mer": 0.57,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "549a26ec-ec7d-45c7-989b-f626736eea8f",
+    "name": "Franklin Templeton Multi-Sector Bond W",
+    "apir": "FRT0011AU",
+    "nabOwned": false,
+    "mer": 0.93,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "86db4de7-16ea-4cc7-8e2c-1fd0eeb9492d",
+    "name": "Janus Henderson Tactical Income Fund",
+    "apir": "IOF0145AU",
+    "nabOwned": false,
+    "mer": 0.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d4c7b637-c4e5-449b-951f-a6b6b8381a39",
+    "name": "Kapstream Wholesale Absolute Return Income Fund",
+    "apir": "HOW0052AU",
+    "nabOwned": false,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "49546136-85c1-49ea-b5bb-eadd7da25844",
+    "name": "Macquarie Income Opportunities Fund",
+    "apir": "MAQ0277AU",
+    "nabOwned": false,
+    "mer": 0.51,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cd92cf76-b922-4dc3-8410-5db05057a44d",
+    "name": "Perpetual's Wholesale Diversified Income Fund",
+    "apir": "PER0260AU",
+    "nabOwned": false,
+    "mer": 0.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "49236c4f-5835-4a96-8b50-2a0cb0d863b4",
+    "name": "PIMCO Income Fund",
+    "apir": "ETL0458AU",
+    "nabOwned": false,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "97599111-7357-48d0-98e9-8701e4275d60",
+    "name": "Principal Global Credit Opportunities Fund",
+    "apir": "PGI0001AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "36684017-cf59-426e-b9fc-e458c3dbe0b2",
+    "name": "Schroder Absolute Return Income Fund",
+    "apir": "SCH0103AU",
+    "nabOwned": false,
+    "mer": 0.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "19f43bd3-83cb-44ed-99f5-0d4d92110462",
+    "name": "T. Rowe Price Dynamic Global Bond Fund",
+    "apir": "ETL0398AU",
+    "nabOwned": false,
+    "mer": 0.46,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "29885b35-a709-416b-9e23-b64cc87a05d5",
+    "name": "UBS Income Solution Fund",
+    "apir": "UBS0003AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3558dda1-1b90-4f25-b88e-55ac03c1af79",
+    "name": "Ventura KFM Income Fund",
+    "apir": "VEN0007AU",
+    "nabOwned": false,
+    "mer": 1.86,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bfea81c5-b909-45c0-a44a-0897dc77b04b",
+    "name": "Yarra Income Plus Fund",
+    "apir": "JBW0016AU",
+    "nabOwned": false,
+    "mer": 0.68,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fa59854c-b387-487b-8e47-7fe10aec0729",
+    "name": "Challenger Guaranteed Income Fund - 4.00 cents p.a. 30 September 2022 (MV$1)",
+    "apir": "MLT0010AU",
+    "nabOwned": false,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "42c17b8c-1b47-4555-9db8-28f919516c9d",
+    "name": "Challenger Guaranteed Income Fund - 5.15 cents p.a. 30 March 2020 (MV$1)",
+    "apir": "MLT0007AU",
+    "nabOwned": false,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ba288bc3-1547-418a-8a0a-d71124836530",
+    "name": "Challenger Guaranteed Income Fund 3.40 cents 31 March 2021",
+    "apir": "MLT9335AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "69159cee-f50a-47e1-a722-cba325aae597",
+    "name": "Challenger Guaranteed Pension Fund (I) - 30 June 2021",
+    "apir": "HOW0096AU",
+    "nabOwned": false,
+    "mer": 0,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f8b0f726-de36-4758-9d3b-8337f1337a2a",
+    "name": "Aberdeen Standard Multi-Asset Income Fund",
+    "apir": "CRS0001AU",
+    "nabOwned": false,
+    "mer": 0.88,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "583547d3-f3ac-449c-81b4-bf342ea96eb5",
+    "name": "AMP Capital Income Generator",
+    "apir": "IPA0075AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "125db602-4fb1-4e8f-9318-5dc63ab075fe",
+    "name": "AMP Capital Investors Conservative Fund - Class A",
+    "apir": "AMP0443AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ff8e93e7-2291-4101-a25a-24f9597f8d50",
+    "name": "Colonial First State Wholesale Conservative Fund",
+    "apir": "FSF0033AU",
+    "nabOwned": false,
+    "mer": 0.76,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6a71e797-27f8-46a1-9541-da5ce9c610a6",
+    "name": "ING Wholesale Capital Stable Trust",
+    "apir": "MMF0114AU",
+    "nabOwned": false,
+    "mer": 0.76,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "84ac51b3-ad05-490d-80fc-58f53eba34d3",
+    "name": "ING Wholesale Super - Capital Stable",
+    "apir": "MMF0028AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3fa97693-23f2-47d3-a38b-217e56002896",
+    "name": "Macquarie Master Capital Stable Fund",
+    "apir": "MAQ0059AU",
+    "nabOwned": false,
+    "mer": 0.83,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5594754c-7ab9-4886-aa96-6706b856a387",
+    "name": "Pendal Active Conservative Fund",
+    "apir": "BTA0805AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f8057fbe-3a8a-43e3-9a03-89367cc6734a",
+    "name": "Pendal Monthly Income Plus Fund",
+    "apir": "BTA0318AU",
+    "nabOwned": false,
+    "mer": 0.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "16cfd9a4-4c11-4025-b087-cac47661bed1",
+    "name": "PIC Wholesale 30/70 Portfolio",
+    "apir": "MLC0775AU",
+    "nabOwned": true,
+    "mer": 0.91,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "76bef66c-cacf-4c5e-a717-d36338047750",
+    "name": "PIC Wholesale Index Plus Conservative Growth Portfolio",
+    "apir": "MLC5068AU",
+    "nabOwned": true,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f05432b7-bad6-4eed-8fa2-5f0845734c64",
+    "name": "PIC Wholesale Inflation Plus - Conservative Portfolio",
+    "apir": "MLC0924AU",
+    "nabOwned": true,
+    "mer": 0.77,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "22e7d580-aa6d-4023-9f3e-a43d696b2baf",
+    "name": "Pre Select Conservative Fund",
+    "apir": "NUN0001AU",
+    "nabOwned": true,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "119a5b22-eed3-4e80-9b92-ca771309e3e5",
+    "name": "Russell Conservative Fund - Class A",
+    "apir": "RIM0002AU",
+    "nabOwned": false,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "67161e49-3b15-4744-a483-dbada1202635",
+    "name": "Russell Conservative Fund - Class C",
+    "apir": "RIM0012AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3c3152ed-24d0-4eb1-926e-8d2cc9522cbc",
+    "name": "Vanguard Conservative Index Fund",
+    "apir": "VAN0109AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7173d90b-85c3-4dce-ad91-c49052e83b4b",
+    "name": "Ventura Conservative Fund",
+    "apir": "RIM0018AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2cb48f50-828b-4ac9-8de9-f13b82f58959",
+    "name": "Ventura Conservative Fund - Class A",
+    "apir": "VEN0029AU",
+    "nabOwned": false,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "64ed19cf-c986-4a05-8227-42f372dc1d03",
+    "name": "Ventura Diversified 50 Fund",
+    "apir": "RIM0019AU",
+    "nabOwned": false,
+    "mer": 1.07,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c0a0b0ee-17bb-4a35-82fb-dc60c45487fa",
+    "name": "Advance Defensive Multi-Blend Fund",
+    "apir": "ADV0022AU",
+    "nabOwned": false,
+    "mer": 1.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b8d0bfa9-71e0-4bf9-bd91-a368a19249dd",
+    "name": "Australian Ethical Balanced Trust",
+    "apir": "AUG0017AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bdbfa7a8-0f6e-4381-a829-3a0dd5e33f8c",
+    "name": "BlackRock Global Allocation Fund (Aust) - Class C",
+    "apir": "MAL0017AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8175f922-2111-497d-b59a-20ad61ee3525",
+    "name": "BlackRock Scientific Diversified Stable Fund",
+    "apir": "BAR0811AU",
+    "nabOwned": false,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bff2559a-bd19-494e-b810-b724c7bbaf56",
+    "name": "BT Classic Investment Funds - BT Balanced Returns",
+    "apir": "BTA0043AU",
+    "nabOwned": false,
+    "mer": 2.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d14d7e75-974f-48ea-b7ca-289e0abaac83",
+    "name": "BT Classic Investment Funds - BT Split Income",
+    "apir": "BTA0011AU",
+    "nabOwned": false,
+    "mer": 1.68,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "295dcc60-e964-4e03-9121-de0e88d7bc1d",
+    "name": "BT Pooled Super Trusts - BT Balanced Returns PST",
+    "apir": "BTA0004AU",
+    "nabOwned": false,
+    "mer": 1.09,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e8aff53d-02fd-4819-bc00-9c21ea3050fa",
+    "name": "CFCL Personal Super Investment Growth Bond - Stable",
+    "apir": "LGL0405AU",
+    "nabOwned": false,
+    "mer": 1.93,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "184f4a80-e6f0-4862-b076-b49e4ea6c5ef",
+    "name": "CG Investment Bond MIF Capital Secure",
+    "apir": "NFS0213AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "112a16a1-d3df-46ca-8bb4-0f8f2b01f4d5",
+    "name": "CGSuper R/O Bond MIF Capital Maintenance",
+    "apir": "NFS0412AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "293f8bb3-d788-43a2-8f23-5cf9ca782cfa",
+    "name": "CGSuper R/O Bond MIF Capital Secure",
+    "apir": "NFS0413AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "300ef941-4bb8-4b11-bf92-87607976e0a5",
+    "name": "Colonial First State Wholesale Balanced Fund",
+    "apir": "FSF0040AU",
+    "nabOwned": false,
+    "mer": 0.86,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d651e0a4-1cc1-4b09-9097-4ba8f756f6c6",
+    "name": "CPSL Investment Bond 4/90 - Capital Stable (G)",
+    "apir": "PRU0633AU",
+    "nabOwned": false,
+    "mer": 1.88,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "88daf5ed-bb50-44d9-8666-0dff363a8c6c",
+    "name": "Dimensional World Allocation 50/50 Trust",
+    "apir": "DFA0033AU",
+    "nabOwned": false,
+    "mer": 0.41,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "803d91c4-6b2b-40e9-bbc5-8607362ca297",
+    "name": "Investment Portfolio MIF Capital Stable",
+    "apir": "NFS0242AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9e03543f-dd31-48f0-b14e-31ebf99c992e",
+    "name": "Macquarie Capital Stable Fund",
+    "apir": "MAQ0049AU",
+    "nabOwned": false,
+    "mer": 0.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0e48df2f-9d77-4870-9373-76b039794932",
+    "name": "MIF Capital Stable Fund (Accum)",
+    "apir": "NFS0328AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "90e50021-57a7-4b5b-b53d-7842290067c1",
+    "name": "Perpetual's Wholesale Diversified Growth Fund",
+    "apir": "PER0114AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4b34cc16-9645-4a3d-a7c5-b6c07e0bd888",
+    "name": "PIC Wholesale 50/50 Portfolio",
+    "apir": "MLC0776AU",
+    "nabOwned": true,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c0a7e460-7b24-47c0-b4ad-dd1a05fd24d8",
+    "name": "PIC Wholesale Inflation Plus � Assertive Portfolio",
+    "apir": "MLC0782AU",
+    "nabOwned": true,
+    "mer": 1.46,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "69d9df54-2f90-4e88-a877-4e100c59105a",
+    "name": "PIC Wholesale Inflation Plus - Moderate Portfolio",
+    "apir": "MLC0923AU",
+    "nabOwned": true,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e26219d7-04dd-4850-ada2-1cd7c99caea5",
+    "name": "Pre Select Balanced Fund",
+    "apir": "NUN0002AU",
+    "nabOwned": true,
+    "mer": 0.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bea4156b-5fc7-4288-ac3b-3d2b96d3f4b2",
+    "name": "Russell Diversified 50 Fund - Class A",
+    "apir": "RIM0003AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9b793997-0d70-4835-ae98-b8ac4e4780c2",
+    "name": "Russell Diversified 50 Fund - Class C",
+    "apir": "RIM0013AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dbdff1f6-8571-46af-a39c-1c0366b9102f",
+    "name": "Schroder Real Return Fund CPI Plus 5% Fund",
+    "apir": "SCH0047AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "db33e974-30d5-44be-a744-9cc7d00e1a12",
+    "name": "Super Rollover Portfolio MIF Capital Stable",
+    "apir": "NFS0442AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cfe55001-ef43-4f1d-a8f4-85cac04ef1c9",
+    "name": "UBS Defensive Investment Fund",
+    "apir": "SBC0814AU",
+    "nabOwned": false,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a6bacf6e-b699-48f8-8507-bdc1bb212e6a",
+    "name": "Vanguard Balanced Index Fund",
+    "apir": "VAN0108AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1acdfec1-e82f-4bcc-9932-2edc8dab99c2",
+    "name": "Ventura Diversified 50 Fund - Class A",
+    "apir": "VEN0028AU",
+    "nabOwned": false,
+    "mer": 0.81,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "34663491-0459-4cbd-bf09-bc1cf8bcbb95",
+    "name": "Aberdeen Standard Multi-Asset Real Return Fund",
+    "apir": "CRS0002AU",
+    "nabOwned": false,
+    "mer": 1.22,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "afe9713a-204d-4ce5-b9f0-d719182a1a0f",
+    "name": "AMP Capital Balanced Growth Fund - Class A",
+    "apir": "AMP0441AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "19f86344-cdde-46eb-b4ea-6d8bdaabe8d9",
+    "name": "AQR Wholesale Managed Futures Fund",
+    "apir": "PER0634AU",
+    "nabOwned": false,
+    "mer": 2.06,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "117d4fbc-d875-48f8-9217-344eb2afe62a",
+    "name": "Ausbil Balanced Fund",
+    "apir": "AAP0101AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "33800a47-100f-4f0b-8adb-73208450c7ab",
+    "name": "BlackRock Global Allocation Fund (Aust) - Class D",
+    "apir": "MAL0018AU",
+    "nabOwned": false,
+    "mer": 1.17,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "85a90700-4d87-4cf4-bccd-da473fe3315b",
+    "name": "BlackRock Global Allocation Fund (Aust) - Class S",
+    "apir": "MAL0029AU",
+    "nabOwned": false,
+    "mer": 1.34,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "535827d4-4e7f-4af1-b695-e799577ca452",
+    "name": "BlackRock Wholesale Balanced Fund",
+    "apir": "PWA0822AU",
+    "nabOwned": false,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5a94d9c2-6f33-4a9a-8c69-2fa445faf38e",
+    "name": "Colonial First State Wholesale Diversified Fund",
+    "apir": "FSF0008AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "261d4db4-08b3-478a-af4e-8e7f7f1c9195",
+    "name": "Dimensional World Allocation 70/30 Trust",
+    "apir": "DFA0029AU",
+    "nabOwned": false,
+    "mer": 0.44,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "096fb422-6df2-4296-ab72-679489aa85ae",
+    "name": "Legg Mason Diversified Trust - Class A",
+    "apir": "JPM0008AU",
+    "nabOwned": false,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "66edb156-529a-43f2-b8db-949b8ec43f3b",
+    "name": "Macquarie Master Balanced Fund",
+    "apir": "MAQ0058AU",
+    "nabOwned": false,
+    "mer": 0.94,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6950aa20-ffd3-45cc-afea-59be7fc63ca9",
+    "name": "Maple-Brown Abbott Diversified Investment Trust",
+    "apir": "MPL0001AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "70fe4c30-baec-41a5-bcaf-b3c21c3e53b4",
+    "name": "Maple-Brown Abbott Pooled Superannuation Trust",
+    "apir": "MPL0801AU",
+    "nabOwned": false,
+    "mer": 0.83,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "94f8d744-60c0-4e56-a0ab-9c78e62bd7cf",
+    "name": "OnePath Tax Effective Income Fund",
+    "apir": "AJF0003AU",
+    "nabOwned": false,
+    "mer": 1.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "719798ac-29c6-46c1-bc33-dc652b364e5d",
+    "name": "OnePath Wholesale Balanced Trust",
+    "apir": "AJF0802AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3ff04261-35ed-4ef6-bd55-24f1d45fdc34",
+    "name": "OnePath Wholesale Managed Growth Trust",
+    "apir": "MMF0115AU",
+    "nabOwned": false,
+    "mer": 0.91,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c2a1e525-f15b-4d3b-acb2-6b07794189c3",
+    "name": "Pendal Active Balanced Fund",
+    "apir": "RFA0815AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f4dbf8ac-0b5b-43d6-ab3a-053c1f4b91c4",
+    "name": "Pendal Balanced Returns Fund",
+    "apir": "BTA0806AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3b198384-ab46-4e36-8e42-0aec77e95ee4",
+    "name": "Perpetual Wholesale Balanced Growth Fund",
+    "apir": "PER0063AU",
+    "nabOwned": false,
+    "mer": 1.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bb1d044c-3ebd-4082-a7dd-66ef17263bc2",
+    "name": "PIC Wholesale 70/30 Portfolio",
+    "apir": "MLC0777AU",
+    "nabOwned": true,
+    "mer": 1.07,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bf197522-0cc5-479e-8588-5537c0677af6",
+    "name": "PIC Wholesale Index Plus Balanced Portfolio",
+    "apir": "MLC4447AU",
+    "nabOwned": true,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "419a964d-0985-4388-b636-3e994fc86ebf",
+    "name": "Pre Select Growth Fund",
+    "apir": "NUN0003AU",
+    "nabOwned": true,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b2861b8e-8c37-441f-81c0-5f8cd143ba4f",
+    "name": "Russell Balanced Fund - Class C",
+    "apir": "RIM0011AU",
+    "nabOwned": false,
+    "mer": 1.07,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d1664463-3ffc-4611-bca4-8afce7378b42",
+    "name": "Schroder Real Return CPI Plus 3.5% Fund",
+    "apir": "SCH0096AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bc60bc61-8046-448b-ab49-ce8d1e3f3cf4",
+    "name": "UBS Balanced Investment Fund",
+    "apir": "SBC0815AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9b9d0430-b5ee-40ee-b444-bd0bb20d6c91",
+    "name": "UBS Tactical Beta Fund - Growth",
+    "apir": "UBS0037AU",
+    "nabOwned": false,
+    "mer": 0.47,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f5edc994-f2ee-4ec6-b581-3f6768a59a2a",
+    "name": "Vanguard Growth Index Fund",
+    "apir": "VAN0110AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fa14edf4-93be-42cc-b45e-4d38a3420886",
+    "name": "Ventura Growth 70 Fund",
+    "apir": "RIM0020AU",
+    "nabOwned": false,
+    "mer": 1.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bd37e84c-6e93-429b-b53a-40b3bfcd17a7",
+    "name": "Ventura Growth 70 Fund - Class A",
+    "apir": "VEN0027AU",
+    "nabOwned": false,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8d3a07bd-d4f2-4930-86cd-e6131e31c181",
+    "name": "Zurich Investments Managed Growth Fund",
+    "apir": "ZUR0059AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6765331e-9489-4252-9995-13e826955845",
+    "name": "Advance Balanced Multi-Blend Fund",
+    "apir": "ADV0023AU",
+    "nabOwned": false,
+    "mer": 1.93,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "88ebda83-0dbb-4e01-80e1-ca53985f58b9",
+    "name": "Australian Ethical Diversified Shares Fund",
+    "apir": "AUG0019AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9b7a8b7a-4a68-49e3-b944-91c5664fc3aa",
+    "name": "BlackRock Scientific Diversified Growth Fund",
+    "apir": "BAR0813AU",
+    "nabOwned": false,
+    "mer": 0.82,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4e4e8336-4a3a-4439-9386-6f335fa07a47",
+    "name": "BT Classic Investment Funds - BT Active Balanced",
+    "apir": "RFA0021AU",
+    "nabOwned": false,
+    "mer": 2.34,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2f5d0d60-9cbc-4530-ba70-6fe59c9390fe",
+    "name": "BT Classic Investment Funds - BT Split Growth",
+    "apir": "BTA0012AU",
+    "nabOwned": false,
+    "mer": 1.53,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f09faa2c-b7c5-450d-b129-a4f91a6c0a9a",
+    "name": "BT Institutional Diversified Balanced PST",
+    "apir": "WFS0852AU",
+    "nabOwned": false,
+    "mer": 1.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8f6b8549-7ec3-44af-89de-4ed4cb2fc2ba",
+    "name": "BT Investment Funds - BT Future Goals",
+    "apir": "BTA0044AU",
+    "nabOwned": false,
+    "mer": 2.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3a4e7d13-e6ec-4cd0-bce6-f96f55dc389c",
+    "name": "BT Pooled Super Trusts Selection - BT Active Balanced PST",
+    "apir": "RFA0823AU",
+    "nabOwned": false,
+    "mer": 1.13,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "414ab7cc-6324-41a2-b1cb-79676e438870",
+    "name": "Colonial First State Managed Investment - Diversified",
+    "apir": "FSF0022AU",
+    "nabOwned": false,
+    "mer": 1.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c21e6022-b564-4852-89da-f7a83ebfa379",
+    "name": "Colonial First State Wholesale High Growth Fund",
+    "apir": "FSF0498AU",
+    "nabOwned": false,
+    "mer": 1.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "58f07ba6-d1c3-4488-9570-f1f7d65d3748",
+    "name": "Dimensional World Equity Trust",
+    "apir": "DFA0035AU",
+    "nabOwned": false,
+    "mer": 0.47,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "edc3e7e5-991d-4b8b-a3c8-a98963cc6ea0",
+    "name": "INVESCO Wholesale Diversified Growth Fund - Class A",
+    "apir": "CNA0806AU",
+    "nabOwned": false,
+    "mer": 1.09,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f2d3a042-124c-4867-a48a-1be8d8e0549c",
+    "name": "Invesco Wholesale Diversified Growth Fund Class R",
+    "apir": "GTU0097AU",
+    "nabOwned": false,
+    "mer": 1.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6694c2b0-1b3f-4af0-897b-d4448221abeb",
+    "name": "Macquarie Balanced Growth Fund",
+    "apir": "MAQ0048AU",
+    "nabOwned": false,
+    "mer": 0.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "26272e6d-4efb-46bc-956e-87dd0909b3f5",
+    "name": "OnePath Wholesale High Growth Trust",
+    "apir": "MMF0342AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "84fbcc3b-9982-46db-9d41-38af893061af",
+    "name": "OnePath Wholesale Super - Managed Growth",
+    "apir": "MMF0027AU",
+    "nabOwned": false,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dc7a9353-0617-4c8c-b9e0-2a22b79ea104",
+    "name": "Pendal Active Growth Fund",
+    "apir": "BTA0125AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7d9247a5-6c2e-4c3b-9f42-90897e851384",
+    "name": "Perpetual Balanced Growth Fund No. 2",
+    "apir": "PER0013AU",
+    "nabOwned": false,
+    "mer": 1.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4e3f4e3a-cf9a-47af-b7ea-b4cd3d7c35b0",
+    "name": "Perpetual's Wholesale Split Growth Fund",
+    "apir": "PER0066AU",
+    "nabOwned": false,
+    "mer": 1.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "63f47e4e-733e-448f-8683-8fc269a416cf",
+    "name": "PIC Wholesale 100/0 Portfolio",
+    "apir": "MLC0779AU",
+    "nabOwned": true,
+    "mer": 1.06,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2db3cc17-f756-40c9-85b8-c35ec5f6612c",
+    "name": "PIC Wholesale 85/15 Portfolio",
+    "apir": "MLC0778AU",
+    "nabOwned": true,
+    "mer": 1.08,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0d5cb9c3-7c90-40c8-a44d-2da8ada2f0ee",
+    "name": "PIC Wholesale Index Plus Growth Portfolio",
+    "apir": "MLC8225AU",
+    "nabOwned": true,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0c80fbd4-6c5a-4b06-82ab-0735a5d90c91",
+    "name": "Pre Select High Growth Fund",
+    "apir": "NUN0004AU",
+    "nabOwned": true,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e9e6f3d7-d9c5-4310-8d34-59d0a4a56b19",
+    "name": "Russell Balanced Fund - Class A",
+    "apir": "RIM0001AU",
+    "nabOwned": false,
+    "mer": 0.87,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "601507ea-c2c7-431e-a5b5-1fe6b0cbdf84",
+    "name": "Russell Growth Fund - Class A",
+    "apir": "RIM0004AU",
+    "nabOwned": false,
+    "mer": 0.94,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d8871c4c-818a-4266-af78-4d191f8f7930",
+    "name": "Russell Growth Fund - Class C",
+    "apir": "RIM0014AU",
+    "nabOwned": false,
+    "mer": 1.15,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "08edf3a1-4543-4fff-a6e6-1dffbbd63493",
+    "name": "Russell High Growth Fund - Class C",
+    "apir": "RIM0030AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fd39e133-9cbc-4cb6-a8e3-121d4d7e6d0e",
+    "name": "Vanguard High Growth Index Fund",
+    "apir": "VAN0111AU",
+    "nabOwned": false,
+    "mer": 0.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a782aa58-9386-47c0-8da8-54b570a9a8b6",
+    "name": "Ventura High Growth 100 Fund � Class A",
+    "apir": "VEN0009AU",
+    "nabOwned": false,
+    "mer": 1.19,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "56170e2e-1318-45b7-b76d-4e71b1942a1f",
+    "name": "Zurich Wholesale Superannuation - Managed Growth",
+    "apir": "ZUR0209AU",
+    "nabOwned": false,
+    "mer": 0.66,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6c2ad541-c685-4011-a5eb-bfab360eeb09",
+    "name": "Alpha Global Opportunities Fund",
+    "apir": "ETL0094AU",
+    "nabOwned": false,
+    "mer": 1.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "da8a212a-b88c-476e-a1fc-323b70029e80",
+    "name": "Alpha Property Securities Fund",
+    "apir": "ETL0095AU",
+    "nabOwned": false,
+    "mer": 1.27,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "71dde4fb-58c5-4362-80c9-a413b22755c9",
+    "name": "AMP Capital Listed Property Trusts Fund (Class A)",
+    "apir": "AMP0255AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e2010d7d-8a02-496d-b9c8-8c230d7da0ee",
+    "name": "Antares Listed Property Fund",
+    "apir": "NFS0209AU",
+    "nabOwned": true,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "99e64b67-9b3f-4cb8-b672-49a8c6c8e8df",
+    "name": "ANZ Property Securities Trust",
+    "apir": "ANZ0030AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a192885c-79e4-4e1a-ac38-c0ce75dbca39",
+    "name": "APN AREIT Fund",
+    "apir": "APN0008AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d43c7798-5047-405c-9294-7cbd60a79dde",
+    "name": "Australian Unity Diversified Property Fund",
+    "apir": "YOC0018AU",
+    "nabOwned": false,
+    "mer": 3.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6712b3f6-aa94-4da0-8e7b-9108e952dfe3",
+    "name": "Australian Unity Property Income Fund - Wholesale",
+    "apir": "YOC0100AU",
+    "nabOwned": false,
+    "mer": 1.33,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2ae25899-d364-42ca-aabf-cd8af2f5623c",
+    "name": "BlackRock Indexed Australian Listed Property Fund",
+    "apir": "BGL0108AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "953562ef-2ab0-4d04-a891-a5cffc9bd904",
+    "name": "Colonial First State Managed Investment - Property Securities",
+    "apir": "FSF0012AU",
+    "nabOwned": false,
+    "mer": 1.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4244855b-8301-4eac-bb17-b0aa90141bd7",
+    "name": "Colonial First State Wholesale Property Securities Fund",
+    "apir": "FSF0004AU",
+    "nabOwned": false,
+    "mer": 0.81,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "37906c01-cbfe-4600-8c06-1959e90c2272",
+    "name": "EQT SG Hiscock Property Income Fund",
+    "apir": "ETL0119AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "91a5fafe-9dd0-4e0e-b1f3-225675a428d7",
+    "name": "Ironbark Paladin Property Securities Fund",
+    "apir": "PAL0002AU",
+    "nabOwned": false,
+    "mer": 0.84,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5965f0aa-2244-4f6f-bb77-eaebb1de4276",
+    "name": "Legg Mason  Martin Currie Property Securities Trust",
+    "apir": "SSB0128AU",
+    "nabOwned": false,
+    "mer": 0.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "66b0790e-a29c-4853-99b3-46edb4944608",
+    "name": "Legg Mason Martin Currie Real Income Fund",
+    "apir": "SSB0026AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "09a514f7-c7b6-48da-907b-06a145e8841c",
+    "name": "Macquarie Master Property Securities Fund",
+    "apir": "MAQ0063AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "18e661bf-d313-4290-aaa6-ea2990fb5eb6",
+    "name": "Macquarie Property Securities Fund",
+    "apir": "MAQ0054AU",
+    "nabOwned": false,
+    "mer": 0.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d8cadf33-6e0d-4ea8-951c-e7f32b7277d0",
+    "name": "Pendal Property Investment Fund",
+    "apir": "RFA0817AU",
+    "nabOwned": false,
+    "mer": 0.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a1854b66-f2f6-4059-a126-00c8ba6f7b5a",
+    "name": "Pendal Property Securities Fund",
+    "apir": "BTA0061AU",
+    "nabOwned": false,
+    "mer": 0.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a85ff998-0a4d-4098-b74a-59f931ccdd99",
+    "name": "PIC Wholesale Property Securities Fund",
+    "apir": "MLC0783AU",
+    "nabOwned": true,
+    "mer": 0.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "871258ee-28b0-4df2-97b1-d61b39593a51",
+    "name": "Resolution Capital Core Plus Property Securities Fund - Series II",
+    "apir": "IOF0044AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5a6f1615-6a31-4a22-99c2-77293731dc1f",
+    "name": "SG Hiscock Wholesale Property Securities Fund",
+    "apir": "HBC0008AU",
+    "nabOwned": false,
+    "mer": 0.86,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f283df4a-481c-4dc8-836f-422f78cc1d03",
+    "name": "Specialist Property Fund",
+    "apir": "WPC0012AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b3c3f9c3-ad11-4560-98a0-93ee0cb84f00",
+    "name": "State Street Australian Listed Property Index Trust",
+    "apir": "SST0007AU",
+    "nabOwned": false,
+    "mer": 0.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "48efb716-7f05-491d-aa44-f79d432c5600",
+    "name": "UBS Property Securities Fund",
+    "apir": "SBC0816AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f2e186ac-9789-4db2-b0ff-a19341cfd4dc",
+    "name": "Vanguard Australian Property Securities Index",
+    "apir": "VAN0004AU",
+    "nabOwned": false,
+    "mer": 0.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "87d2a00d-c430-40f9-946e-cb81fa4b57bc",
+    "name": "Vanguard Index Property Securities Fund",
+    "apir": "VAN0012AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "19a566eb-a052-4a88-a3c8-2a872e7d878c",
+    "name": "Zurich Investments Australian Property Securities Fund",
+    "apir": "ZUR0064AU",
+    "nabOwned": false,
+    "mer": 0.81,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d00f66db-900e-4610-b6ed-c98b66797a83",
+    "name": "AMP Capital Core Property Fund (Class A)",
+    "apir": "AMP1015AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "af7a3a7a-b9cf-4c45-afe9-aeb0bb0b5fe3",
+    "name": "Australian Unity Healthcare Property Trust Class A",
+    "apir": "AUS0037AU",
+    "nabOwned": false,
+    "mer": 1.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a7906f56-8749-4c3b-bb76-6f5b0c8228a7",
+    "name": "AMP Capital Wholesale Australian Property Fund",
+    "apir": "NML0001AU",
+    "nabOwned": false,
+    "mer": 1.12,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "981bff14-9905-400a-a50f-a47838af3687",
+    "name": "AMP Capital Global Property Securities Fund (Class A)",
+    "apir": "AMP0974AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3a6c87bc-8c48-4ed7-bac0-ed26ce0c572d",
+    "name": "CFS Wholesale Global Property Securites Fund",
+    "apir": "FSF0454AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "210fe6c1-8677-4d53-8a21-6e2e7d6aa8ec",
+    "name": "Dimensional Global Real Estate Trust",
+    "apir": "DFA0005AU",
+    "nabOwned": false,
+    "mer": 0.37,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5e58ba88-f391-45ee-994b-18e126ba046d",
+    "name": "EQT SGH LaSalle Global Listed Property Securities Trust",
+    "apir": "ETL0005AU",
+    "nabOwned": false,
+    "mer": 1.09,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0bc67a61-de96-4842-bbd9-c2b6e44da2bf",
+    "name": "Invesco Wholesale Global Property Sec - Hedged - A",
+    "apir": "GTU0041AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "02d2d1c4-d2be-4472-b424-7e08a34d91b1",
+    "name": "Ironbark Global (ex-Australia) Property Securities Fund",
+    "apir": "MGL0010AU",
+    "nabOwned": false,
+    "mer": 1.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c917093b-79f3-4571-85d6-0ec32ce8acbe",
+    "name": "PIC Wholesale Global Property Fund",
+    "apir": "MLC0788AU",
+    "nabOwned": true,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f11bd9aa-a1de-483f-9b26-03d2102182d6",
+    "name": "Presima Global Property Securities Concentrated Fund",
+    "apir": "PPL0026AU",
+    "nabOwned": true,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "14a7dde7-3b1e-43ed-907a-37279606004b",
+    "name": "Resolution Capital Global Property Securities Fund",
+    "apir": "WHT0015AU",
+    "nabOwned": false,
+    "mer": 1.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c58a215b-975b-4387-bfb5-20c24fcd0532",
+    "name": "Resolution Capital Global Property Securities Fund (Hedged) - Series II",
+    "apir": "IOF0081AU",
+    "nabOwned": false,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "030ea626-133d-4668-8d43-b483430d7b48",
+    "name": "UBS Clarion Global Property Securities Fund",
+    "apir": "HML0016AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "18336273-5b73-4b59-94d7-30ecf4d2d1bb",
+    "name": "Vanguard International Property Securities Index Fund",
+    "apir": "VAN0018AU",
+    "nabOwned": false,
+    "mer": 0.4,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "909c477c-5018-408b-9cb3-7bc6c06839f3",
+    "name": "Vanguard International Property Securities Index Fund (Hedged)",
+    "apir": "VAN0019AU",
+    "nabOwned": false,
+    "mer": 0.43,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f8400388-d650-43fc-86ef-026bb6b5e7dd",
+    "name": "Aberdeen Australian Equities Fund",
+    "apir": "MGL0114AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6c566e46-b832-4693-9332-c097ac62d2c0",
+    "name": "Airlie Australian Share Fund",
+    "apir": "MGE9705AU",
+    "nabOwned": false,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1261969f-466b-401e-ba4f-39581d3a344f",
+    "name": "Allan Gray Australia Stable Fund",
+    "apir": "ETL0273AU",
+    "nabOwned": false,
+    "mer": 0.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "66bdd4ce-0bdb-4f76-a0b2-c49acd6f5966",
+    "name": "Allan Gray Australian Equities Fund (Class B)",
+    "apir": "ETL0349AU",
+    "nabOwned": false,
+    "mer": 0.11,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "40e6018e-6e2d-4f50-8fb0-d154bf251c5a",
+    "name": "Allan Gray Australian Equity Fund",
+    "apir": "ETL0060AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "46fbcc6f-eabe-4c92-ade3-bd38df0c31c4",
+    "name": "AllianceBernstein Managed Volatility Equities Fund",
+    "apir": "ACM0006AU",
+    "nabOwned": false,
+    "mer": 0.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4e1f6a98-5683-4cdb-a3a4-16bf7d352d17",
+    "name": "Alpha Australian Blue Chip Fund",
+    "apir": "ETL0091AU",
+    "nabOwned": false,
+    "mer": 1.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a73da0e8-657d-48cd-bd36-d4aca6294729",
+    "name": "Alphinity Concentrated Australian Share Fund",
+    "apir": "EQI0001AU",
+    "nabOwned": false,
+    "mer": 2.46,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a96f015b-9d0c-4b19-b5a1-7b158a20976c",
+    "name": "Alphinity Wholesale Australian Equity Fund",
+    "apir": "HOW0019AU",
+    "nabOwned": false,
+    "mer": 1.12,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "80b4c614-fd15-4c8a-8335-5e5742f5709d",
+    "name": "Alphinity Wholesale Australian Share Fund",
+    "apir": "PAM0001AU",
+    "nabOwned": false,
+    "mer": 1.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7b1d5993-d69f-4ec9-b023-e29c84ac3ce5",
+    "name": "Alphinity Wholesale Concentrated Australian Share Fund",
+    "apir": "HOW0026AU",
+    "nabOwned": false,
+    "mer": 2.17,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fbefb127-99dd-4fde-beea-74a6451e4c38",
+    "name": "AMP Capital Equity Fund (Class A)",
+    "apir": "AMP0370AU",
+    "nabOwned": false,
+    "mer": 0.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e9a6f1e4-3bdb-4717-8633-7bac288f6fe0",
+    "name": "Antares Dividend Builder",
+    "apir": "PPL0002AU",
+    "nabOwned": true,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5b2cac4d-176e-4568-a155-4cce2609e1e3",
+    "name": "Antares Elite Opportunities Fund",
+    "apir": "PPL0115AU",
+    "nabOwned": true,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0a345c94-20cf-4d7b-a4ed-15606bbe4479",
+    "name": "ANZ Equity Imputation Trust",
+    "apir": "ANZ0027AU",
+    "nabOwned": false,
+    "mer": 1.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "21ef45de-8d2e-4d17-810d-ffd4846fa499",
+    "name": "Armytage Strategic Opportunities Wholesale Fund",
+    "apir": "ETL0139AU",
+    "nabOwned": false,
+    "mer": 1.31,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dbfc2ca0-7c8d-4180-970d-b645bc22912d",
+    "name": "Ausbil Australian Active Equity Fund",
+    "apir": "AAP0103AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3889e656-aefb-4767-b74f-274465c5b1f8",
+    "name": "Bennelong Concentrated Australian Equities Fund",
+    "apir": "BFL0002AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cf7c68ad-29e6-4716-8d1c-b425302995cf",
+    "name": "Bennelong ex-20 Australian Equities Fund",
+    "apir": "BFL0004AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d65d3524-3fc5-4bca-b94a-743509460ce8",
+    "name": "BlackRock Advantage Australian Equity Fund",
+    "apir": "BAR0814AU",
+    "nabOwned": false,
+    "mer": 0.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e96fc22c-b084-4c2d-baf0-94b17001b698",
+    "name": "BlackRock Australian Share Fund",
+    "apir": "PWA0014AU",
+    "nabOwned": false,
+    "mer": 1.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1bd25a87-e345-49f1-a130-65c6c8b21f4b",
+    "name": "BlackRock Australian Share Fund Plus",
+    "apir": "PWA0015AU",
+    "nabOwned": false,
+    "mer": 1.31,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "345cc23e-5c89-4b13-aae3-604d511a40c3",
+    "name": "BlackRock Concerntrated Industrial Share Fund (Class D Units)",
+    "apir": "BLK0012AU",
+    "nabOwned": false,
+    "mer": 2.84,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7212728e-eba3-4ca0-b7c2-13f2c4bccc42",
+    "name": "BlackRock Indexed Australian Equity Fund",
+    "apir": "BGL0034AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c3d78d75-2d20-48da-aea3-643b04e62661",
+    "name": "BlackRock Wholesale Australian Share Fund",
+    "apir": "PWA0823AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9412d434-3bba-411b-bc70-0efe2e79f682",
+    "name": "BT Classic Investment Funds - BT Core Australian Share",
+    "apir": "RFA0011AU",
+    "nabOwned": false,
+    "mer": 1.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4ac51efb-cca3-4c13-9fbd-af6c5144ee40",
+    "name": "BT Investment Funds - BT Australian Share",
+    "apir": "BTA0021AU",
+    "nabOwned": false,
+    "mer": 1.73,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f44600af-9e5f-4225-9ca9-e60467a11688",
+    "name": "BT Investor Choice Funds - Westpac Aust Tax Effective Share",
+    "apir": "WFS0021AU",
+    "nabOwned": false,
+    "mer": 1.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "abda1cd9-b05f-4756-b2ad-fdf01abd85f4",
+    "name": "CFS FirstChoice Investments - Integrity Australian Share - No.2",
+    "apir": "FSF0418AU",
+    "nabOwned": false,
+    "mer": 1.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "68804aa7-43bb-44ed-a9b7-b6f9107c9114",
+    "name": "Colonial First State Antares Wholesale Elite Opportunities Fund",
+    "apir": "FSF0455AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c3e1d64b-4bb0-4492-a11f-e7466eea1a08",
+    "name": "Colonial First State Managed Investment - Australian Share",
+    "apir": "FSF0014AU",
+    "nabOwned": false,
+    "mer": 1.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d086005b-2e60-4557-bd6c-367c892f7516",
+    "name": "Colonial First State Managed Investment - Imputation",
+    "apir": "FSF0013AU",
+    "nabOwned": false,
+    "mer": 1.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ce52d49e-4673-490b-9e60-5bc4eec193ea",
+    "name": "Colonial First State Wholesale Australian Share Fund",
+    "apir": "FSF0002AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4d158790-7dff-44a6-b041-4d4c657cdc79",
+    "name": "Colonial First State Wholesale Equity Income Fund",
+    "apir": "FSF0961AU",
+    "nabOwned": false,
+    "mer": 1.22,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "aafaa3a2-b3b1-43fa-ab74-e6d5fe763c2c",
+    "name": "Colonial First State Wholesale Imputation Fund",
+    "apir": "FSF0003AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "03527187-08ad-4c01-9890-b540f53ef18a",
+    "name": "Dimensional Australian Core Equity Trust",
+    "apir": "DFA0003AU",
+    "nabOwned": false,
+    "mer": 0.31,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1bc13ade-175d-4203-aefc-b28b68dafd96",
+    "name": "Dimensional Australian Large Company Trust",
+    "apir": "DFA0103AU",
+    "nabOwned": false,
+    "mer": 0.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ddc37be8-64b6-4770-af38-de6390e09526",
+    "name": "Fidelity Australian Equities Fund",
+    "apir": "FID0008AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "444cdc92-21b7-4198-8207-a5cd9827c49f",
+    "name": "FireTrail Australian High Conviction Fund  (Class A Units)",
+    "apir": "WHT3810AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "01f49b43-450a-40d8-a117-e25c15f2aaff",
+    "name": "Greencape Wholesale Broadcap Fund",
+    "apir": "HOW0034AU",
+    "nabOwned": false,
+    "mer": 1.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fc6ceba5-bd08-484e-938f-ddbe0e461667",
+    "name": "Greencape Wholesale High Conviction Fund",
+    "apir": "HOW0035AU",
+    "nabOwned": false,
+    "mer": 1.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "30b2885f-156a-4293-bbe1-a81df6dbbf18",
+    "name": "Hyperion Australian Growth Companies Fund",
+    "apir": "BNT0003AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "535bf4f9-05c0-4d2a-b698-450b4321ed96",
+    "name": "ING Blue Chip Imputation Trust",
+    "apir": "MMF0012AU",
+    "nabOwned": false,
+    "mer": 1.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6675ded7-c7ac-4d00-bd9e-ca765a6fc882",
+    "name": "INVESCO Wholesale Australian Share Fund",
+    "apir": "CNA0811AU",
+    "nabOwned": false,
+    "mer": 0.88,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1d79df22-dfbf-4ff2-b423-c318111df2fe",
+    "name": "Investors Mutual Australian Share Fund",
+    "apir": "IML0002AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "38f72426-1bf6-40ce-8a64-95430bfd502d",
+    "name": "Investors Mutual Concentrated Australian Share Fund",
+    "apir": "IML0010AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3fc82ced-cea9-409c-9626-e5c0f09e76ad",
+    "name": "Investors Mutual Equity Income Fund",
+    "apir": "IML0005AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "79897694-5ef3-4d1a-a5de-6117bc8f0dd8",
+    "name": "Investors Mutual Industrial Share Fund",
+    "apir": "IML0004AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a22dabc7-3a6f-49f6-b32e-0bb2e7e57482",
+    "name": "Ironbark Karara Australian Share Fund",
+    "apir": "PAT0001AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b40f6dc1-c771-4225-adeb-5d9b5ed2a116",
+    "name": "Lazard Select Australian Equity Fund (W Class)",
+    "apir": "LAZ0013AU",
+    "nabOwned": false,
+    "mer": 1.15,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "eb6945d1-cbd7-42f4-a5ac-658589c0567c",
+    "name": "Lazard Wholesale Select Australian Equity",
+    "apir": "FSF0079AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "74670af9-0396-48e0-91bd-8109e09843fb",
+    "name": "Legg Mason Martin Currie Equity Income Fund",
+    "apir": "SSB0043AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e29d4c3b-b752-4066-b722-033d660628d3",
+    "name": "Macquarie Australian Equities Fund",
+    "apir": "MAQ0278AU",
+    "nabOwned": false,
+    "mer": 0.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9eb85996-26ec-43ff-96e9-332af825ce88",
+    "name": "Maple-Brown Abbott Australian Share Fund",
+    "apir": "ADV0046AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bfef2562-709e-400f-a26f-43609347b03e",
+    "name": "Maple-Brown Abbott Australian Share Fund Retail",
+    "apir": "ADV0013AU",
+    "nabOwned": false,
+    "mer": 2.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2f4721b2-9668-4940-8b34-189a646713f8",
+    "name": "Maple-Brown Abbott Sharemarket Fund",
+    "apir": "ADV0012AU",
+    "nabOwned": false,
+    "mer": 2.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "26c04d74-3bbf-40ae-890a-a9de31e77ba0",
+    "name": "Merlon Australian Share Income Fund",
+    "apir": "EQI0004AU",
+    "nabOwned": false,
+    "mer": 2.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "943053b9-159c-4915-b153-35437997e4dc",
+    "name": "Merlon Wholesale Australian Share Income Fund",
+    "apir": "HBC0011AU",
+    "nabOwned": false,
+    "mer": 1.41,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "eb3209d4-715a-4805-b058-9eedd370ec94",
+    "name": "Nikko AM Australian Share Income Fund",
+    "apir": "TYN0038AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fee21617-ce58-4a45-98bc-e4787c290c9a",
+    "name": "Nikko AM Australian Share Wholesale Portfolio",
+    "apir": "TYN0028AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "125ceb8b-02d7-4197-8abe-8b1702929537",
+    "name": "OnePath Wholesale Australian Share Trust",
+    "apir": "AJF0804AU",
+    "nabOwned": false,
+    "mer": 0.91,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2a6417c4-3436-40f2-ba46-6660f65742df",
+    "name": "OnePath Wholesale Blue Chip Imputation Trust",
+    "apir": "MMF0340AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c5b8fe12-cda1-49bf-ab55-d5b44821089e",
+    "name": "Pendal Australian Equity Fund",
+    "apir": "BTA0055AU",
+    "nabOwned": false,
+    "mer": 0.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "15896962-2801-4fc9-94d7-53d7c8ff4a96",
+    "name": "Pendal Australian Share Fund",
+    "apir": "RFA0818AU",
+    "nabOwned": false,
+    "mer": 0.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4f5acabb-0eb5-4c85-8e88-b632f9d88374",
+    "name": "Pendal Focus Australian Share Fund",
+    "apir": "RFA0059AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2fb13291-5c24-4839-942e-ccf0a83f9453",
+    "name": "Pendal Imputation Fund",
+    "apir": "RFA0103AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c3f54140-547b-4e2f-bd89-afa3d2edcee2",
+    "name": "Pengana Australian Equities Fund",
+    "apir": "PCL0005AU",
+    "nabOwned": false,
+    "mer": 1.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9b516b95-8b4f-4535-a455-e48d14240ee8",
+    "name": "Perennial Value Shares Wholesale Trust",
+    "apir": "IOF0206AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "20463c7f-07e0-4070-b889-f4adeb376ecc",
+    "name": "Perpetual WealthFocus Investment Advantage - Industrial Share",
+    "apir": "PER0028AU",
+    "nabOwned": false,
+    "mer": 1.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1784c75e-7f9a-4817-b7ff-0cc1903fb775",
+    "name": "Perpetual WealthFocus Investment Funds - Perpetual Industrial Share",
+    "apir": "PER0011AU",
+    "nabOwned": false,
+    "mer": 1.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "356e91dc-6569-4fde-977f-9fb41dba883c",
+    "name": "Perpetual's Wholesale Australian Fund",
+    "apir": "PER0049AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f070b50d-7296-40ba-b70e-9f61bffafc57",
+    "name": "Perpetual's Wholesale Concentrated Equity Fund",
+    "apir": "PER0102AU",
+    "nabOwned": false,
+    "mer": 1.11,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "86bf196e-f5e2-4678-996b-e9b1742909c5",
+    "name": "Perpetual's Wholesale Industrial Fund",
+    "apir": "PER0046AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "96da3fd1-4d7a-4a9f-9254-b6218ef9a065",
+    "name": "PIC Wholesale Australian Share Fund",
+    "apir": "MLC0768AU",
+    "nabOwned": true,
+    "mer": 0.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1c8500de-b597-48fb-b4ee-ce2083e809d7",
+    "name": "PIC Wholesale Income Builder",
+    "apir": "MLC0781AU",
+    "nabOwned": true,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b0d05ab0-48dc-4a9a-a794-e283aa58e80c",
+    "name": "Plato Australian Shares Income Fund",
+    "apir": "WHT0039AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8ff31d0e-589c-4aaa-ac8c-245dff5f4c53",
+    "name": "Platypus Australian Equities Fund",
+    "apir": "AUS0030AU",
+    "nabOwned": false,
+    "mer": 2.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ae103426-4bb1-41c8-a3ac-cfac40895f4c",
+    "name": "RealIndex Wholesale Australian Share",
+    "apir": "FSF0976AU",
+    "nabOwned": false,
+    "mer": 0.46,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d8804674-07ab-46e9-85cc-4fd9ccb22aa5",
+    "name": "Russell Australian Share Fund - Class A",
+    "apir": "RIM0006AU",
+    "nabOwned": false,
+    "mer": 0.84,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0ffd7cc6-eac5-40b8-8399-0568c70dcf9f",
+    "name": "Russell Australian Share Fund - Class C",
+    "apir": "RIM0015AU",
+    "nabOwned": false,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "aa8e202a-16fb-4fd7-a96a-a84dc9784f6d",
+    "name": "Sandhurst IML Industrial Share Fund",
+    "apir": "STL0101AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "749c2ea5-e526-4ba7-8ab3-7696b4fbded1",
+    "name": "Schroder (Wholesale) Australian Equity Fund",
+    "apir": "SCH0101AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "74773798-72d4-48ac-87d6-688dcbbdbfa6",
+    "name": "Schroder Australian Equity Fund",
+    "apir": "SCH0002AU",
+    "nabOwned": false,
+    "mer": 0.62,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "63c5a3cb-1d2e-4fc9-9175-0d1605e586f6",
+    "name": "Solaris Core Australian Equity Fund",
+    "apir": "WHT0012AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7e89dc00-6d5a-4bbc-9034-041da7295f0c",
+    "name": "Solaris Core Australian Equity Fund (Performance Fee Option)",
+    "apir": "WHT0017AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "80ace652-8ccb-418b-a102-344a2b2ef545",
+    "name": "State Street Australian Equities Index Trust",
+    "apir": "SST0004AU",
+    "nabOwned": false,
+    "mer": 0.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "64b1a5b7-47bd-4c05-91dc-42cb87991177",
+    "name": "State Street Australian Equity Fund",
+    "apir": "SST0048AU",
+    "nabOwned": false,
+    "mer": 0.79,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9ec34d41-5102-460b-ad21-930ab4d921a3",
+    "name": "Super Rollover Portfolio MIF Australian Equities",
+    "apir": "NFS0433AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b5442ce0-8978-484b-b52e-47ed600b8a71",
+    "name": "T Rowe Price Australian Equity Fund",
+    "apir": "ETL0328AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "66c76ed6-33e4-4418-b219-3d77f9318440",
+    "name": "The Montgomery Fund",
+    "apir": "FHT0030AU",
+    "nabOwned": false,
+    "mer": 1.36,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "38ea2372-b3dd-45bd-87e1-5caabe1c3aed",
+    "name": "UBS Australian Share Fund",
+    "apir": "SBC0817AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "056345ac-a364-43d6-8d88-685ed61f2e10",
+    "name": "Vanguard Australian Shares High Yield Fund",
+    "apir": "VAN0104AU",
+    "nabOwned": false,
+    "mer": 0.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "52926291-df62-4586-b194-8bbdbe615d47",
+    "name": "Vanguard Australian Shares Index Fund",
+    "apir": "VAN0002AU",
+    "nabOwned": false,
+    "mer": 0.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "024cfc0d-f609-4094-9f96-9e8f979a02f5",
+    "name": "Vanguard Index Australian Shares Fund",
+    "apir": "VAN0010AU",
+    "nabOwned": false,
+    "mer": 0.75,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "da690da3-bf80-48c2-a475-a06f4e0b214f",
+    "name": "Ventura Australian Opportunities Fund",
+    "apir": "RIM0033AU",
+    "nabOwned": false,
+    "mer": 1.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "85a739fd-906f-4411-b74f-cb0b043aee7f",
+    "name": "Ventura Australian Opportunities Fund - Class A",
+    "apir": "VEN0026AU",
+    "nabOwned": false,
+    "mer": 1.93,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "295a7fa3-82cd-43e8-bcd0-38174cca94a5",
+    "name": "Ventura Australian Share Fund",
+    "apir": "RIM0021AU",
+    "nabOwned": false,
+    "mer": 1.09,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5f1a2877-9d05-46da-99ee-2f4db9912582",
+    "name": "Ventura Australian Shares Fund - Class A",
+    "apir": "VEN0030AU",
+    "nabOwned": false,
+    "mer": 0.88,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "311d4e35-f736-44e1-89bb-e8fc236b9a61",
+    "name": "Yarra Australian Equities Fund",
+    "apir": "JBW0009AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f9bf5489-62ca-4c17-ab48-3eef61cfada3",
+    "name": "Yarra Leaders Fund",
+    "apir": "JBW0011AU",
+    "nabOwned": false,
+    "mer": 1.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5503058f-9465-44e2-b163-5c5c305ff989",
+    "name": "Aberdeen Ex-20 Australian Equities Fund",
+    "apir": "CRS0003AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "428a6867-bd29-45ca-b2aa-6eb90ee761e8",
+    "name": "Aberdeen Standard Australian Small Companies Fund",
+    "apir": "CSA0131AU",
+    "nabOwned": false,
+    "mer": 1.26,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ede795d4-178b-40fc-a9c5-f003cbab3f67",
+    "name": "Alpha Australian Small Companies Fund",
+    "apir": "ETL0092AU",
+    "nabOwned": false,
+    "mer": 1.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d085777c-c746-4c38-93f6-c0d96178456f",
+    "name": "AMP Capital Small Companies Fund (Class A)",
+    "apir": "AMP0446AU",
+    "nabOwned": false,
+    "mer": 1.07,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "93d0a7b9-c023-4ad1-8fbd-0bd448530541",
+    "name": "Ausbil Australian Emerging Leaders Fund",
+    "apir": "AAP0104AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ec933d80-89ee-427d-96a7-2eb810067c9b",
+    "name": "BT Investment Funds - BT Smaller Companies",
+    "apir": "RFA0012AU",
+    "nabOwned": false,
+    "mer": 1.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0b25b13e-016e-4164-855a-d498998444da",
+    "name": "Celeste Australian Small Companies Fund",
+    "apir": "FAM0101AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "189b28d4-d8ab-457a-b728-298de66d22ec",
+    "name": "Colonial First State Managed Investment - Developing Companies",
+    "apir": "FSF0035AU",
+    "nabOwned": false,
+    "mer": 2.27,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "39414fc1-ce48-4721-a5ad-c3acbf9fad0d",
+    "name": "Colonial First State Managed Investment - Future Leaders",
+    "apir": "FSF0007AU",
+    "nabOwned": false,
+    "mer": 2.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "86c81bb5-0fe7-48bf-acf4-d1590a87f56a",
+    "name": "Dimensional Australian Small Company Trust",
+    "apir": "DFA0104AU",
+    "nabOwned": false,
+    "mer": 0.61,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2f91f927-8ae3-4ecd-ae6c-ddf7e2afc263",
+    "name": "Eley Griffiths Group Small Companies Fund",
+    "apir": "EGG0001AU",
+    "nabOwned": false,
+    "mer": 2.62,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6728c673-1a3f-4d2b-a1a2-63bc8a0c00c1",
+    "name": "Fairview Equity Partners Emerging Companies Fund",
+    "apir": "ANT0002AU",
+    "nabOwned": true,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "10188230-a329-4fe9-a435-2fc2ada8358e",
+    "name": "Fidelity Future Leaders Fund",
+    "apir": "FID0026AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cfc69b40-acd8-4d3e-be91-74ef01a7fcc3",
+    "name": "Flexible Lifetime Investments - UBS Australian Small Companies",
+    "apir": "AMP0019AU",
+    "nabOwned": false,
+    "mer": 2.15,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8ad45fa1-90e7-401f-a0d1-e94525823d38",
+    "name": "Flinders Emerging Companies Fund - Class B",
+    "apir": "ETL0449AU",
+    "nabOwned": false,
+    "mer": 1.82,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5f671736-1670-4127-98c7-f9431da88d41",
+    "name": "Ganes Value Growth Fund",
+    "apir": "WPC0004AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4a3a1d18-6fef-4302-a74d-490492c5efaa",
+    "name": "Grant Samuel Tribeca Smaller Companies Fund � Class A units",
+    "apir": "ETL0052AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ae9497ae-d7e4-450f-b842-3a201bc9eee4",
+    "name": "ING OA Inv Portfolio - ING Emerging Companies",
+    "apir": "MMF0013AU",
+    "nabOwned": false,
+    "mer": 1.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b27998dc-466f-46d2-b9da-83f05fa8c595",
+    "name": "ING Wholesale Emerging Companies Trust",
+    "apir": "MMF0112AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c3763164-0a62-4472-a258-a703bd29f508",
+    "name": "Invesco Wholesale Australian Smaller Companies Fund - Class A units",
+    "apir": "CNA0812AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c33a85d4-217c-4412-930e-030023dc3ada",
+    "name": "Investors Mutual Australian Smaller Companies Fund",
+    "apir": "IML0001AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5c293143-1e2d-4601-aacf-3cfdb800fbd7",
+    "name": "Investors Mutual Future Leaders Fund",
+    "apir": "IML0003AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2754bc6c-eeb1-4574-81cf-737c378e7bf8",
+    "name": "Ironbark Karara Australian Small Companies Fund",
+    "apir": "PAT0002AU",
+    "nabOwned": false,
+    "mer": 1.57,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "91d743d5-5319-4ed2-9f64-aa1c85f9b470",
+    "name": "Kinetic Wholesale Emerging Companies Fund",
+    "apir": "HOW0036AU",
+    "nabOwned": false,
+    "mer": 1.43,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "42211fd3-0593-47bc-8b22-cfd6b3a3cdc3",
+    "name": "Lennox Australian Small Companies Fund",
+    "apir": "HOW3590AU",
+    "nabOwned": false,
+    "mer": 1.57,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "44655d96-40bb-4531-8ab3-40a94a4087d6",
+    "name": "Macquarie Australian Small Companies Fund",
+    "apir": "MAQ0454AU",
+    "nabOwned": false,
+    "mer": 2.44,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b6f9b854-d1fd-4979-8d97-5c41570c4259",
+    "name": "NovaPort Wholesale Microcap Fund",
+    "apir": "HOW0027AU",
+    "nabOwned": false,
+    "mer": 2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b1137bd3-ad35-4898-a391-760cff27384a",
+    "name": "NovaPort Wholesale Smaller Companies Fund",
+    "apir": "HOW0016AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c883e8e3-3d36-441c-82f1-6b854b93cbc3",
+    "name": "OC Dynamic Equity Fund",
+    "apir": "OPS0001AU",
+    "nabOwned": false,
+    "mer": 4.26,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0c081578-bc20-455a-a553-2410754728d1",
+    "name": "OC Premium Small Companies Fund",
+    "apir": "OPS0002AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ef5ca6a8-d4cd-4c9f-8a15-e71bbfe4738f",
+    "name": "Pendal MidCap Fund",
+    "apir": "BTA0313AU",
+    "nabOwned": false,
+    "mer": 1.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2c7833f3-7a6f-435a-9a99-46a852ceb6d4",
+    "name": "Pendal Smaller Companies Fund",
+    "apir": "RFA0819AU",
+    "nabOwned": false,
+    "mer": 1.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0fa2e28e-60e4-4932-b636-0926f18549ce",
+    "name": "Pendal Wholesale MicroCap Opportunities Fund",
+    "apir": "RFA0061AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f46ab67a-4fa4-4422-8185-19372f3bcf03",
+    "name": "Pengana Emerging Companies Fund",
+    "apir": "PER0270AU",
+    "nabOwned": false,
+    "mer": 1.33,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7521888f-9bca-4286-ac01-1bc25e291e14",
+    "name": "Perennial Value Smaller Companies Trust",
+    "apir": "IOF0214AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "52396db0-bfdb-4ad8-b316-0dec907cbd62",
+    "name": "Perpetual WealthFocus Investment Advantage - Perpetual Smaller Comp",
+    "apir": "PER0039AU",
+    "nabOwned": false,
+    "mer": 2.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "15c23535-b438-41b6-90ea-acb6458f2a8c",
+    "name": "Perpetual's Wholesale Smaller Companies Fund",
+    "apir": "PER0048AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "54c1097b-9c0b-40ad-85a3-7b49c6c5c93b",
+    "name": "Perpetual's Wholesale Smaller Companies Fund No. 2",
+    "apir": "PER0259AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "93770488-2d9d-43a5-bc28-d006fb543067",
+    "name": "SGH ICE",
+    "apir": "ETL0062AU",
+    "nabOwned": false,
+    "mer": 1.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "56afb5ce-a622-4573-a9bd-5e1433b7d1c3",
+    "name": "Specialist Australian Small Companies Fund",
+    "apir": "WPC0005AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "daac724e-0e62-4f99-8203-55d58d6c056b",
+    "name": "Spheria Australian Microcap Fund",
+    "apir": "WHT0066AU",
+    "nabOwned": false,
+    "mer": 2.37,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d3c77330-d67f-4b45-8964-05ba65ef2211",
+    "name": "Spheria Australian Smaller Companies Fund",
+    "apir": "WHT0008AU",
+    "nabOwned": false,
+    "mer": 1.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "23876165-d9cc-4e76-a160-a7c92d3bf4db",
+    "name": "UBS Australian Small Companies Fund",
+    "apir": "UBS0004AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "69ecb338-3ffe-4164-ac12-c6c54ad10a89",
+    "name": "Yarra Emerging Leaders Fund",
+    "apir": "JBW0010AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bc5cd19c-16e9-42b1-854c-c6b21fbed52e",
+    "name": "Yarra Emerging Leaders Fund (Direct)",
+    "apir": "JBW0007AU",
+    "nabOwned": false,
+    "mer": 2.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "32e1937c-c8f3-4d93-abd6-b5108b154bc9",
+    "name": "Zurich Investments Small Companies Fund",
+    "apir": "ZUR0583AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1d4e54d7-4709-4853-9c60-c503e14e21f0",
+    "name": "Ausbil Australian Geared Equity Fund",
+    "apir": "AAP0002AU",
+    "nabOwned": false,
+    "mer": 2.48,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "61d65ddf-2b3c-4e1d-ac5b-91b68bf5906e",
+    "name": "Colonial First State Managed Investment - Geared Shares",
+    "apir": "FSF0044AU",
+    "nabOwned": false,
+    "mer": 3.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "01dbe991-2ff3-4daa-9d91-efc583a5f46e",
+    "name": "Colonial First State Wholesale Geared Share Fund",
+    "apir": "FSF0043AU",
+    "nabOwned": false,
+    "mer": 2.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "27865fdd-9fa9-42ed-816d-f34405b0d688",
+    "name": "Maple-Brown Abbott Australian Geared Equity Fund (W)",
+    "apir": "ADV0078AU",
+    "nabOwned": false,
+    "mer": 1.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ffe59887-c5ac-4e9f-a2f6-177e4c00cf55",
+    "name": "Perpetual's Wholesale Geared Australian Fund",
+    "apir": "PER0071AU",
+    "nabOwned": false,
+    "mer": 1.17,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "772b7113-193d-4ae8-bb8b-d585f18039ce",
+    "name": "Yarra Australian Real Assets Securities Fund",
+    "apir": "JBW0030AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2a03ea94-47dd-4e0d-82a7-99df8b759ee2",
+    "name": "Antares High Growth Shares Fund",
+    "apir": "PPL0106AU",
+    "nabOwned": true,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "472c84bf-fd6f-4e10-8360-0c5e5b931712",
+    "name": "Ausbil 130/30 Focus Fund",
+    "apir": "AAP0008AU",
+    "nabOwned": false,
+    "mer": 1.64,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dd3d4098-f035-444a-88db-56d743804169",
+    "name": "K2 Australian Absolute Return Fund",
+    "apir": "KAM0101AU",
+    "nabOwned": false,
+    "mer": 3.32,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "82089222-59ae-4fe3-a01e-900b7c5de148",
+    "name": "Perpetual Pure Equity Alpha Fund",
+    "apir": "PER0668AU",
+    "nabOwned": false,
+    "mer": 3.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b4701847-0d3a-4eab-8047-2cc71a8e2265",
+    "name": "Perpetual Wholesale SHARE-PLUS Long-Short Fund",
+    "apir": "PER0072AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1288641c-c952-4c20-898d-5f33c916d0e9",
+    "name": "PM Capital Australian Companies Fund",
+    "apir": "PMC0101AU",
+    "nabOwned": false,
+    "mer": 1.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "012c70b8-c346-4450-a452-34bbfeaffd83",
+    "name": "Regal Long Short Australian Equity Fund",
+    "apir": "AMR0006AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cb5e9629-54f4-467b-8d57-6beef24dd895",
+    "name": "Solaris Australian Equity Long Short Fund",
+    "apir": "WHT3859AU",
+    "nabOwned": false,
+    "mer": 2.78,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "286c642c-64f3-4c30-ac5a-f93ba1e547d9",
+    "name": "Tribeca Alpha Plus Fund Class A � Grant Samuel Tribeca Alpha Plus Units",
+    "apir": "ETL0069AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c0e85f45-356c-4d52-8aa6-8bd8d1172a90",
+    "name": "WaveStone Dynamic Australian Share Fund",
+    "apir": "HOW0053AU",
+    "nabOwned": false,
+    "mer": 1.54,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7d702ed9-69e3-4f94-90ca-183a82e9822e",
+    "name": "Antares Australian Equities Fund",
+    "apir": "PPL0110AU",
+    "nabOwned": true,
+    "mer": 0.86,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8223795a-9eb9-4839-9317-41ecada256eb",
+    "name": "Dimensional Australian Value Trust",
+    "apir": "DFA0101AU",
+    "nabOwned": false,
+    "mer": 0.34,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "edee2dd9-a43f-4458-8053-6bdbb0e6fcff",
+    "name": "Redpoint Industrials Fund",
+    "apir": "ETL7683AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c7b5409e-fbad-4044-ab77-6f2b99a04aeb",
+    "name": "UBS-HALO Australian Share Fund",
+    "apir": "UBS0024AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "054e2671-a644-4a9e-a723-7e93a1a79776",
+    "name": "WaveStone Wholesale Australian Share Fund",
+    "apir": "HOW0020AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "70d3d959-4b05-44b7-b555-ca2f0bf0fdb2",
+    "name": "Alphinity Wholesale Socially Responsible Share Fund",
+    "apir": "HOW0121AU",
+    "nabOwned": false,
+    "mer": 1.19,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "475f4fb7-9e72-4da4-a3fc-2a83007e0e9a",
+    "name": "AMP Capital Sustainable Future Aust Share (Class A)",
+    "apir": "AMP0449AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7ba80943-ab07-45e8-8c5c-2c67196ea659",
+    "name": "Australian Ethical Australian Shares Fund (Wholesale)",
+    "apir": "AUG0018AU",
+    "nabOwned": false,
+    "mer": 1.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "77611f5e-4c1b-4819-ac0e-4e9a9adf2fca",
+    "name": "Legg Mason Martin Currie Ethical Values with Income Fund",
+    "apir": "SSB0064AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1717bdc4-d9a0-4340-9851-b890ce7817d2",
+    "name": "Pendal Ethical Share Fund",
+    "apir": "RFA0025AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "06b34179-ac68-4541-be1d-b88c302fd169",
+    "name": "Pengana Australian Equities Income Fund",
+    "apir": "HHA0001AU",
+    "nabOwned": false,
+    "mer": 0.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1ec62817-b683-4774-9e10-588a1f25677f",
+    "name": "Perpetual Wholesale Ethical SRI Fund",
+    "apir": "PER0116AU",
+    "nabOwned": false,
+    "mer": 1.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "84fbdee6-c35d-4ec5-97af-319de18ff9ec",
+    "name": "Aberdeen Standard Actively Hedged International Equities Fund",
+    "apir": "CRS0005AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "faeddcb1-db2d-406a-b866-f4020245fb0e",
+    "name": "Aberdeen Standard International Equity Fund",
+    "apir": "EQI0015AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b9adc705-2b1e-4a99-8f6e-3039e86b5afb",
+    "name": "Acadian Global Managed Volatility Equity Fund - Class A",
+    "apir": "FSF1240AU",
+    "nabOwned": false,
+    "mer": 0.61,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7e6fdf01-edf4-4815-a2e3-4a18350cb80e",
+    "name": "Acadian Wholesale Global Equity Fund",
+    "apir": "FSF0710AU",
+    "nabOwned": false,
+    "mer": 1.21,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0bc06f64-11c9-45f7-a1ea-4b753bafb580",
+    "name": "Advance International Shares Multi-Blend Fund",
+    "apir": "ADV0028AU",
+    "nabOwned": false,
+    "mer": 2.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fbdbfbb2-b329-4334-bb94-a05f04f8ccbb",
+    "name": "AllianceBernstein Global Equities Fund",
+    "apir": "ACM0009AU",
+    "nabOwned": false,
+    "mer": 0.85,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7fe828be-1698-4cf9-a633-a5cfb0422b8f",
+    "name": "Altrinsic Global Equities Trust",
+    "apir": "ANT0005AU",
+    "nabOwned": true,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0c1bb1c7-75a9-4e38-8b0b-7f13839a1791",
+    "name": "AMP - Wholesale Global Equity - Growth Fund",
+    "apir": "NML0318AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6b12dd3c-38ff-405a-b857-79741fb02ad5",
+    "name": "AMP Capital Wholesale Global Equity Value Fund",
+    "apir": "NML0348AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "61a407ad-80d1-46e8-90aa-12257aa940e7",
+    "name": "Arrowstreet Global Equity Fund",
+    "apir": "MAQ0464AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fcf73ab9-2465-48f9-943f-b8908892c4c1",
+    "name": "BlackRock Advantage International Equity Fund",
+    "apir": "BAR0817AU",
+    "nabOwned": false,
+    "mer": 0.89,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cc30847d-f230-4e91-8eff-1aa89032dc10",
+    "name": "BlackRock Indexed International Equity Fund",
+    "apir": "BGL0106AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "55ffb79b-ed6c-4e93-b1f9-3272c3854968",
+    "name": "BT Investment Funds - BT International",
+    "apir": "BTA0024AU",
+    "nabOwned": false,
+    "mer": 1.75,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1cff50cd-c4fa-4ec0-8bc4-faa253d1eb13",
+    "name": "C WorldWide Global Equity Trust",
+    "apir": "ARO0006AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2381977b-875a-426f-b941-886fd185b7e6",
+    "name": "Capital Group Global Equity Fund (AU)",
+    "apir": "WHT0044AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b00dd805-9c68-46be-994f-13b981b5f045",
+    "name": "Capital Group New Perspective Fund (AU)",
+    "apir": "CIM0006AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d444f656-bd6f-43f5-80b3-885ab9e93fc5",
+    "name": "Capital Group New Perspective Fund Hedged (AU)",
+    "apir": "CIM0008AU",
+    "nabOwned": false,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "586ea36f-330b-4eb7-9251-c6cd81291046",
+    "name": "Colonial First State Wholesale - CFS Global Health & Biotech",
+    "apir": "FSF0146AU",
+    "nabOwned": false,
+    "mer": 1.17,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9f9664eb-88f4-49b9-9c02-8804ad903fc0",
+    "name": "Colonial First State Wholesale Worldwide Leaders",
+    "apir": "FSF0047AU",
+    "nabOwned": false,
+    "mer": 1.16,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "efa3581a-220d-4fbf-9a8b-a2de6aeafeef",
+    "name": "Dimensional Global Core Equity Trust",
+    "apir": "DFA0004AU",
+    "nabOwned": false,
+    "mer": 0.39,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a34cbab2-2eb9-4830-90d8-f46b06a4b085",
+    "name": "Dimensional Global Large Company Trust",
+    "apir": "DFA0105AU",
+    "nabOwned": false,
+    "mer": 0.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "278c6507-1eae-4e4f-b034-d95d3955b31c",
+    "name": "Dimensional Global Value Trust",
+    "apir": "DFA0102AU",
+    "nabOwned": false,
+    "mer": 0.46,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "17e9e3db-fecc-4c28-8cb5-4bfbc6e3e4cd",
+    "name": "Ellerston Global Equity Managers Fund - B Units",
+    "apir": "ECL0007AU",
+    "nabOwned": false,
+    "mer": 5.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4a39a9f0-fb2d-43d5-8502-4d691806f649",
+    "name": "Epoch Global Equity Shareholder Yield (Unhedged) Fund",
+    "apir": "GSF0002AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "323c91a9-e88f-48d7-a14a-8847a1e2db49",
+    "name": "Fidelity Global Equities Fund",
+    "apir": "FID0007AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e3514b5f-bfc4-4661-84a3-2d0e2e1175be",
+    "name": "Franklin Global Growth Fund",
+    "apir": "FRT0009AU",
+    "nabOwned": false,
+    "mer": 1.13,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "278c1dc7-837d-415f-9949-b3b30e575d8a",
+    "name": "Generation Global Share Fund",
+    "apir": "FSF0908AU",
+    "nabOwned": false,
+    "mer": 2.48,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1d593c24-693d-4153-a355-1bfdb7094738",
+    "name": "IFP Global Franchise Fund",
+    "apir": "MAQ0404AU",
+    "nabOwned": false,
+    "mer": 1.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dae1d51b-a61b-4ffb-a1ab-a789252e7bab",
+    "name": "Intermede Global Equities Fund",
+    "apir": "PPL0036AU",
+    "nabOwned": true,
+    "mer": 1.15,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1f898800-8afe-4757-b897-a5549537bb51",
+    "name": "Invesco Wholesale Global Opportunities Fund - Unhedged",
+    "apir": "GTU0102AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4a9be2f5-e4d2-45aa-81a0-4d1935911a1f",
+    "name": "Ironbark Royal London Concentrated Global Share Fund",
+    "apir": "MGL0004AU",
+    "nabOwned": false,
+    "mer": 1.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9f199086-6b35-4d9b-a23a-c643a08a9064",
+    "name": "Loftus Peak Global Disruption Fund",
+    "apir": "MMC0110AU",
+    "nabOwned": false,
+    "mer": 2.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7dddcaf0-c27a-47de-bddc-2af71419b550",
+    "name": "Macquarie Australian Shares",
+    "apir": "MAQ0443AU",
+    "nabOwned": false,
+    "mer": 1.08,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "190f86a1-3cb6-42dd-9166-5898cbec89a2",
+    "name": "Magellan Global Fund",
+    "apir": "MGE0001AU",
+    "nabOwned": false,
+    "mer": 1.49,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bc3c0a2d-0791-4577-9fd2-f16464d7ecb2",
+    "name": "Magellan High Conviction Fund",
+    "apir": "MGE0005AU",
+    "nabOwned": false,
+    "mer": 2.67,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0d29627b-78b6-4cea-be9e-3e6297d642cf",
+    "name": "MFS Global Equity Trust",
+    "apir": "MIA0001AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9572b2f4-6533-4157-b91b-3085796500f2",
+    "name": "Orbis Global Equity Fund",
+    "apir": "ETL0463AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "24024302-eb56-4630-8977-ce3bbfae067a",
+    "name": "Packer & Co Investigator Trust",
+    "apir": "PAC0001AU",
+    "nabOwned": false,
+    "mer": 1.44,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "52fbe1ac-fe5d-496d-8c02-53c35b12a598",
+    "name": "Partners Group Global Value Fund (AUD) - Wholesale",
+    "apir": "ETL0276AU",
+    "nabOwned": false,
+    "mer": 2.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0e129c00-fbd5-4a89-8f2d-d0ee04e67baa",
+    "name": "Pendal Core Global Share Fund",
+    "apir": "RFA0821AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "378c3523-71c3-44fa-ad6c-c391d65407cf",
+    "name": "Pendal International Share Fund",
+    "apir": "BTA0056AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "893a5f2f-9deb-4071-8de0-875f99f60acf",
+    "name": "Pengana International Fund Class B",
+    "apir": "PCL0026AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e099e3d8-00c7-43c1-b562-bc883eeef3b9",
+    "name": "Perpetual Global Share Fund",
+    "apir": "PER0031AU",
+    "nabOwned": false,
+    "mer": 2.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "63764bd8-78af-4afd-b903-73fc2c1241a9",
+    "name": "Perpetual Wholesale Global Share Fund",
+    "apir": "PER0733AU",
+    "nabOwned": false,
+    "mer": 1.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "829f9cba-6f60-4bf8-a0c4-5a0cf3afd148",
+    "name": "Perpetual Wholesale International Share Fund",
+    "apir": "PER0050AU",
+    "nabOwned": false,
+    "mer": 1.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3c929ba8-88e4-4c03-824a-d4b55a810ef0",
+    "name": "PIC Wholesale Global Share Fund",
+    "apir": "MLC0771AU",
+    "nabOwned": true,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ac55fc84-211a-4ff4-81c9-035ccb31a149",
+    "name": "Platinum Unhedged Fund",
+    "apir": "PLA0006AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3fec5654-9766-437f-aea0-99eef31b9a03",
+    "name": "Plato Global Shares Income Fund - Class A Units",
+    "apir": "WHT0061AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "280c2884-2121-4ced-8f83-26aefcc1c4c2",
+    "name": "Polaris Global Equity Fund",
+    "apir": "MAQ0838AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8713abc2-3f2b-42e7-860e-0d3f38e0b9d1",
+    "name": "RealIndex Global Share Class A - Hedged",
+    "apir": "FSF0975AU",
+    "nabOwned": false,
+    "mer": 0.59,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b4901342-6f06-42dd-83f8-dadb1a7c7cc6",
+    "name": "Russell International Share Fund - Class A",
+    "apir": "RIM0008AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "690ec1dd-c959-46e8-8edd-f9118225aa5b",
+    "name": "Russell International Shares Fund - Class C",
+    "apir": "RIM0016AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0d13b3ed-e240-4c66-8f30-aaaa779a9640",
+    "name": "Schroder Global Active Value Fund",
+    "apir": "SCH0030AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "75ed0b4a-f968-46e3-8baa-ba5eda05abcb",
+    "name": "Schroder Global Blend",
+    "apir": "SCH0040AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e08bf339-22dd-4e24-999f-7d35b990fa0a",
+    "name": "Specialist Global Shares Fund",
+    "apir": "WPC0011AU",
+    "nabOwned": false,
+    "mer": 1.26,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "05e973b1-e710-4fa5-9a38-4b42af32fd36",
+    "name": "State Street International Equities Index Trust",
+    "apir": "SST0013AU",
+    "nabOwned": false,
+    "mer": 0.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "552d3220-b2ea-486a-8520-730eadabf11f",
+    "name": "T.Rowe Price Global Equity Fund",
+    "apir": "ETL0071AU",
+    "nabOwned": false,
+    "mer": 1.14,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e3580e6d-8af4-4ad4-8646-96e6422aa4c5",
+    "name": "Templeton Global Equity Fund",
+    "apir": "FRT0004AU",
+    "nabOwned": false,
+    "mer": 1.13,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e119012e-c08d-4c3e-be6c-67ae896e37eb",
+    "name": "UBS International Share Fund",
+    "apir": "SBC0822AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e70cec50-e59f-4d27-8087-19ac68896f3b",
+    "name": "Vanguard Index International Shares Fund",
+    "apir": "VAN0011AU",
+    "nabOwned": false,
+    "mer": 0.9,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f13d37a2-2822-4d2f-93a4-0bf14721a418",
+    "name": "Vanguard International Shares Index Fund",
+    "apir": "VAN0003AU",
+    "nabOwned": false,
+    "mer": 0.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "54dcd276-65ac-4ea1-9cf5-e786b78afca7",
+    "name": "Ventura International Shares Fund",
+    "apir": "RIM0022AU",
+    "nabOwned": false,
+    "mer": 1.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "96ff3fde-6071-4b59-a075-9d9a28a659b0",
+    "name": "Ventura International Shares Fund - Class A",
+    "apir": "VEN0031AU",
+    "nabOwned": false,
+    "mer": 1.09,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b87bd515-3b8e-4f18-8088-19536156e356",
+    "name": "Walter Scott Global Equity Fund",
+    "apir": "MAQ0410AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3426d503-78b5-4120-bf22-8155444fd746",
+    "name": "Zurich Investments Global Growth Share Fund",
+    "apir": "ZUR0580AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "07d19a68-b60b-433c-8f15-c7120f6f9fb2",
+    "name": "Zurich Investments Global Thematic Share Fund",
+    "apir": "ZUR0061AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "044b1224-a9eb-4e0c-b2ff-d81c099a1b96",
+    "name": "Zurich Investments Unhedged Global Growth Share Fund",
+    "apir": "ZUR0581AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4097880c-af1e-426a-aab6-b3e181ae3e4e",
+    "name": "International Equity: Smaller Companies",
+    "apir": "",
+    "nabOwned": false,
+    "mer": "",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9d8fd5c9-bc7d-4e80-ba94-7b5244031fd7",
+    "name": "Bell Global Emerging Companies Fund",
+    "apir": "BPF0029AU",
+    "nabOwned": false,
+    "mer": 1.61,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "36a917d5-c4cb-46ba-844c-7e970969044f",
+    "name": "Dimensional Global Small Company Trust",
+    "apir": "DFA0106AU",
+    "nabOwned": false,
+    "mer": 0.66,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "258b8c5f-3d01-4a40-a325-db84fe5a0bc1",
+    "name": "Lazard Global Small Cap Fund (W Class)",
+    "apir": "LAZ0012AU",
+    "nabOwned": false,
+    "mer": 1.12,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "81536219-1ba6-462f-bb35-5f89cbceb0a8",
+    "name": "Pengana Global Small Companies Fund",
+    "apir": "PCL0022AU",
+    "nabOwned": false,
+    "mer": 1.49,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ebf17c35-4894-49a4-b8e1-f87a115f3109",
+    "name": "Platinum International Healthcare Fund",
+    "apir": "PLA0005AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3c7e2638-f0de-4aa2-9e80-88ca8264ef44",
+    "name": "Term - BlackRock Global Small Cap Fund (Class D)",
+    "apir": "MAL0133AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c60e284d-d71c-4951-94c3-d465b9c2c44f",
+    "name": "Yarra Global Small Companies Fund",
+    "apir": "JBW0103AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bdebb180-d88a-4697-9650-d14d64389fdb",
+    "name": "Aberdeen Standard Fully Hedged International Equities Fund",
+    "apir": "CSA0135AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7faa698a-2b06-4ac4-ad6b-d617d9a443ae",
+    "name": "Arrowstreet Global Equity Fund (Hedged)",
+    "apir": "MAQ0079AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "332d8b6a-6742-4070-8abf-e7620c9b4fdb",
+    "name": "BlackRock Indexed Hedged International Equity Fund",
+    "apir": "BGL0044AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "be336882-b1d6-4ce7-81a4-85ee0560e938",
+    "name": "BlackRock Scientific Hedged International Equity Fund",
+    "apir": "BGL0109AU",
+    "nabOwned": false,
+    "mer": 0.94,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cdeba9cf-f17c-4ac5-8f17-bb047871bf22",
+    "name": "Candriam Sustainable Global Equity Fund",
+    "apir": "AAP0001AU",
+    "nabOwned": false,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a382f8fa-69ce-4964-85a2-5b0ffa74877a",
+    "name": "Dimensional Global Core Equity Trust AUD Hedged",
+    "apir": "DFA0009AU",
+    "nabOwned": false,
+    "mer": 0.39,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c61542d3-32a9-4868-ba22-f893d2230e63",
+    "name": "Epoch Global Equity Shareholder Yield (Hedged) Fund",
+    "apir": "GSF0001AU",
+    "nabOwned": false,
+    "mer": 1.3,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e0c6068b-4b8e-4ca6-9aa8-dbb630b55ef0",
+    "name": "Fidelity Hedged Global Equities Fund",
+    "apir": "FID0014AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5e574292-edd6-4ea1-b3c5-1c8fcfff0701",
+    "name": "IFP Global Franchise Fund Hedged",
+    "apir": "MAQ0631AU",
+    "nabOwned": false,
+    "mer": 1.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "82a270ea-18a5-490e-938e-9b6ce233e8bc",
+    "name": "Invesco Wholesale Global Opportunities Fund - Hedged - Class A",
+    "apir": "GTU0008AU",
+    "nabOwned": false,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "4d725ced-6cdc-4426-a795-b896dcbc3337",
+    "name": "Magellan Global Hedged Fund",
+    "apir": "MGE0007AU",
+    "nabOwned": false,
+    "mer": 1.48,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "34abebd3-fad0-4959-bb03-71d9dece4c15",
+    "name": "MFS Fully Hedged Global Equity Trust",
+    "apir": "ETL0041AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6242be2a-2c2a-4fc5-9585-9802b550982a",
+    "name": "Paradice Global Small MidCap Fund",
+    "apir": "ETL0365AU",
+    "nabOwned": false,
+    "mer": 1.67,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "05565860-1dc4-47ed-b05f-5d4292de7aed",
+    "name": "Perpetual Wholesale Global Share Fund (Hedged)",
+    "apir": "PER0752AU",
+    "nabOwned": false,
+    "mer": 1.53,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cf47c645-2e2c-4502-ba69-fd3dfa7f9141",
+    "name": "PIC Wholesale Hedged Global Share Fund",
+    "apir": "MLC0789AU",
+    "nabOwned": true,
+    "mer": 0.95,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "95b17ba5-4d68-4d42-bf3f-c5173b6d7c8e",
+    "name": "RealIndex Global Share Class A - Unhedged",
+    "apir": "FSF0974AU",
+    "nabOwned": false,
+    "mer": 0.58,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "77183ed8-a9a7-4742-9f7c-d510506de7b3",
+    "name": "Russell International Share Fund $A Hedged - Class A",
+    "apir": "RIM0009AU",
+    "nabOwned": false,
+    "mer": 1.08,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c14dded9-9575-45f2-a114-9d0944b98c3a",
+    "name": "Russell International Share Fund $A Hedged - Class C",
+    "apir": "RIM0017AU",
+    "nabOwned": false,
+    "mer": 1.27,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8439d1c8-c4fc-4f23-b301-ced7f6115196",
+    "name": "Schroder Global Active Value Fund (Hedged)",
+    "apir": "SCH0032AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ab9076f7-8502-4cad-b1ed-23a320fb464a",
+    "name": "Schroder Global Blend (Hedged)",
+    "apir": "SCH0051AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3b9d5fc8-cb58-43ef-b845-bd471b2178a0",
+    "name": "State Street International Equities Index (Hedged) Trust",
+    "apir": "SST0022AU",
+    "nabOwned": false,
+    "mer": 0.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "831896df-fb3a-4c59-8adf-665632c7bb22",
+    "name": "Vanguard International Shares Index Fund (Hedged)",
+    "apir": "VAN0105AU",
+    "nabOwned": false,
+    "mer": 0.21,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "44fc6341-085c-4b46-836f-fc918586b9d9",
+    "name": "Ventura Global Opportunities Fund - $A hedged � Class A",
+    "apir": "VEN0008AU",
+    "nabOwned": false,
+    "mer": 1.21,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f498a33a-497f-4268-a72d-f79a8375b260",
+    "name": "Walter Scott Global Equity Fund (Hedged)",
+    "apir": "MAQ0557AU",
+    "nabOwned": false,
+    "mer": 1.28,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "117d2a70-47b7-4485-8e62-80299d9b80b5",
+    "name": "Zurich Investments Hedged Global Thematic Share",
+    "apir": "ZUR0517AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "05b7e2ce-8058-4643-9404-52275d9f331d",
+    "name": "Zurich Investments Unhedged Global Thematic Share Fund",
+    "apir": "ZUR0518AU",
+    "nabOwned": false,
+    "mer": 0.99,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "63ecec29-2dab-4d2c-ae5e-5f08f85786a3",
+    "name": "Aberdeen Standard Asian Opportunities Fund",
+    "apir": "EQI0028AU",
+    "nabOwned": false,
+    "mer": 1.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5b79d700-a775-432f-9e52-fd8f9adbfa71",
+    "name": "Antipodes Asia Fund",
+    "apir": "IOF0203AU",
+    "nabOwned": false,
+    "mer": 1.24,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "bbccae26-6428-4dcc-ac72-dc77b97b247f",
+    "name": "BT Investment Funds - BT Asian Share",
+    "apir": "BTA0026AU",
+    "nabOwned": false,
+    "mer": 1.87,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e1631e26-2584-4eac-adad-911352b7e9cc",
+    "name": "Fidelity Asia Fund",
+    "apir": "FID0010AU",
+    "nabOwned": false,
+    "mer": 1.15,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a234f3e1-06a2-4a32-9f71-ae19a3ffd618",
+    "name": "Fidelity China Fund",
+    "apir": "FID0011AU",
+    "nabOwned": false,
+    "mer": 1.21,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "03174abe-1c3c-4d98-9c4d-bea1a20c45a6",
+    "name": "Fidelity India Fund",
+    "apir": "FID0015AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c5886116-41ba-4d3d-86a4-6876d9c76be8",
+    "name": "K2 Asian Absolute Return Fund",
+    "apir": "KAM0100AU",
+    "nabOwned": false,
+    "mer": 2.12,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "20f01d5e-1819-4c69-8011-5eacf59f6d27",
+    "name": "Macquarie Asia New Stars No.1",
+    "apir": "MAQ0640AU",
+    "nabOwned": false,
+    "mer": 1.22,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "70224e21-7d71-4737-9dc2-1650bca884e2",
+    "name": "Nikko AM New Asia Fund",
+    "apir": "TGP0006AU",
+    "nabOwned": false,
+    "mer": 1.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c33e3214-9e47-48d9-bcb0-1b76f385ec36",
+    "name": "Pendal Asian Share Fund",
+    "apir": "BTA0054AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "760dc751-7a0d-467c-a1cd-4578131c14ee",
+    "name": "Pendal Japanese Share Fund",
+    "apir": "BTA0130AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "be08625f-a00d-4cd5-9ccb-e0748fccdf9c",
+    "name": "Platinum (Wholesale) Japan Fund",
+    "apir": "PLA0003AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b3ba62d7-a49c-452f-8f2c-9594e838c385",
+    "name": "Platinum Asia Fund",
+    "apir": "PLA0004AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a6c13190-3d46-428f-a6be-159c01fca6b9",
+    "name": "Premium China Fund",
+    "apir": "MAQ0441AU",
+    "nabOwned": false,
+    "mer": 2.3,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6bd46967-e5cf-409a-bdb2-a1ce1d1b3ba9",
+    "name": "Pendal Global Emerging Markets Opportunities Fund � WS",
+    "apir": "BTA0419AU",
+    "nabOwned": false,
+    "mer": 1.4,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "acf3179d-57fa-47f2-97e5-f861233ecd4e",
+    "name": "Dimensional Emerging Markets Trust",
+    "apir": "DFA0107AU",
+    "nabOwned": false,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9e2055db-b8e1-4378-b387-a195798b5b91",
+    "name": "Aberdeen Standard Emerging Opportunities Fund",
+    "apir": "ETL0032AU",
+    "nabOwned": false,
+    "mer": 1.55,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "91c6ce4e-21a1-4c61-9b56-bdbc6013b3de",
+    "name": "Robeco Emerging Conservative Equity Fund (AUD)",
+    "apir": "ETL0381AU",
+    "nabOwned": false,
+    "mer": 0.96,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "905017b7-ee3b-4252-b05a-bdf2963381ec",
+    "name": "Arrowstreet Emerging Markets Fund",
+    "apir": "MAQ0477AU",
+    "nabOwned": false,
+    "mer": 1.48,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c212084a-f8d6-4a50-b760-9dcb5754a45c",
+    "name": "Walter Scott Emerging Markets Fund",
+    "apir": "MAQ0651AU",
+    "nabOwned": false,
+    "mer": 1.38,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a2a4d34b-bd0d-4e50-aaaa-210ba91164f8",
+    "name": "Ironbark Copper Rock Emerging Markets Opportunities Fund",
+    "apir": "MGL0019AU",
+    "nabOwned": false,
+    "mer": 1.13,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b2471fe4-13b3-4ba0-9cac-37ab9ce3b861",
+    "name": "OnePath Wholesale Global Emerging Markets Share Trust",
+    "apir": "MMF0275AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3cc0bcdc-3dbb-4336-bcd8-005c4c266de9",
+    "name": "Schroder Global Emerging Market Fund",
+    "apir": "SCH0034AU",
+    "nabOwned": false,
+    "mer": 1.4,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "227bd1c1-d183-40c3-9971-142499f4f3c2",
+    "name": "Rare Emerging Markets Fund",
+    "apir": "TGP0015AU",
+    "nabOwned": false,
+    "mer": 1.23,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "db00247a-6e4c-49b7-b3f5-040a537c74c2",
+    "name": "Vanguard Emerging Markets Shares Index Fund",
+    "apir": "VAN0005AU",
+    "nabOwned": false,
+    "mer": 0.56,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "73db51ff-3a6f-4cb4-9291-0fe0e12f2448",
+    "name": "BT Investment Funds - BT European Share",
+    "apir": "BTA0025AU",
+    "nabOwned": false,
+    "mer": 1.88,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1609f839-3f88-4d7c-8d40-de47fbd2bc9a",
+    "name": "Pendal European Share Fund",
+    "apir": "BTA0124AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6a72e68c-113e-467c-8917-5d486d608702",
+    "name": "Platinum (Wholesale) European Fund",
+    "apir": "PLA0001AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3f96b9e8-62ee-4feb-ab44-8640aa922361",
+    "name": "",
+    "apir": "",
+    "nabOwned": false,
+    "mer": "",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cbffad70-638c-45ab-9187-99a64bb2b39c",
+    "name": "Colonial First State Wholesale - CFS Geared Global Share",
+    "apir": "FSF0170AU",
+    "nabOwned": false,
+    "mer": 1.76,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0e03a4bb-c132-48eb-bf7d-36595d409904",
+    "name": "AMP Capital Core Infrastructure Fund (Class A)",
+    "apir": "AMP1179AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "2463fecc-a529-4000-9081-9188fc4a18e9",
+    "name": "Lazard Global Listed Infrastructure Fund",
+    "apir": "LAZ0014AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "367a94bf-93f4-46c2-9a18-1729bcdc63a3",
+    "name": "Macquarie International Infrastructure Securities Fund",
+    "apir": "MAQ0432AU",
+    "nabOwned": false,
+    "mer": 1.02,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "9fdc6b34-b5f9-4e25-8ea9-4fa2cbca8620",
+    "name": "Macquarie International Infrastructure Securities Fund (unhedged)",
+    "apir": "MAQ0825AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "85a2d45e-9e6b-473e-9e1e-dbe385185b06",
+    "name": "Magellan Infrastructure Fund",
+    "apir": "MGE0002AU",
+    "nabOwned": false,
+    "mer": 1.06,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cf971aab-60ae-4045-bd0b-1313b5508cf5",
+    "name": "Magellan Infrastructure Fund (Unhedged)",
+    "apir": "MGE0006AU",
+    "nabOwned": false,
+    "mer": 1.05,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fa92c64b-de6d-4ff6-afa6-eac44889f298",
+    "name": "Maple-Brown Abbott Global Listed Infrastructure Fund",
+    "apir": "MPL0006AU",
+    "nabOwned": false,
+    "mer": 0.98,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "8d8c02ed-c461-485f-a6f4-bba7eab6c381",
+    "name": "Maple-Brown Abbott Global Listed Infrastructure Fund � Hedged",
+    "apir": "MPL0008AU",
+    "nabOwned": false,
+    "mer": 1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "deb9f8a1-5fb7-484f-a4f8-f99521ea8dfd",
+    "name": "Redpoint Global Infrastructure Fund",
+    "apir": "PPL0031AU",
+    "nabOwned": true,
+    "mer": 0.7,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "ce1a03d3-ee15-4b03-ae84-23828b7698df",
+    "name": "RARE Infrastructure Value Fund - Hedged",
+    "apir": "TGP0008AU",
+    "nabOwned": false,
+    "mer": 1.03,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cc2bf936-169b-4c5f-8d06-d8f34acee5a3",
+    "name": "RARE Infrastructure Value Fund - Unhedged",
+    "apir": "TGP0034AU",
+    "nabOwned": false,
+    "mer": 0.97,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0c795e10-05e5-4b97-994b-be323cfa7779",
+    "name": "Pan Tribal Global Equity Fund",
+    "apir": "ETL0419AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "21a20928-f25b-4efb-8eb0-8681e70b47cd",
+    "name": "Pengana WHEB Sustainable Impact Fund",
+    "apir": "HHA0007AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "90831900-ad95-4213-878e-600c0300f984",
+    "name": "Baker Steel Gold Fund",
+    "apir": "SLT0006AU",
+    "nabOwned": false,
+    "mer": 1.69,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "e0d86163-fb48-46b6-b9f5-0c49de85edf7",
+    "name": "Colonial First State Managed Investment - Global Resources",
+    "apir": "FSF0041AU",
+    "nabOwned": false,
+    "mer": 2.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cdbe8cc8-72a0-4244-9295-874e38d43bc5",
+    "name": "Colonial First State Wholesale Global Resources Fund",
+    "apir": "FSF0038AU",
+    "nabOwned": false,
+    "mer": 1.18,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f96299d9-cfea-49ff-a59a-a33e61a201c2",
+    "name": "AMP Capital Responsible Investment Leaders Int Share - Class A",
+    "apir": "AMP0455AU",
+    "nabOwned": false,
+    "mer": 1.14,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "26288d7d-fbcd-4811-a759-b22dd30229c8",
+    "name": "Pengana International Fund - Ethical",
+    "apir": "HOW0002AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "d84923b2-571d-4f5d-86f1-0875812ff02e",
+    "name": "Pengana International Fund - Ethical Opportunity",
+    "apir": "HHA0002AU",
+    "nabOwned": false,
+    "mer": 1.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "0539360a-d24f-4f05-b117-788396c0c9d4",
+    "name": "Colonial First State Managed Investment - Global Tech & Comms",
+    "apir": "FSF0144AU",
+    "nabOwned": false,
+    "mer": 2.1,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b4f7a940-8c33-4804-a1e9-37dc72a4d6f0",
+    "name": "Colonial First State Wholesale - CFS Global Tech & Comms",
+    "apir": "FSF0143AU",
+    "nabOwned": false,
+    "mer": 1.19,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3011b533-acf9-4cd7-a1da-24dfb72b84f6",
+    "name": "Platinum International Technology Fund",
+    "apir": "PLA0101AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "dde9779b-7c77-4968-847d-9cf9bc70506b",
+    "name": "Antipodes Global Fund",
+    "apir": "IOF0045AU",
+    "nabOwned": false,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "5ef9b20b-ced2-44d6-8193-2745560cc5cf",
+    "name": "Ironbark LHP Global Long/Short Fund",
+    "apir": "HFL0108AU",
+    "nabOwned": false,
+    "mer": 4.43,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7880914a-d958-4a34-a3de-33e6f39c79bf",
+    "name": "K2 Select International Absolute Return Fund",
+    "apir": "ETL0046AU",
+    "nabOwned": false,
+    "mer": 2.83,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "6ffbbc2f-5b73-4b31-970b-a81bc6773366",
+    "name": "Munro Global Growth Fund",
+    "apir": "MUA0002AU",
+    "nabOwned": false,
+    "mer": 2.65,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "933ee298-8ab6-475a-a55c-e18238cfd16c",
+    "name": "Platinum (Wholesale) International Fund",
+    "apir": "PLA0002AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "28d54191-c862-4bf1-ab6f-e880b4be0d39",
+    "name": "Platinum International Brands Fund",
+    "apir": "PLA0100AU",
+    "nabOwned": false,
+    "mer": 1.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "604cb783-a08a-4938-b6b8-cfd12d06af3c",
+    "name": "PM CAPITAL Global Companies Fund",
+    "apir": "PMC0100AU",
+    "nabOwned": false,
+    "mer": 1.87,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a48f6f63-8e40-40b7-97b0-d3c140b9f9cf",
+    "name": "Aberdeen Standard Absolute Return Global Bond Strategies Fund",
+    "apir": "ETL0134AU",
+    "nabOwned": false,
+    "mer": 0.86,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "47bc1583-e523-42ce-bbd9-a9050c992b6e",
+    "name": "Aberdeen Standard Global Absolute Return Strategies Fund",
+    "apir": "ETL0130AU",
+    "nabOwned": false,
+    "mer": 1.39,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b71206b4-51a8-45c8-911a-fb1d1afdc2ae",
+    "name": "Aspect Diversified Futures Fund",
+    "apir": "FSF1086AU",
+    "nabOwned": false,
+    "mer": 2.71,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7d6db1eb-03b0-46e7-b785-ae8b38d5afcb",
+    "name": "Auscap Australian Long Short Fund",
+    "apir": "ASX8411AU",
+    "nabOwned": false,
+    "mer": 1.62,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fb97b4e9-90ca-41d1-8f9a-c9cdb22430e2",
+    "name": "Ellerston Australian Market Neutral Fund",
+    "apir": "ECL0013AU",
+    "nabOwned": false,
+    "mer": 1.75,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "917febfc-3e14-4512-b58d-926ef67aba13",
+    "name": "GMO Systematic Global Macro Trust",
+    "apir": "GMO0006AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "16ed9be8-e510-483d-b2ea-7ecbbcf1c244",
+    "name": "Hyperion Small Growth Companies Fund",
+    "apir": "BNT0101AU",
+    "nabOwned": false,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "3a1367d5-546e-433e-9f53-3515e2fbbdb4",
+    "name": "Invesco Wholesale Global Targeted Returns Fund - Class A",
+    "apir": "GTU0109AU",
+    "nabOwned": false,
+    "mer": 0.93,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "7c191986-5e3f-4a5e-a175-03268f457d98",
+    "name": "Ironbark LHP Diversified Investment Fund",
+    "apir": "HFL0104AU",
+    "nabOwned": false,
+    "mer": 4.21,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "cc06fa4b-fa4e-4dc3-9169-88a76f7b9e25",
+    "name": "JPMorgan Global Macro Opportunities Fund",
+    "apir": "PER0758AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1886b427-0ae6-49cb-8e81-cc29a531507c",
+    "name": "Legg Mason Tactical Allocation Trust - Class A",
+    "apir": "SSB0130AU",
+    "nabOwned": false,
+    "mer": 0.72,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c793a13b-c356-4494-9915-e26be25ae7ec",
+    "name": "Man Alpha AHL",
+    "apir": "MAN0002AU",
+    "nabOwned": false,
+    "mer": 1.8,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f90c61b8-04c7-4378-a6c4-ccc71ee008d2",
+    "name": "Winton Global Alpha Fund",
+    "apir": "MAQ0482AU",
+    "nabOwned": false,
+    "mer": 2.12,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "a0a083ba-f5a2-4e52-ba4d-164ea8488268",
+    "name": "Ardea Real Outcome Fund",
+    "apir": "HOW0098AU",
+    "nabOwned": false,
+    "mer": 0.5,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "65e4dd12-1df0-430a-9f92-49b0873ecc9a",
+    "name": "Ironbark Global Diversified Alternatives Fund",
+    "apir": "DEU0109AU",
+    "nabOwned": false,
+    "mer": 2.35,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "217592af-aba1-415a-b188-0ff0d56f4984",
+    "name": "PIC Wholesale 130/0 Portfolio",
+    "apir": "MLC0780AU",
+    "nabOwned": true,
+    "mer": 1.29,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "45a68b19-805e-4918-b9ea-0e7bb3ab7cef",
+    "name": "Suspended - Macquarie Global Infrastructure Trust II - A UNITS",
+    "apir": "MAQ0353AU",
+    "nabOwned": false,
+    "mer": 2.3,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "fe5d90a5-ca7f-4f51-b9a5-e88bc54df477",
+    "name": "Firetrail Absolute Return Fund (class A units)",
+    "apir": "WHT5134AU",
+    "nabOwned": false,
+    "mer": "-",
+    "category": "Managed Fund"
+  },
+  {
+    "id": "343300d3-68c4-42f8-8123-b256f6dd3dd1",
+    "name": "Watermark Market Neutral Trust",
+    "apir": "WMF0001AU",
+    "nabOwned": false,
+    "mer": 1.53,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "c53e64c2-52bd-4840-9c1e-4924a11f8a14",
+    "name": "Access Pre Select Balanced",
+    "apir": "NUN0030AU",
+    "nabOwned": true,
+    "mer": 1.25,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "aabd0579-7cfa-4f73-80fd-7844de5b9371",
+    "name": "Access Pre Select Conservative",
+    "apir": "NUN0032AU",
+    "nabOwned": true,
+    "mer": 1.2,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1dadc62c-4209-4279-8aaa-7d9f8f2886f0",
+    "name": "Access Pre Select Growth",
+    "apir": "NUN0033AU",
+    "nabOwned": true,
+    "mer": 1.3,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "f02e0179-ab58-4e10-9b2d-f136771d5388",
+    "name": "Access Pre Select High Growth",
+    "apir": "NUN0034AU",
+    "nabOwned": true,
+    "mer": 1.45,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "46d6005c-bdb4-44a1-ba37-d2917b4ed3b3",
+    "name": "APN Property for Income Fund",
+    "apir": "APN0001AU",
+    "nabOwned": false,
+    "mer": 1.04,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "1c704c43-71c4-4a3f-b550-c5db9315d86e",
+    "name": "APN Property for Income Fund No. 2",
+    "apir": "APN0004AU",
+    "nabOwned": false,
+    "mer": 1.06,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "26a38614-808d-47a6-839a-bb487e21bf82",
+    "name": "Charter Hall Direct Office Fund (Wholesale)",
+    "apir": "MAQ0448AU",
+    "nabOwned": false,
+    "mer": 0.61,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "b05fd539-c91a-4170-a20a-90972ed180f5",
+    "name": "EQT SGH Wholesale Emerging Companies Fund",
+    "apir": "ETL0118AU",
+    "nabOwned": false,
+    "mer": 1.01,
+    "category": "Managed Fund"
+  },
+  {
+    "id": "359c5b32-9ffa-4498-ac5f-b64b7f501547",
+    "name": "SMA Antares ex 20",
+    "apir": "NUN0102AU",
+    "nabOwned": true,
+    "mer": 0.75,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "2df70e8e-01d4-4e6f-93d9-b00dc48defc9",
+    "name": "SMA Ausbil Australian Concentrated Equity",
+    "apir": "NUN0055AU",
+    "nabOwned": false,
+    "mer": 0.92,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "693db439-867a-4b2e-96c5-7547228f07bc",
+    "name": "SMA Blue Chip Top 20",
+    "apir": "NUN0051AU",
+    "nabOwned": true,
+    "mer": 0.21,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "8f0a067b-3a5f-439f-8da5-54a97a552237",
+    "name": "SMA JBWere Income",
+    "apir": "JPL0001AU",
+    "nabOwned": true,
+    "mer": 0.55,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "4e147053-12b9-427a-b7c1-d2c49dc030a5",
+    "name": "SMA JBWere Listed Fixed Income",
+    "apir": "JPL0003AU",
+    "nabOwned": true,
+    "mer": 0.55,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "455ec740-49a1-46aa-8cd5-3a830b833f64",
+    "name": "SMA Henderson Australian Equity",
+    "apir": "NUN0057AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "114f8432-e385-4b1e-a0c8-890af1b637bc",
+    "name": "SMA Perennial Value Shares for Income",
+    "apir": "NUN0053AU",
+    "nabOwned": false,
+    "mer": 0.77,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "957bba71-9186-457e-aa8e-3a873b12fa3a",
+    "name": "SMA Redpoint Industrials",
+    "apir": "NUN0101AU",
+    "nabOwned": true,
+    "mer": 0.4,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "562fca7a-c222-47f8-a2bd-1214813a4821",
+    "name": "SMA BT Australian Share",
+    "apir": "NUN9250AU",
+    "nabOwned": false,
+    "mer": 0.6,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "d734f125-319d-4c0c-a47e-4a637ec29fc2",
+    "name": "SMA Perpetual Direct Equity Alpha",
+    "apir": "NUN0964AU",
+    "nabOwned": false,
+    "mer": 0.8,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "a9d4a26b-3505-47be-a2dc-fe5068a5ab92",
+    "name": "SMA Zurich Australian Listed Property",
+    "apir": "NUN1395AU",
+    "nabOwned": false,
+    "mer": 0.81,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "c01e2420-d353-45d0-b17e-449dc5ab2bc5",
+    "name": "SMA PIC Lifecycle Income Conservative",
+    "apir": "NUN6236AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "ddced6be-2c9e-4fa9-9d35-bb9275ff8ec6",
+    "name": "SMA PIC Lifecycle Income Moderate",
+    "apir": "NUN9829AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "399117dd-1e26-4b47-8724-8b5afc589172",
+    "name": "SMA PIC Lifecycle Income Assertive",
+    "apir": "NUN8576AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "8e147ec4-c8cd-480f-b06a-c376c7756ddd",
+    "name": "SMA PIC Lifecycle Growth Moderate",
+    "apir": "NUN3814AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "ac490ab3-77de-4813-b618-ffd883ddf813",
+    "name": "SMA PIC Lifecycle Growth Assertive",
+    "apir": "NUN5133AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  },
+  {
+    "id": "0f22d73c-eeea-4161-964b-284b8732d1b7",
+    "name": "SMA PIC Lifecycle Growth Aggressive",
+    "apir": "NUN2679AU",
+    "nabOwned": true,
+    "mer": 0.305,
+    "category": "Seperately Managed Account"
+  }
+]

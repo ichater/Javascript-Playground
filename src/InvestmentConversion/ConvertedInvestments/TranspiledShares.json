@@ -1,0 +1,3818 @@
+[
+  {
+    "id": "85875746-73ec-4e9a-856c-71a680dbc720",
+    "asxCode": "360",
+    "name": "LIFE360 INC.",
+    "category": "Software & Services"
+  },
+  {
+    "id": "a5b9a146-f1e7-473a-b170-b68e202217b6",
+    "asxCode": "29M",
+    "name": "29METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "11611ceb-04ca-4731-bd36-53254d6a0743",
+    "asxCode": "3PL",
+    "name": "3P LEARNING LIMITED..",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "6c4750dd-898a-431b-ae1e-8b25f3ecc288",
+    "asxCode": "5EA",
+    "name": "5E ADVANCED MATERIALS INC.",
+    "category": "Materials"
+  },
+  {
+    "id": "f83e4ebe-9d74-4662-83cc-914ee5939f7f",
+    "asxCode": "88E",
+    "name": "88 ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "6b25a50b-38a5-46eb-bb6d-40c4da9dc199",
+    "asxCode": "A11",
+    "name": "ATLANTIC LITHIUM LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "0783ea2f-3853-4daf-b989-3638a34ecadc",
+    "asxCode": "A1M",
+    "name": "AIC MINES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "edcc5f91-55be-438b-9cfb-c9b212c30d2a",
+    "asxCode": "A2M",
+    "name": "THE A2 MILK COMPANY LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "a16d20db-47b6-48b1-af8e-bd0e9e7f5bfa",
+    "asxCode": "A4N",
+    "name": "ALPHA HPA LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "9e61a9e6-f6cc-4770-90e2-3e3fffae0d98",
+    "asxCode": "AAC",
+    "name": "AUSTRALIAN AGRICULTURAL COMPANY LIMITED.",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "fc24c910-8f61-4641-8ab4-39d5c79076ab",
+    "asxCode": "ABA",
+    "name": "AUSWIDE BANK LTD",
+    "category": "Banks"
+  },
+  {
+    "id": "18c7a6a6-58f4-46bf-92e9-5db068c29b1f",
+    "asxCode": "ABB",
+    "name": "AUSSIE BROADBAND LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "fd563ae7-68b7-48de-aa55-e3c8835272c6",
+    "asxCode": "ABC",
+    "name": "ADBRI LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "da7c7436-fe3e-46a6-8733-a612e9e51b76",
+    "asxCode": "ABP",
+    "name": "ABACUS PROPERTY GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "d4096107-76be-4406-abcd-e75df73486fd",
+    "asxCode": "ACL",
+    "name": "AUSTRALIAN CLINICAL LABS LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "b0937ec9-36e9-4970-8b5d-5b3be5885003",
+    "asxCode": "AD8",
+    "name": "AUDINATE GROUP LIMITED",
+    "category": "Technology Hardware & Equipment"
+  },
+  {
+    "id": "18b3bbb5-67b6-430b-a14f-5f80fbe1cd13",
+    "asxCode": "ADH",
+    "name": "ADAIRS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "89a27c02-ab47-46ec-b652-7c2545f16222",
+    "asxCode": "ADT",
+    "name": "ADRIATIC METALS PLC",
+    "category": "Materials"
+  },
+  {
+    "id": "ae29629c-85b7-458c-9fc9-060ac355185a",
+    "asxCode": "AEF",
+    "name": "AUSTRALIAN ETHICAL INVESTMENT LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "201bbe6e-e132-41b9-8aaa-acb1fc1d1204",
+    "asxCode": "AFG",
+    "name": "AUSTRALIAN FINANCE GROUP LTD",
+    "category": "Financial Services"
+  },
+  {
+    "id": "f889cbb8-a0fa-4066-95d6-b351fabfb6a1",
+    "asxCode": "AGG",
+    "name": "ANGLOGOLD ASHANTI LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "b9107c4b-3546-4b0c-b886-74c7b93de0e9",
+    "asxCode": "AGI",
+    "name": "AINSWORTH GAME TECHNOLOGY LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "a71bd2b3-8f13-4397-95dc-fe51668d5591",
+    "asxCode": "AGL",
+    "name": "AGL ENERGY LIMITED.",
+    "category": "Utilities"
+  },
+  {
+    "id": "40394033-5489-45f1-b420-855a1f3c4a2c",
+    "asxCode": "AGY",
+    "name": "ARGOSY MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "d24a0c4a-cc3e-48fe-b132-815d971589dd",
+    "asxCode": "AIA",
+    "name": "AUCKLAND INTERNATIONAL AIRPORT LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "2cd30464-0fde-4c06-8633-726c804d684c",
+    "asxCode": "AIS",
+    "name": "AERIS RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "efd0a5de-7e98-4e88-bd8c-f4d2459dc288",
+    "asxCode": "AIZ",
+    "name": "AIR NEW ZEALAND LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "f09e3797-9003-465f-ac72-9cfaeb39da89",
+    "asxCode": "AKE",
+    "name": "ALLKEM LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "b6eadd2a-ac55-4a62-a4d0-d18ae6a2c18c",
+    "asxCode": "AKP",
+    "name": "AUDIO PIXELS HOLDINGS LIMITED",
+    "category": "Consumer Durables & Apparel"
+  },
+  {
+    "id": "2c4635ba-aba5-4459-9ff5-56b09bc47797",
+    "asxCode": "ALD",
+    "name": "AMPOL LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "6069af89-aee4-41be-b6d7-4db8b7cdb7f3",
+    "asxCode": "ALG",
+    "name": "ARDENT LEISURE GROUP LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "be4f4ada-817e-45b8-9835-fc62be67cb27",
+    "asxCode": "ALK",
+    "name": "ALKANE RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4cf939bf-bef7-4a5e-8b6a-a9d7052c93da",
+    "asxCode": "ALL",
+    "name": "ARISTOCRAT LEISURE LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "0a455b83-63c3-43bb-9377-3abc02dbb86d",
+    "asxCode": "ALQ",
+    "name": "ALS LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "d3e2cf92-8ca7-4810-bbf8-d405892fc9ae",
+    "asxCode": "ALU",
+    "name": "ALTIUM LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "b631f914-4ee2-4b5c-b422-58c28bb43e43",
+    "asxCode": "ALX",
+    "name": "ATLAS ARTERIA",
+    "category": "Transportation"
+  },
+  {
+    "id": "6c6c59dd-4acd-40de-ae7d-2cf8cff9bea1",
+    "asxCode": "AMA",
+    "name": "AMA GROUP LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "7cb7476f-5b2f-4961-87d5-181c299e2103",
+    "asxCode": "AMC",
+    "name": "AMCOR PLC",
+    "category": "Materials"
+  },
+  {
+    "id": "5a1adf43-e20d-4b49-b760-b31776544d77",
+    "asxCode": "AMI",
+    "name": "AURELIA METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "90fac51d-3cac-477e-9587-badc09444e91",
+    "asxCode": "AMP",
+    "name": "AMP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "8711c530-2029-4ce7-8707-53f7392da2a0",
+    "asxCode": "ANG",
+    "name": "AUSTIN ENGINEERING LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "c81475f1-e850-4f10-a09d-31514359531f",
+    "asxCode": "ANN",
+    "name": "ANSELL LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "44021651-cab5-48d4-b6ec-23e7db689bfe",
+    "asxCode": "ANZ",
+    "name": "ANZ GROUP HOLDINGS LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "ec963449-c040-4233-aa6e-c93986c6fe38",
+    "asxCode": "AOF",
+    "name": "AUSTRALIAN UNITY OFFICE FUND",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "414c827b-1249-4c2c-984f-64ffa2e2b70c",
+    "asxCode": "APA",
+    "name": "APA GROUP",
+    "category": "Utilities"
+  },
+  {
+    "id": "d1d713c0-2d0e-4b8f-89a1-9fcb3ae84096",
+    "asxCode": "APE",
+    "name": "EAGERS AUTOMOTIVE LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "c899c464-77c9-47d0-b680-936651aa0e7d",
+    "asxCode": "APM",
+    "name": "APM HUMAN SERVICES INTERNATIONAL LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "9be8cd9b-87dd-425c-adf4-620a9987891c",
+    "asxCode": "APX",
+    "name": "APPEN LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "03920202-0260-485f-b70d-62b0648dd610",
+    "asxCode": "APZ",
+    "name": "ASPEN GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "201ba64b-7f1f-4365-bf88-bad16fc65924",
+    "asxCode": "AQZ",
+    "name": "ALLIANCE AVIATION SERVICES LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "17e5765f-962b-42eb-a425-605895ca1b24",
+    "asxCode": "ARB",
+    "name": "ARB CORPORATION LIMITED.",
+    "category": "Automobiles & Components"
+  },
+  {
+    "id": "b9d44403-8d02-4c1c-8f08-009a9acf2ad2",
+    "asxCode": "ARF",
+    "name": "ARENA REIT.",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "9d4ae65b-67a4-4006-8ce0-c5517e56a77f",
+    "asxCode": "ARU",
+    "name": "ARAFURA RARE EARTHS LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "42c483c9-51f3-4e50-956d-263795e1ee6a",
+    "asxCode": "ARX",
+    "name": "AROA BIOSURGERY LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "a26fc89a-7610-4a0b-b67d-65eb03c7b6f4",
+    "asxCode": "ASB",
+    "name": "AUSTAL LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "0d3bacd8-4f70-4399-98e1-82af24855d8b",
+    "asxCode": "ASG",
+    "name": "AUTOSPORTS GROUP LIMITED.",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "1bca3512-3e4e-4bbe-afcf-1be65e848aab",
+    "asxCode": "ASM",
+    "name": "AUSTRALIAN STRATEGIC MATERIALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a019101f-ba4d-40a9-85a9-33d1c128277a",
+    "asxCode": "ASN",
+    "name": "ANSON RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "ac9dd6d3-833e-4203-bc9e-3588e997904b",
+    "asxCode": "ASX",
+    "name": "ASX LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "9431dec8-7775-4eaa-bd3a-8125a232a535",
+    "asxCode": "ATA",
+    "name": "ATTURRA LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "f6424d3e-a60a-4d22-8ddf-9c79a9f1c029",
+    "asxCode": "AUB",
+    "name": "AUB GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "44e1cc12-dcc4-4db3-8565-6d856e95d493",
+    "asxCode": "AVR",
+    "name": "ANTERIS TECHNOLOGIES LTD",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "b49fb7e2-f060-4173-861c-4a0ff8bb7f1b",
+    "asxCode": "AWC",
+    "name": "ALUMINA LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "c3ee1097-cfb5-42c4-961c-3757074ece40",
+    "asxCode": "AX1",
+    "name": "ACCENT GROUP LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "4b6e2f10-8520-40c1-8bea-297e0ec4bc15",
+    "asxCode": "AZJ",
+    "name": "AURIZON HOLDINGS LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "722b531e-4950-45a8-8443-133eaf2baa0a",
+    "asxCode": "BAP",
+    "name": "BAPCOR LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "f4f31cf1-6b51-4dfe-9b89-41d53189d7a5",
+    "asxCode": "BBN",
+    "name": "BABY BUNTING GROUP LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "e80c619b-9a14-445f-bd3d-43195e44face",
+    "asxCode": "BCB",
+    "name": "BOWEN COKING COAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a2d7383b-c2bd-4e92-a535-3f1c870cc5bc",
+    "asxCode": "BCI",
+    "name": "BCI MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "c4b4815b-fd09-4837-afa9-ba61496215f8",
+    "asxCode": "BEN",
+    "name": "BENDIGO AND ADELAIDE BANK LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "ba4503df-4464-4df2-96ac-f5478f44b8ff",
+    "asxCode": "BET",
+    "name": "BETMAKERS TECHNOLOGY GROUP LTD",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "f3a7510b-1ac3-4f81-b23f-01178f6fd7be",
+    "asxCode": "BFG",
+    "name": "BELL FINANCIAL GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "511ae968-f7bf-4d97-8f7b-d7ab3d0e8d56",
+    "asxCode": "BFL",
+    "name": "BSP FINANCIAL GROUP LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "0f84b91f-fe43-47c7-851e-edce3529ac35",
+    "asxCode": "BGA",
+    "name": "BEGA CHEESE LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "c46fe340-57e2-434e-9c71-4e0d934d89ac",
+    "asxCode": "BGL",
+    "name": "BELLEVUE GOLD LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "9ee5979e-5b21-4666-bd1e-3f70e69815f2",
+    "asxCode": "BHP",
+    "name": "BHP GROUP LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "860afa14-9d09-4bb6-a904-85dde5b2601c",
+    "asxCode": "BKL",
+    "name": "BLACKMORES LIMITED",
+    "category": "Household & Personal Products"
+  },
+  {
+    "id": "b7ce98c4-9065-49fa-a78a-5b6f2f7f3667",
+    "asxCode": "BKW",
+    "name": "BRICKWORKS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "747940a7-3391-4e5c-9b3a-3f338fbd2720",
+    "asxCode": "BLD",
+    "name": "BORAL LIMITED.",
+    "category": "Materials"
+  },
+  {
+    "id": "f7eb2a35-acac-46ff-b635-36203907ef4c",
+    "asxCode": "BLX",
+    "name": "BEACON LIGHTING GROUP LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "036f03d3-1081-47af-a204-9673c72063e2",
+    "asxCode": "BLY",
+    "name": "BOART LONGYEAR GROUP LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "290ae25f-c1d4-4d1e-92ad-4114eadbffe1",
+    "asxCode": "BMN",
+    "name": "BANNERMAN ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "5a879889-88f2-44ad-bd15-481925dff2ba",
+    "asxCode": "BOE",
+    "name": "BOSS ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "26b8d0eb-17bf-48c0-b35c-f31cf85a0ac0",
+    "asxCode": "BOQ",
+    "name": "BANK OF QUEENSLAND LIMITED.",
+    "category": "Banks"
+  },
+  {
+    "id": "e732e800-efa4-4304-b5ed-a52854f57097",
+    "asxCode": "BPT",
+    "name": "BEACH ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "f9c98b04-d700-4989-9938-56a4f638e9d5",
+    "asxCode": "BRG",
+    "name": "BREVILLE GROUP LIMITED",
+    "category": "Consumer Durables & Apparel"
+  },
+  {
+    "id": "c2396a5f-efb3-4ea3-b5ca-b5056a0f47b5",
+    "asxCode": "BRN",
+    "name": "BRAINCHIP HOLDINGS LTD",
+    "category": "Software & Services"
+  },
+  {
+    "id": "d239cb43-1fc1-4c88-aeaa-65c9d0c4d970",
+    "asxCode": "BSE",
+    "name": "BASE RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "7641e5c4-c1e6-45a5-ba48-d7034eb7bce6",
+    "asxCode": "BSL",
+    "name": "BLUESCOPE STEEL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "8541e979-a8ef-46e8-a3ef-fb4e60b80561",
+    "asxCode": "BST",
+    "name": "BEST & LESS GROUP HOLDINGS LTD",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "b8ce23f5-91e3-4626-9875-209f5ca72973",
+    "asxCode": "BTH",
+    "name": "BIGTINCAN HOLDINGS LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "a4ef770e-e9fd-4f09-a4bc-b126b3cd4b2a",
+    "asxCode": "BUB",
+    "name": "BUBS AUSTRALIA LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "63c3309b-799d-423a-9c45-68b3bd274046",
+    "asxCode": "BVS",
+    "name": "BRAVURA SOLUTIONS LIMITED.",
+    "category": "Software & Services"
+  },
+  {
+    "id": "b10656e3-e495-4263-823d-6f7fc878b890",
+    "asxCode": "BWP",
+    "name": "BWP TRUST",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "608cfedd-9bec-4054-ab9a-c4b3a5b8acc8",
+    "asxCode": "BXB",
+    "name": "BRAMBLES LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "69ff7871-19db-4e67-8282-b978671f831a",
+    "asxCode": "C79",
+    "name": "CHRYSOS CORPORATION LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "ce8d49be-b37e-47f3-b81f-c3d22669039b",
+    "asxCode": "CAJ",
+    "name": "CAPITOL HEALTH LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "72a84565-de25-40a6-a9a0-32b6d525ab3d",
+    "asxCode": "CAR",
+    "name": "CARSALES.COM LIMITED.",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "07906186-4a89-4157-b096-2035a6dd9852",
+    "asxCode": "CAT",
+    "name": "CATAPULT GROUP INTERNATIONAL LTD",
+    "category": "Technology Hardware & Equipment"
+  },
+  {
+    "id": "1cebc297-e893-4b8e-b8b0-99c73752ac6d",
+    "asxCode": "CBA",
+    "name": "COMMONWEALTH BANK OF AUSTRALIA.",
+    "category": "Banks"
+  },
+  {
+    "id": "f9471da4-d550-4824-bcea-c3e0bc59633c",
+    "asxCode": "CBO",
+    "name": "COBRAM ESTATE OLIVES LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "eb90d7c7-57d0-4924-97e4-1c76db18a734",
+    "asxCode": "CCP",
+    "name": "CREDIT CORP GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "8ffe0feb-a20f-4ce1-9f5a-1996a1a687e9",
+    "asxCode": "CCX",
+    "name": "CITY CHIC COLLECTIVE LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "ecdd8aba-9a95-406f-9efb-7c15e5ff2ffb",
+    "asxCode": "CDA",
+    "name": "CODAN LIMITED",
+    "category": "Technology Hardware & Equipment"
+  },
+  {
+    "id": "c5a769af-aa44-40c2-9d60-a19881a8f003",
+    "asxCode": "CDP",
+    "name": "CARINDALE PROPERTY TRUST",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "611ddefb-b49a-4654-ab63-111e912de98e",
+    "asxCode": "CGC",
+    "name": "COSTA GROUP HOLDINGS LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "b5cca73c-9646-43cd-a43c-1733666da034",
+    "asxCode": "CGF",
+    "name": "CHALLENGER LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "185c60c1-1589-4e65-af44-fd85521b4d8e",
+    "asxCode": "CGS",
+    "name": "COGSTATE LTD",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "f3b0b178-bc3a-407e-a8f5-ae2af077c706",
+    "asxCode": "CHC",
+    "name": "CHARTER HALL GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "d7a10a36-db38-475d-8c34-11976be25c2a",
+    "asxCode": "CHN",
+    "name": "CHALICE MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "d71b9bf4-9d81-4674-b797-76035ae02888",
+    "asxCode": "CIA",
+    "name": "CHAMPION IRON LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "5cad54f7-807a-451a-ac2a-ebee8ade19b2",
+    "asxCode": "CIP",
+    "name": "CENTURIA INDUSTRIAL REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "c8c03706-4294-4cf4-9287-d4e9d7407fd8",
+    "asxCode": "CKA",
+    "name": "COKAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "50708977-f2db-4024-b364-84b7b7c7c5de",
+    "asxCode": "CKF",
+    "name": "COLLINS FOODS LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "6cd72814-2068-4ac7-98f7-cdefcde42985",
+    "asxCode": "CLV",
+    "name": "CLOVER CORPORATION LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "5678ed0d-8015-414a-9d66-3da769aa60b5",
+    "asxCode": "CLW",
+    "name": "CHARTER HALL LONG WALE REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "39552092-54cf-487b-84d0-a11cc3da5095",
+    "asxCode": "CMM",
+    "name": "CAPRICORN METALS LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "2e13933d-152e-403b-935f-b4aac6cf1e30",
+    "asxCode": "CMW",
+    "name": "CROMWELL PROPERTY GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "325f2060-537f-4f0d-9a1b-02c582b033c5",
+    "asxCode": "CNI",
+    "name": "CENTURIA CAPITAL GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "a815dcb3-99cd-4056-b496-1d79ce26207c",
+    "asxCode": "CNU",
+    "name": "CHORUS LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "a11cffbd-3281-4476-b475-4af9db180dfb",
+    "asxCode": "COB",
+    "name": "COBALT BLUE HOLDINGS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "6ab7e24f-1279-40f3-a402-13740bda4c75",
+    "asxCode": "COE",
+    "name": "COOPER ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "d02ab7c7-abc9-42df-a78d-53858ab80648",
+    "asxCode": "COF",
+    "name": "CENTURIA OFFICE REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "8a1ed36e-4288-4aaf-944a-be83408ddbae",
+    "asxCode": "COG",
+    "name": "COG FINANCIAL SERVICES LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "793ecf54-cb41-4245-b284-0a3245c3f01a",
+    "asxCode": "COH",
+    "name": "COCHLEAR LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "f66896d2-5fdd-4a18-b46f-3a660d860e1b",
+    "asxCode": "COL",
+    "name": "COLES GROUP LIMITED.",
+    "category": "Consumer Staples Distribution & Retail"
+  },
+  {
+    "id": "6f2db570-c9d0-438d-9c6b-3c5f831017da",
+    "asxCode": "CPU",
+    "name": "COMPUTERSHARE LIMITED.",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "733e377a-33ec-45ed-9320-6213e10222b6",
+    "asxCode": "CQE",
+    "name": "CHARTER HALL SOCIAL INFRASTRUCTURE REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "a0bdb90d-c8e0-4d4f-b234-2c0a897b02ac",
+    "asxCode": "CQR",
+    "name": "CHARTER HALL RETAIL REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "e9909c57-f489-452a-9762-4c2bff0e475e",
+    "asxCode": "CRN",
+    "name": "CORONADO GLOBAL RESOURCES INC.",
+    "category": "Materials"
+  },
+  {
+    "id": "a97180b2-469b-4560-85ef-eff6cef31c30",
+    "asxCode": "CSL",
+    "name": "CSL LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "6b4a58a7-2fd4-4fc1-a6e0-446cecb321e4",
+    "asxCode": "CSR",
+    "name": "CSR LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "5b341fb2-eb71-4091-a627-33b3778f2dac",
+    "asxCode": "CTD",
+    "name": "CORPORATE TRAVEL MANAGEMENT LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "1e13503a-e6ed-498a-ae2e-8045ae808cda",
+    "asxCode": "CTM",
+    "name": "CENTAURUS METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "9cff3359-efa9-4a7f-b617-61632e96d618",
+    "asxCode": "CTT",
+    "name": "CETTIRE LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "bcfe3c42-f86d-4248-b5fe-128053f8cadc",
+    "asxCode": "CUV",
+    "name": "CLINUVEL PHARMACEUTICALS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "cae27ac6-7140-46eb-be25-1660cbc325de",
+    "asxCode": "CVC",
+    "name": "CVC LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "58f98f94-c3c1-416a-9c26-423993a9275f",
+    "asxCode": "CVN",
+    "name": "CARNARVON ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "4c32f1ac-4f6c-4429-9ea4-13a50a694cd4",
+    "asxCode": "CVW",
+    "name": "CLEARVIEW WEALTH LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "46e3dc84-700a-48fa-a9e0-d0e66f287aab",
+    "asxCode": "CWP",
+    "name": "CEDAR WOODS PROPERTIES LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "58fb7924-5c7c-4137-8c9c-78899549aa62",
+    "asxCode": "CWY",
+    "name": "CLEANAWAY WASTE MANAGEMENT LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "3eb5e31b-06ba-4f59-af28-2cd17f61ed57",
+    "asxCode": "CXL",
+    "name": "CALIX LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "88d9d4e8-995a-466f-bfa8-725e41c18253",
+    "asxCode": "CXO",
+    "name": "CORE LITHIUM LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "1986e31e-e958-4a8b-99c9-2e881ed09b0a",
+    "asxCode": "D2O",
+    "name": "DUXTON WATER LIMITED",
+    "category": "Utilities"
+  },
+  {
+    "id": "b38379de-a868-4fd8-8682-e58fd1bc67c4",
+    "asxCode": "DBI",
+    "name": "DALRYMPLE BAY INFRASTRUCTURE LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "9f5fa45f-fd5c-49df-8097-ed2a78f18a6b",
+    "asxCode": "DDH",
+    "name": "DDH1 LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "c7b97618-7519-4d7e-a6df-f1d6f0046c37",
+    "asxCode": "DDR",
+    "name": "DICKER DATA LIMITED",
+    "category": "Technology Hardware & Equipment"
+  },
+  {
+    "id": "2bb1ae08-ec69-4306-90a6-34a6cadfbcb8",
+    "asxCode": "DEG",
+    "name": "DE GREY MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "e3aa4428-fc46-4778-bd09-38b413185114",
+    "asxCode": "DGL",
+    "name": "DGL GROUP LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "810fa9d6-ca37-490b-bb4d-a8833d19040e",
+    "asxCode": "DHG",
+    "name": "DOMAIN HOLDINGS AUSTRALIA LIMITED.",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "5004b382-5f45-45cf-b75d-337461ce604e",
+    "asxCode": "DMP",
+    "name": "DOMINO'S PIZZA ENTERPRISES LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "cfcbe19f-11ad-43b8-98b1-2e57b520fcdb",
+    "asxCode": "DOW",
+    "name": "DOWNER EDI LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "3212dda1-9444-4bc4-8c9f-5073b2c296bc",
+    "asxCode": "DRE",
+    "name": "DREADNOUGHT RESOURCES LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "fdcbfa00-dc48-465d-91af-af1e59019125",
+    "asxCode": "DRR",
+    "name": "DETERRA ROYALTIES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "19915ddc-cda3-43b0-93d9-4c7df1f76102",
+    "asxCode": "DTL",
+    "name": "DATA#3 LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "4a3a0930-25bc-4ab8-805a-99c1adb14fc2",
+    "asxCode": "DVP",
+    "name": "DEVELOP GLOBAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "644733b7-cb44-4875-8e67-0c752a2f1ff1",
+    "asxCode": "DXC",
+    "name": "DEXUS CONVENIENCE RETAIL REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "ea331455-6412-448f-822e-4b554f539d64",
+    "asxCode": "DXI",
+    "name": "DEXUS INDUSTRIA REIT.",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "5ac8fe20-5c57-448b-bad0-27b017805d16",
+    "asxCode": "DXS",
+    "name": "DEXUS",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "df2ad634-88ea-4778-ae86-a7934c0645b8",
+    "asxCode": "DYL",
+    "name": "DEEP YELLOW LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "c24ec3fb-727c-44ca-9b74-6a3c74696ca0",
+    "asxCode": "EBO",
+    "name": "EBOS GROUP LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "f8c3db8c-a4da-4b34-9d31-03847ccb1f8f",
+    "asxCode": "ECF",
+    "name": "ELANOR COMMERCIAL PROPERTY FUND",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "7827cd5d-47e1-4908-a081-2bc8484841ae",
+    "asxCode": "EDV",
+    "name": "ENDEAVOUR GROUP LIMITED",
+    "category": "Consumer Staples Distribution & Retail"
+  },
+  {
+    "id": "f976f026-0320-4101-8daa-e2a04d83f3dd",
+    "asxCode": "EGG",
+    "name": "ENERO GROUP LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "5ec1ce8f-5eec-4a39-902b-096a7f60813f",
+    "asxCode": "EHE",
+    "name": "ESTIA HEALTH LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "74ffec5a-12b1-4cc6-9f0e-f51f6950a916",
+    "asxCode": "EHL",
+    "name": "EMECO HOLDINGS LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "d4c41f57-70fe-44b2-b521-9084b844ebdf",
+    "asxCode": "ELD",
+    "name": "ELDERS LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "46a7575f-b16a-4709-a233-e8a3b6800f1f",
+    "asxCode": "EML",
+    "name": "EML PAYMENTS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "8339387b-a9f4-4447-96c8-874820cd1c89",
+    "asxCode": "EMR",
+    "name": "EMERALD RESOURCES NL",
+    "category": "Materials"
+  },
+  {
+    "id": "6b0f17b1-a52b-40e9-848a-aebf6c897984",
+    "asxCode": "ENN",
+    "name": "ELANOR INVESTORS GROUP",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "9dae5edd-5c18-4cf8-a033-b9e4fbe8262e",
+    "asxCode": "EQT",
+    "name": "EQT HOLDINGS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "efd72fd0-bf76-4e6b-842f-8abd217875f9",
+    "asxCode": "ERA",
+    "name": "ENERGY RESOURCES OF AUSTRALIA LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "a4a6a330-e14d-47ea-8b11-6fccb34760df",
+    "asxCode": "EVN",
+    "name": "EVOLUTION MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "0f7e116d-38b2-4116-9961-809e326b343e",
+    "asxCode": "EVT",
+    "name": "EVT LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "3dfb0c33-90ea-4fb0-b32e-cad0a7387ddf",
+    "asxCode": "EZL",
+    "name": "EUROZ HARTLEYS GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "b59a65e4-ef40-4779-b659-109e2ab81a2f",
+    "asxCode": "FBU",
+    "name": "FLETCHER BUILDING LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "4933a970-6a8f-437a-912c-9cfa42a63b56",
+    "asxCode": "FCL",
+    "name": "FINEOS CORPORATION HOLDINGS PLC",
+    "category": "Software & Services"
+  },
+  {
+    "id": "a21cf7e5-1c09-4bc9-95b4-30a17acefe2f",
+    "asxCode": "FDV",
+    "name": "FRONTIER DIGITAL VENTURES LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "caa24659-07ce-4938-9a74-493b49a0807b",
+    "asxCode": "FID",
+    "name": "FIDUCIAN GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "a1e16fee-ee98-4ecf-b8c7-4ecb581121a8",
+    "asxCode": "FLT",
+    "name": "FLIGHT CENTRE TRAVEL GROUP LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "55a749dd-977a-4ffe-9864-7d2d1e5af210",
+    "asxCode": "FMG",
+    "name": "FORTESCUE METALS GROUP LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "cbc21b9f-f024-48f6-896f-cbc5a2c1d4ea",
+    "asxCode": "FPH",
+    "name": "FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "ba331f00-6416-42ac-9f02-4007e310fbb2",
+    "asxCode": "FPR",
+    "name": "FLEETPARTNERS GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "8ebc20ef-b954-4724-9eff-6bbf8943c6d6",
+    "asxCode": "FZO",
+    "name": "FAMILY ZONE CYBER SAFETY LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "76098474-4bf3-436b-bced-3f5ac06d5f64",
+    "asxCode": "GAL",
+    "name": "GALILEO MINING LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "2ab1fff2-54c4-47ab-a7bb-df631b2f48a2",
+    "asxCode": "GDF",
+    "name": "GARDA PROPERTY GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "fd8287f4-2616-437f-b2b3-d394bfddf6bb",
+    "asxCode": "GDG",
+    "name": "GENERATION DEVELOPMENT GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "5ccec840-6d4d-47dc-a6a5-d221b32486db",
+    "asxCode": "GDI",
+    "name": "GDI PROPERTY GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "97734d57-4857-4519-afd7-6148aee8350e",
+    "asxCode": "GEM",
+    "name": "G8 EDUCATION LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "38783219-bb16-4e82-bf2a-6e8648d7a75a",
+    "asxCode": "GL1",
+    "name": "GLOBAL LITHIUM RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "2fd9a24f-3c70-47fd-996f-7ddc59e63b4e",
+    "asxCode": "GLN",
+    "name": "GALAN LITHIUM LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "ee90bdf8-8ad0-4e1a-904f-ed13178124cb",
+    "asxCode": "GMD",
+    "name": "GENESIS MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "312402e8-8971-4118-99c6-e53eb18dd0f4",
+    "asxCode": "GMG",
+    "name": "GOODMAN GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "d4d1b82f-61ed-4384-be0d-73300cd3cfaf",
+    "asxCode": "GNC",
+    "name": "GRAINCORP LIMITED",
+    "category": "Consumer Staples Distribution & Retail"
+  },
+  {
+    "id": "edbf44f6-0eae-4ea1-863c-d3d83ae4c985",
+    "asxCode": "GNG",
+    "name": "GR ENGINEERING SERVICES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "cd1fc96c-6fdf-4a6a-9ed1-d7f91e6109ca",
+    "asxCode": "GNX",
+    "name": "GENEX POWER LIMITED",
+    "category": "Utilities"
+  },
+  {
+    "id": "5ab1921d-c342-4c8a-92ec-4c1841ffbbf8",
+    "asxCode": "GOR",
+    "name": "GOLD ROAD RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "49a38b44-902e-430b-8ffc-51884ea4d231",
+    "asxCode": "GOZ",
+    "name": "GROWTHPOINT PROPERTIES AUSTRALIA",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "3ebe0cdb-2513-424d-afb1-c6b4c38bf8d8",
+    "asxCode": "GPT",
+    "name": "GPT GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "542fc8da-56c8-4a16-96a2-3d944a75b59d",
+    "asxCode": "GQG",
+    "name": "GQG PARTNERS INC.",
+    "category": "Financial Services"
+  },
+  {
+    "id": "060fac2f-8c60-4ba4-9af9-4b0f6b8b59e3",
+    "asxCode": "GRR",
+    "name": "GRANGE RESOURCES LIMITED.",
+    "category": "Materials"
+  },
+  {
+    "id": "813faf8b-7655-4034-b8dc-72c8863cc953",
+    "asxCode": "GUD",
+    "name": "G.U.D. HOLDINGS LIMITED",
+    "category": "Automobiles & Components"
+  },
+  {
+    "id": "b1e30c9f-41f5-407d-81f7-530e967d3d43",
+    "asxCode": "GWA",
+    "name": "GWA GROUP LIMITED.",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "fff1d19a-57e9-4e3b-b7c4-a3da5d91c0f0",
+    "asxCode": "HAS",
+    "name": "HASTINGS TECHNOLOGY METALS LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "803d767a-9f38-4814-8f3a-68dcc01a44a7",
+    "asxCode": "HCW",
+    "name": "HEALTHCO HEALTHCARE AND WELLNESS REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "b10da035-be05-4a50-ad37-e84af1717ef1",
+    "asxCode": "HDN",
+    "name": "HOMECO DAILY NEEDS REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "4771f082-3988-4c5b-8df5-cf4d60345765",
+    "asxCode": "HE8",
+    "name": "HELIOS ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "29f94f02-4050-445c-8a8b-4cdf352b0c87",
+    "asxCode": "HFR",
+    "name": "HIGHFIELD RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "e7597a4d-66ba-48f9-827b-102efb35e919",
+    "asxCode": "HLA",
+    "name": "HEALTHIA LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "3601a12c-63c0-4dd4-a3fe-b1263116a2e9",
+    "asxCode": "HLI",
+    "name": "HELIA GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "802975cd-382c-4860-acff-9ea2fad9a825",
+    "asxCode": "HLO",
+    "name": "HELLOWORLD TRAVEL LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "24351c0d-d2d1-4a5f-aedd-8e58997741c1",
+    "asxCode": "HLS",
+    "name": "HEALIUS LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "4e85c219-5c17-4475-afc1-623f05c8e0b2",
+    "asxCode": "HMC",
+    "name": "HMC CAPITAL LIMITED",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "2dda92be-ecb8-49f5-88ea-114af3b54ffa",
+    "asxCode": "HPI",
+    "name": "HOTEL PROPERTY INVESTMENTS",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "08f26ef1-9a03-4444-a2ff-5a1520343111",
+    "asxCode": "HSN",
+    "name": "HANSEN TECHNOLOGIES LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "9cebd066-3fc2-4a99-9ab0-e9918c1ef649",
+    "asxCode": "HT1",
+    "name": "HT&E LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "dcd26fe6-a396-451a-924e-962977ea2406",
+    "asxCode": "HTA",
+    "name": "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "4f84d3cb-c00c-45aa-8106-f92ca2fa19de",
+    "asxCode": "HUB",
+    "name": "HUB24 LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "8778f358-c6c0-427c-98e4-cc125240b448",
+    "asxCode": "HUM",
+    "name": "HUMM GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "ceb8e7a7-51b6-4a5f-812c-3f349e576275",
+    "asxCode": "HVN",
+    "name": "HARVEY NORMAN HOLDINGS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "a4acd5b0-3d15-4300-8716-016d74a6fe5b",
+    "asxCode": "HZN",
+    "name": "HORIZON OIL LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "b17edeaa-829d-42d8-86fe-78ee66005df7",
+    "asxCode": "IAG",
+    "name": "INSURANCE AUSTRALIA GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "a74f835c-fce4-42c2-80ec-868bc77c4df5",
+    "asxCode": "IDX",
+    "name": "INTEGRAL DIAGNOSTICS LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "7681f48e-114f-4259-8d30-d9ae10bfc6df",
+    "asxCode": "IEL",
+    "name": "IDP EDUCATION LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "61ca0184-6a7a-461d-a89c-9a043ea98e8e",
+    "asxCode": "IFL",
+    "name": "INSIGNIA FINANCIAL LTD",
+    "category": "Financial Services"
+  },
+  {
+    "id": "b16111db-4df1-440a-84d1-7cae67348b31",
+    "asxCode": "IFM",
+    "name": "INFOMEDIA LTD",
+    "category": "Software & Services"
+  },
+  {
+    "id": "7ffb41eb-3f67-4fc3-8b5c-20591ccd6827",
+    "asxCode": "IFT",
+    "name": "INFRATIL LIMITED.",
+    "category": "Utilities"
+  },
+  {
+    "id": "0e175e5f-fc5f-4c84-a5df-2bcf0655ba37",
+    "asxCode": "IGL",
+    "name": "IVE GROUP LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "fd288944-15a2-41f4-9a44-d6e0ca7b55ef",
+    "asxCode": "IGO",
+    "name": "IGO LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "406894b4-b27b-45e7-ae66-acc288d7acc7",
+    "asxCode": "IHL",
+    "name": "INCANNEX HEALTHCARE LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "1a445b21-4a00-4904-87da-1440ea3ea437",
+    "asxCode": "ILU",
+    "name": "ILUKA RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "18ba25b0-9d96-431a-9e62-6c07427cc021",
+    "asxCode": "IMD",
+    "name": "IMDEX LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "02f10e12-f164-4610-ab6f-e22be2a2b5cc",
+    "asxCode": "IMM",
+    "name": "IMMUTEP LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "779b46e9-d96e-4cc1-a211-82f3e42401f6",
+    "asxCode": "IMU",
+    "name": "IMUGENE LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "e70466fb-ecb1-4afd-9e61-96195590ffc1",
+    "asxCode": "INA",
+    "name": "INGENIA COMMUNITIES GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "826836ae-16d9-433e-b320-75906823f9f5",
+    "asxCode": "ING",
+    "name": "INGHAMS GROUP LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "76ab30e7-c677-41d2-a350-82c5e68d12a7",
+    "asxCode": "INR",
+    "name": "IONEER LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "108ae291-3257-4973-9a8b-e7758cbe87d4",
+    "asxCode": "IOD",
+    "name": "IODM LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "b46f4f3c-deab-4b12-905d-5bb146753d8a",
+    "asxCode": "IPG",
+    "name": "IPD GROUP LTD",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "65b31cc7-6855-4f72-b75f-5dc008dd858d",
+    "asxCode": "IPH",
+    "name": "IPH LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "ec1e4ca8-9073-428b-90cd-5be66d5ab2a8",
+    "asxCode": "IPL",
+    "name": "INCITEC PIVOT LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "34d66df0-bcf7-4035-b0cf-e8e36b188626",
+    "asxCode": "IRE",
+    "name": "IRESS LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "424c3920-7515-4fc1-b534-1b258ffdfa4b",
+    "asxCode": "IVC",
+    "name": "INVOCARE LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "71a17f5e-d957-4cd9-9ffb-f9d14ba9928b",
+    "asxCode": "IVZ",
+    "name": "INVICTUS ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "747e70ac-add4-428c-a319-2d8fbe21960a",
+    "asxCode": "JBH",
+    "name": "JB HI-FI LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "58f2ba0b-d120-4555-81e6-6ffe70369e44",
+    "asxCode": "JDO",
+    "name": "JUDO CAPITAL HOLDINGS LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "09ee19bb-e651-42e0-b866-42a45ecd09ff",
+    "asxCode": "JHG",
+    "name": "JANUS HENDERSON GROUP PLC",
+    "category": "Financial Services"
+  },
+  {
+    "id": "59634b05-3ab5-4dca-b8c8-7c76ce9b9728",
+    "asxCode": "JHX",
+    "name": "JAMES HARDIE INDUSTRIES PLC",
+    "category": "Materials"
+  },
+  {
+    "id": "1d25ab9a-233f-43f7-b5ab-b4c62b7ea829",
+    "asxCode": "JIN",
+    "name": "JUMBO INTERACTIVE LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "5b98a210-fbce-467b-a465-28877e64e76b",
+    "asxCode": "JLG",
+    "name": "JOHNS LYNG GROUP LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "ba0159f3-3d51-4ca3-b453-5d31b34247a2",
+    "asxCode": "JMS",
+    "name": "JUPITER MINES LIMITED.",
+    "category": "Materials"
+  },
+  {
+    "id": "29d3aa1c-d8ff-43c9-9d66-7b188f970516",
+    "asxCode": "JRV",
+    "name": "JERVOIS GLOBAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "3d657e6c-20c8-43da-9753-9fa5399bf6fc",
+    "asxCode": "KAR",
+    "name": "KAROON ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "b4a0c028-f7e0-4840-a022-be83c6cb38fe",
+    "asxCode": "KCN",
+    "name": "KINGSGATE CONSOLIDATED LIMITED.",
+    "category": "Materials"
+  },
+  {
+    "id": "f6fc2a09-6633-4be5-8a96-bb67058a8c88",
+    "asxCode": "KGN",
+    "name": "KOGAN.COM LTD",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "c3a96608-29ae-4d83-a804-66ff67724b1b",
+    "asxCode": "KLS",
+    "name": "KELSIAN GROUP LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "e09a0e32-bcb9-4519-b150-032106e4895c",
+    "asxCode": "KMD",
+    "name": "KMD BRANDS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "72bb3110-5e6b-4b6c-aed0-715fd7bc7e27",
+    "asxCode": "KPG",
+    "name": "KELLY PARTNERS GROUP HOLDINGS LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "af15e980-aa2b-4b25-b718-496c9ef7daf4",
+    "asxCode": "KSC",
+    "name": "K & S CORPORATION LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "a8e2d824-9eb8-4acb-981e-8952152af19a",
+    "asxCode": "KSL",
+    "name": "KINA SECURITIES LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "9e71c5f8-cf47-429b-b4b8-d4dbe4007f1a",
+    "asxCode": "LAU",
+    "name": "LINDSAY AUSTRALIA LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "1d0f7f7a-64a5-491c-b1fd-8a4205fd74aa",
+    "asxCode": "LFG",
+    "name": "LIBERTY FINANCIAL GROUP",
+    "category": "Financial Services"
+  },
+  {
+    "id": "9ebd0e89-bf3e-4307-b644-a8a4fa285ee9",
+    "asxCode": "LFS",
+    "name": "LATITUDE GROUP HOLDINGS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "a23618da-b571-44d5-b293-f9a6f6ff469d",
+    "asxCode": "LGL",
+    "name": "LYNCH GROUP HOLDINGS LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "5b8467b0-dad3-4cfe-bdba-ef8d25d61347",
+    "asxCode": "LIC",
+    "name": "LIFESTYLE COMMUNITIES LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "9873edb4-69c8-48f5-bf17-8a775b362cbf",
+    "asxCode": "LIN",
+    "name": "LINDIAN RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "ba4107a2-c846-4dde-a161-30809a686208",
+    "asxCode": "LKE",
+    "name": "LAKE RESOURCES N.L.",
+    "category": "Materials"
+  },
+  {
+    "id": "87666190-b174-4b4a-86a8-60f7f0297048",
+    "asxCode": "LLC",
+    "name": "LENDLEASE GROUP",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "5516f762-d91f-4134-820a-ee99d465b2e3",
+    "asxCode": "LLL",
+    "name": "LEO LITHIUM LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "6dc02244-d7e6-4aba-9bb6-1c1c3481d8a0",
+    "asxCode": "LNK",
+    "name": "LINK ADMINISTRATION HOLDINGS LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "bdf60ab0-d13a-4e1c-b661-1eca7b71a7c0",
+    "asxCode": "LOT",
+    "name": "LOTUS RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "290e72f8-1340-4aff-ace8-9085dae85cbc",
+    "asxCode": "LOV",
+    "name": "LOVISA HOLDINGS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "c672e983-a067-4e23-9ab5-dceda1da410f",
+    "asxCode": "LPI",
+    "name": "LITHIUM POWER INTERNATIONAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "08538ae0-3082-4226-a49f-b3f755ef496e",
+    "asxCode": "LRS",
+    "name": "LATIN RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "92df47db-0249-4c22-8643-1f179c8c0343",
+    "asxCode": "LTR",
+    "name": "LIONTOWN RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4a1d35f0-df6d-4f85-b794-fb331b4a0db3",
+    "asxCode": "LYC",
+    "name": "LYNAS RARE EARTHS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "371886d8-0fda-4633-aaa6-d7148038d13d",
+    "asxCode": "LYL",
+    "name": "LYCOPODIUM LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "8cb26ae4-961a-4a6d-8f54-f2a2c75b0fa9",
+    "asxCode": "MAD",
+    "name": "MADER GROUP LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "47eecd8e-9948-4eb5-a4b7-ccc3c0285e85",
+    "asxCode": "MAF",
+    "name": "MA FINANCIAL GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "e0c00812-9a8c-4ee6-9dc5-f5283092961b",
+    "asxCode": "MAH",
+    "name": "MACMAHON HOLDINGS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "abaaef70-6ede-4381-a8ef-f2491b780cc4",
+    "asxCode": "MAQ",
+    "name": "MACQUARIE TELECOM GROUP LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "ed63ffa8-5094-45d0-abba-c6cffbc5bfea",
+    "asxCode": "MAU",
+    "name": "MAGNETIC RESOURCES NL",
+    "category": "Materials"
+  },
+  {
+    "id": "2803f0e4-5cb7-4770-beee-492822349957",
+    "asxCode": "MAY",
+    "name": "MELBANA ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "c4054542-f402-4532-948e-e3d7a7bb2341",
+    "asxCode": "MCR",
+    "name": "MINCOR RESOURCES NL",
+    "category": "Materials"
+  },
+  {
+    "id": "c9b4af03-de59-4ec6-a04c-d0fd1c2b8cfc",
+    "asxCode": "MFG",
+    "name": "MAGELLAN FINANCIAL GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "e534684a-1c13-4d00-95ec-78f6f4ee34eb",
+    "asxCode": "MGH",
+    "name": "MAAS GROUP HOLDINGS LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "0a4a0e97-00d5-4b69-9c8b-c0a9ddcbf7ce",
+    "asxCode": "MGR",
+    "name": "MIRVAC GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "087221be-c373-4aae-953d-be8306c48115",
+    "asxCode": "MGX",
+    "name": "MOUNT GIBSON IRON LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a498e046-5f51-45f1-afaf-980a2ba0917f",
+    "asxCode": "MHJ",
+    "name": "MICHAEL HILL INTERNATIONAL LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "c63ac33f-899b-4907-b8e4-980824270887",
+    "asxCode": "MIN",
+    "name": "MINERAL RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4f5f51b6-d140-4a65-857a-283fc008a937",
+    "asxCode": "MLX",
+    "name": "METALS X LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "f09575bb-f5bc-4172-92e5-e88d0f427f78",
+    "asxCode": "MMS",
+    "name": "MCMILLAN SHAKESPEARE LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "4f881a2a-87d8-42db-9085-fb0c319adf12",
+    "asxCode": "MND",
+    "name": "MONADELPHOUS GROUP LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "49574723-22e3-453b-90df-7c152400dfc7",
+    "asxCode": "MNS",
+    "name": "MAGNIS ENERGY TECHNOLOGIES LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "060bb4cb-c930-4a48-abd6-9bd040d11eb2",
+    "asxCode": "MP1",
+    "name": "MEGAPORT LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "473f99a9-dcb8-4d63-935a-1a6eaf9a7a2c",
+    "asxCode": "MPL",
+    "name": "MEDIBANK PRIVATE LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "7abeff7c-47fb-48c5-8ff8-74c4ee2b579e",
+    "asxCode": "MQG",
+    "name": "MACQUARIE GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "04e0387e-9973-42ab-a882-21ca1b17ce65",
+    "asxCode": "MRM",
+    "name": "MMA OFFSHORE LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "3592addc-2d1f-47cd-b630-b182848c41e1",
+    "asxCode": "MSB",
+    "name": "MESOBLAST LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "3f13f77d-7c5d-4514-9744-3e9652ef7695",
+    "asxCode": "MTS",
+    "name": "METCASH LIMITED",
+    "category": "Consumer Staples Distribution & Retail"
+  },
+  {
+    "id": "d6d08e42-5243-41e5-987f-1cce9bfe7d07",
+    "asxCode": "MVF",
+    "name": "MONASH IVF GROUP LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "874a4e11-a704-4f3d-a9ed-790a7da4725d",
+    "asxCode": "MYR",
+    "name": "MYER HOLDINGS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "3974800d-26d2-407c-b0f0-8c3bfcbedd21",
+    "asxCode": "MYS",
+    "name": "MYSTATE LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "1c58c5b6-9ae9-4179-9187-66f6a46b3329",
+    "asxCode": "MYX",
+    "name": "MAYNE PHARMA GROUP LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "0ea83393-e90e-49c6-9426-6e2a3a0e2f50",
+    "asxCode": "NAB",
+    "name": "NATIONAL AUSTRALIA BANK LIMITED",
+    "category": "Banks"
+  },
+  {
+    "id": "084ea168-8a22-479d-b8a2-00eafe70713f",
+    "asxCode": "NAN",
+    "name": "NANOSONICS LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "652c5336-7e99-457a-b29e-6c5a6653f39f",
+    "asxCode": "NCK",
+    "name": "NICK SCALI LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "02f03bbc-c9d7-4f2f-be8b-54098654ad12",
+    "asxCode": "NCM",
+    "name": "NEWCREST MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "847777fe-9ab6-46b3-824a-c2fb33b28910",
+    "asxCode": "NEC",
+    "name": "NINE ENTERTAINMENT CO. HOLDINGS LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "b96f949a-e970-4d8e-84bf-70866113cd0b",
+    "asxCode": "NEU",
+    "name": "NEUREN PHARMACEUTICALS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "50819305-2a12-4a96-a038-b67506b0b25d",
+    "asxCode": "NGI",
+    "name": "NAVIGATOR GLOBAL INVESTMENTS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "3e98ff80-573d-4b2c-a134-06aada20d0e9",
+    "asxCode": "NHC",
+    "name": "NEW HOPE CORPORATION LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "81619d31-c59f-4280-a861-49d4f2492c7f",
+    "asxCode": "NHF",
+    "name": "NIB HOLDINGS LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "c75a7f44-d0a7-497f-8739-a851db9b2cf6",
+    "asxCode": "NIC",
+    "name": "NICKEL INDUSTRIES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "fac7f53d-1c72-4fe9-9fbe-da8a0a56b62e",
+    "asxCode": "NMT",
+    "name": "NEOMETALS LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "d897e210-0880-4211-8451-a8d95d49c872",
+    "asxCode": "NPR",
+    "name": "NEWMARK PROPERTY REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "e2423eaf-ad77-475b-b2f4-a59fb68f6cc4",
+    "asxCode": "NSR",
+    "name": "NATIONAL STORAGE REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "3932e2a5-29f4-4030-9e8e-18de4a36020b",
+    "asxCode": "NST",
+    "name": "NORTHERN STAR RESOURCES LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "3f1570c3-16e7-4187-a305-ec20bebed283",
+    "asxCode": "NTU",
+    "name": "NORTHERN MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4fd7a9ba-ae98-4a33-9228-81c6f2d92216",
+    "asxCode": "NUF",
+    "name": "NUFARM LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "89ec7fe1-b645-4518-8088-fcb35a2ed2d8",
+    "asxCode": "NVX",
+    "name": "NOVONIX LIMITED",
+    "category": "Technology Hardware & Equipment"
+  },
+  {
+    "id": "adee4eb7-6b16-499c-8c07-42c32e7944e6",
+    "asxCode": "NWF",
+    "name": "NEWFIELD RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a409a4c8-0a1d-4a01-9ce2-cc66c4d8939e",
+    "asxCode": "NWH",
+    "name": "NRW HOLDINGS LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "724d99d5-fe52-41e9-93ba-a44e9d335465",
+    "asxCode": "NWL",
+    "name": "NETWEALTH GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "3d1d7ade-d487-48f4-8396-20590d5e6fc8",
+    "asxCode": "NWS",
+    "name": "NEWS CORPORATION..",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "c3ba2ce1-2128-4db9-9eb5-30ed27a41d2c",
+    "asxCode": "NXD",
+    "name": "NEXTED GROUP LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "ca2263e1-5c40-4711-8b6c-4a5677024dac",
+    "asxCode": "NXL",
+    "name": "NUIX LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "5f9b7d7b-677e-4afb-8981-b13c46dfaf34",
+    "asxCode": "NXT",
+    "name": "NEXTDC LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "29d0f06b-e452-4acc-a76e-a6eae1b25c6e",
+    "asxCode": "NZM",
+    "name": "NZME LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "b2c5cd63-0c96-4a74-8afa-71d2dce9c2d3",
+    "asxCode": "OBL",
+    "name": "OMNI BRIDGEWAY LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "c2f17ae3-59bf-4efd-8509-50e148bfcd2b",
+    "asxCode": "OCL",
+    "name": "OBJECTIVE CORPORATION LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "736a38a2-5427-41bb-9b4e-ddd9167ce00f",
+    "asxCode": "OFX",
+    "name": "OFX GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "6a364bda-1a8d-4186-9467-915029e8baf9",
+    "asxCode": "OMH",
+    "name": "OM HOLDINGS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "36d2553d-8bb6-4958-a8bc-e40553c791ed",
+    "asxCode": "OML",
+    "name": "OOH!MEDIA LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "88be52b0-26e4-45cd-9891-b2ed38504635",
+    "asxCode": "OPT",
+    "name": "OPTHEA LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "7d2cd2e6-a323-4dcc-9323-f1566166abb1",
+    "asxCode": "ORA",
+    "name": "ORORA LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "3c7755d7-f0de-4890-ae3e-f11bb426f2d3",
+    "asxCode": "ORG",
+    "name": "ORIGIN ENERGY LIMITED",
+    "category": "Utilities"
+  },
+  {
+    "id": "89361028-e1b4-4650-bbaa-3dd3f8925983",
+    "asxCode": "ORI",
+    "name": "ORICA LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4bffe944-d4ae-41e5-b707-aa321cc29294",
+    "asxCode": "OZL",
+    "name": "OZ MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "37ac7b8d-9fe5-4538-9d15-0187d5393693",
+    "asxCode": "PAC",
+    "name": "PACIFIC CURRENT GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "d20b2631-f2aa-46fd-b7fe-a7e962568976",
+    "asxCode": "PAN",
+    "name": "PANORAMIC RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "efaaf7a0-e05c-4333-b854-e67b52dc04aa",
+    "asxCode": "PAR",
+    "name": "PARADIGM BIOPHARMACEUTICALS LIMITED..",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "138b94f3-7dbf-46bb-b2cf-17262d08a4df",
+    "asxCode": "PBH",
+    "name": "POINTSBET HOLDINGS LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "0a776059-2618-4fe4-a4c5-116d72161fa0",
+    "asxCode": "PDI",
+    "name": "PREDICTIVE DISCOVERY LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "c6198eb5-abc2-47eb-ba48-b8f0ee645f2e",
+    "asxCode": "PDN",
+    "name": "PALADIN ENERGY LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "927808ba-eda2-4b84-a15b-41183abef8e8",
+    "asxCode": "PEN",
+    "name": "PENINSULA ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "500f9612-2388-413f-b3de-17ba3af7492d",
+    "asxCode": "PFP",
+    "name": "PROPEL FUNERAL PARTNERS LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "13a9777b-bc10-45e9-91f5-8f2c44fdae67",
+    "asxCode": "PGC",
+    "name": "PARAGON CARE LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "af575af7-8d57-4c46-8cd3-e065744e5cb1",
+    "asxCode": "PGH",
+    "name": "PACT GROUP HOLDINGS LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "d9bd0b44-951d-4c7a-9229-aa9e2ef591b2",
+    "asxCode": "PLL",
+    "name": "PIEDMONT LITHIUM INC.",
+    "category": "Materials"
+  },
+  {
+    "id": "9d9c319f-777f-48c2-bd8c-31df06435795",
+    "asxCode": "PLS",
+    "name": "PILBARA MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "cfe6ec1b-d176-44bb-bd48-6fa22f065826",
+    "asxCode": "PLY",
+    "name": "PLAYSIDE STUDIOS LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "0be3b40d-ae9b-4ade-969f-616b3dbbb9dc",
+    "asxCode": "PME",
+    "name": "PRO MEDICUS LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "cc25c025-f873-4621-830b-3d53fb50f588",
+    "asxCode": "PMV",
+    "name": "PREMIER INVESTMENTS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "999fb3f6-22eb-4441-9d0e-1589fad65cfc",
+    "asxCode": "PNI",
+    "name": "PINNACLE INVESTMENT MANAGEMENT GROUP LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "b60b07b5-de81-401a-b160-6094f7d818fe",
+    "asxCode": "PNR",
+    "name": "PANTORO LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "60698ab2-ca96-461a-be83-bc6a599b81e0",
+    "asxCode": "PNV",
+    "name": "POLYNOVO LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "c3651c39-4906-4451-b0f7-ffc5b8f025c7",
+    "asxCode": "PPC",
+    "name": "PEET LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "2b083767-9a8a-4eff-856d-e3c40bafedd2",
+    "asxCode": "PPE",
+    "name": "PEOPLEIN LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "363f383f-1cdc-4792-b7e7-6e9f81d42bce",
+    "asxCode": "PPM",
+    "name": "PEPPER MONEY LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "a01f5104-5e16-42a1-9751-ca9ff549e5ab",
+    "asxCode": "PPS",
+    "name": "PRAEMIUM LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "8d3e2619-6360-495b-ade2-3ed8635ea6b1",
+    "asxCode": "PPT",
+    "name": "PERPETUAL LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "3242621e-234f-401b-9a0a-b6861ca3000f",
+    "asxCode": "PRN",
+    "name": "PERENTI LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "e8cf713a-a8c9-4866-bd73-74c64d20ef7d",
+    "asxCode": "PRU",
+    "name": "PERSEUS MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "b2bcfa96-e623-4235-a395-8bba3f991cdb",
+    "asxCode": "PSI",
+    "name": "PSC INSURANCE GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "650d584f-b3e9-4f4d-9da0-474ec6303337",
+    "asxCode": "PSQ",
+    "name": "PACIFIC SMILES GROUP LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "c6dd0532-8545-4be1-a571-769726c5e132",
+    "asxCode": "PTM",
+    "name": "PLATINUM ASSET MANAGEMENT LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "d5dcbffc-279b-4901-8d45-ed78aee84293",
+    "asxCode": "PWH",
+    "name": "PWR HOLDINGS LIMITED",
+    "category": "Automobiles & Components"
+  },
+  {
+    "id": "e37f5b03-6e47-496d-917e-956c6eb2176f",
+    "asxCode": "PWR",
+    "name": "PETER WARREN AUTOMOTIVE HOLDINGS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "c313317b-b301-4141-8fc7-f3d15efdc5d2",
+    "asxCode": "PXA",
+    "name": "PEXA GROUP LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "761ec27e-f91b-4ce8-ab65-e6bb316a3a70",
+    "asxCode": "PYC",
+    "name": "PYC THERAPEUTICS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "c5f12db8-20ec-479b-a88c-85d8a079b21e",
+    "asxCode": "QAL",
+    "name": "QUALITAS LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "4c6b1952-f8b2-455d-ba11-17605cefa5a9",
+    "asxCode": "QAN",
+    "name": "QANTAS AIRWAYS LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "cf80cc2d-4519-4a8f-9163-78cd7bc13a4a",
+    "asxCode": "QBE",
+    "name": "QBE INSURANCE GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "3f0951b1-c073-4cf7-90fd-23472978c2fb",
+    "asxCode": "QPM",
+    "name": "QUEENSLAND PACIFIC METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "2194c8d6-c30b-4490-91d2-5ee8278e4d05",
+    "asxCode": "QUB",
+    "name": "QUBE HOLDINGS LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "a860aa57-7df6-4c93-be38-889bd0e1f511",
+    "asxCode": "RAC",
+    "name": "RACE ONCOLOGY LTD",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "a32a90d8-1ef5-4bc7-9124-866262e2d1a3",
+    "asxCode": "RDT",
+    "name": "RED DIRT METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "f0fb6154-13a6-4b8d-8c3c-dc9c3dd3813a",
+    "asxCode": "RDY",
+    "name": "READYTECH HOLDINGS LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "98f2db1f-7b3c-4b2e-8b22-de1405ebf398",
+    "asxCode": "REA",
+    "name": "REA GROUP LTD",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "0518d131-9502-4fe0-81d8-9291731cf112",
+    "asxCode": "RED",
+    "name": "RED 5 LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "5cf6b3e6-9cd9-48af-8151-26133a68e51e",
+    "asxCode": "REG",
+    "name": "REGIS HEALTHCARE LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "3506c374-2b0a-4087-80c1-4110f63a1045",
+    "asxCode": "REH",
+    "name": "REECE LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "2bd8c340-45b5-4d19-a30b-16128266e3d4",
+    "asxCode": "REP",
+    "name": "RAM ESSENTIAL SERVICES PROPERTY FUND",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "eafcd446-8208-4485-a0d4-3c5b6f6692ce",
+    "asxCode": "RFF",
+    "name": "RURAL FUNDS GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "0490405c-9cf6-4de0-89ed-511771b7f773",
+    "asxCode": "RGN",
+    "name": "REGION GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "28bfc37e-f0e1-4c80-96bb-e1c00bdec2b7",
+    "asxCode": "RHC",
+    "name": "RAMSAY HEALTH CARE LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "f1483f6e-dd71-4b71-9872-25bc08c1127e",
+    "asxCode": "RHI",
+    "name": "RED HILL MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "08770c8b-ce70-42cf-b557-8902ec7f36da",
+    "asxCode": "RHY",
+    "name": "RHYTHM BIOSCIENCES LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "853d31ec-17b2-438a-a3ab-ba8dca261eab",
+    "asxCode": "RIC",
+    "name": "RIDLEY CORPORATION LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "66e6c009-817e-464e-a2e3-8c5a5dbbdd1c",
+    "asxCode": "RIO",
+    "name": "RIO TINTO LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "fa2dedba-1bb2-4384-b1a1-24c2981a3245",
+    "asxCode": "RMC",
+    "name": "RESIMAC GROUP LTD",
+    "category": "Financial Services"
+  },
+  {
+    "id": "fbc13ded-7127-4529-96bc-bbeb42bf6c41",
+    "asxCode": "RMD",
+    "name": "RESMED INC",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "74598ee8-4053-46fc-a3a4-023de341c42b",
+    "asxCode": "RMS",
+    "name": "RAMELIUS RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "3bdcfee6-eae5-40aa-bfde-dbb5a65787a1",
+    "asxCode": "RNU",
+    "name": "RENASCOR RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "816badbb-29bd-47c3-ad2c-2ccfe291932f",
+    "asxCode": "RPL",
+    "name": "REGAL PARTNERS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "c7e774f3-5ff4-43b6-84fb-7907ddd72ab6",
+    "asxCode": "RRL",
+    "name": "REGIS RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "ff49c77f-c830-46ad-8a47-9f0c96d5aadc",
+    "asxCode": "RSG",
+    "name": "RESOLUTE MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a403bdf9-13b4-4564-805a-d06767e905c9",
+    "asxCode": "RUL",
+    "name": "RPMGLOBAL HOLDINGS LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "8cb0d4a2-769a-45b2-9961-8b5a2da5e966",
+    "asxCode": "RWC",
+    "name": "RELIANCE WORLDWIDE CORPORATION LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "ccb44548-033f-4e49-a081-edb9e425d2fc",
+    "asxCode": "S32",
+    "name": "SOUTH32 LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "a01c34b7-fe64-47bb-b570-f72d75b1ddae",
+    "asxCode": "SBM",
+    "name": "ST BARBARA LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "bb902410-63cc-4820-a37d-d452f8ac5c3f",
+    "asxCode": "SCG",
+    "name": "SCENTRE GROUP",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "e83d17c8-2f78-4f60-9a2e-f51976e8bec1",
+    "asxCode": "SDF",
+    "name": "STEADFAST GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "d5392087-15b0-49ca-94e8-62280fc3c86c",
+    "asxCode": "SDG",
+    "name": "SUNLAND GROUP LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "177fd1d6-8246-40d7-927c-a982c67fe282",
+    "asxCode": "SDR",
+    "name": "SITEMINDER LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "d2fdd9f3-4c90-48ff-933c-a6aa42b8846d",
+    "asxCode": "SEK",
+    "name": "SEEK LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "f840e560-d853-4d01-a27e-cfeadefc3024",
+    "asxCode": "SFC",
+    "name": "SCHAFFER CORPORATION LIMITED",
+    "category": "Automobiles & Components"
+  },
+  {
+    "id": "774ab8f8-573a-4c12-8207-cbe5d4d34a0f",
+    "asxCode": "SFR",
+    "name": "SANDFIRE RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "666187f9-b8d8-4e5e-8059-547ac2888501",
+    "asxCode": "SGF",
+    "name": "SG FLEET GROUP LIMITED",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "a55d848c-5280-4bd6-8ffd-18ecd3df1ba2",
+    "asxCode": "SGLLV",
+    "name": "RICEGROWERS LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "b064b4c2-e6d4-4b9d-88c3-de1b8fedbf2d",
+    "asxCode": "SGM",
+    "name": "SIMS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "3cd5fd62-3b86-497a-800a-94260e58ea80",
+    "asxCode": "SGP",
+    "name": "STOCKLAND",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "4af80bb4-7079-4c3a-b5d7-abb1a5d6944b",
+    "asxCode": "SGR",
+    "name": "THE STAR ENTERTAINMENT GROUP LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "ba20bbfa-b9ff-4426-9900-a253ca60e4d1",
+    "asxCode": "SHL",
+    "name": "SONIC HEALTHCARE LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "c7b1e1f5-b3ba-4d0e-82bb-b245a29a8f0f",
+    "asxCode": "SHV",
+    "name": "SELECT HARVESTS LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "78033bba-2505-4b58-86b0-f2fd6d9644d8",
+    "asxCode": "SIG",
+    "name": "SIGMA HEALTHCARE LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "6a31935f-ad98-4518-b2a8-bfe6ce4380ae",
+    "asxCode": "SIQ",
+    "name": "SMARTGROUP CORPORATION LTD",
+    "category": "Commercial & Professional Services"
+  },
+  {
+    "id": "a753e9f7-27bf-4a13-97d8-e8e62499409e",
+    "asxCode": "SKC",
+    "name": "SKYCITY ENTERTAINMENT GROUP LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "8d159526-bc71-4af1-985c-df8a5a89436b",
+    "asxCode": "SLC",
+    "name": "SUPERLOOP LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "03c26f6f-264f-4ab7-8ec1-d40db0f2f923",
+    "asxCode": "SLR",
+    "name": "SILVER LAKE RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "ab95518f-faa8-4d5b-b891-f66b1e2cd61e",
+    "asxCode": "SLX",
+    "name": "SILEX SYSTEMS LIMITED",
+    "category": "Semiconductors & Semiconductor Equipment"
+  },
+  {
+    "id": "2722c698-9191-48d5-afd3-c9338e0ae1f7",
+    "asxCode": "SM1",
+    "name": "SYNLAIT MILK LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "0226c6bd-3b63-48d7-b597-7609f5b07b2d",
+    "asxCode": "SMP",
+    "name": "SMARTPAY HOLDINGS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "a8034beb-2166-4f02-a09f-75310554eb7a",
+    "asxCode": "SMR",
+    "name": "STANMORE RESOURCES LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "63cb6cd0-22d0-4abc-9120-5f1b58fabbb4",
+    "asxCode": "SNL",
+    "name": "SUPPLY NETWORK LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "ebdb4acd-69d9-42f5-8d00-08b32fb33f76",
+    "asxCode": "SOL",
+    "name": "WASHINGTON H SOUL PATTINSON & COMPANY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "c000a2eb-3846-419c-b2a0-d9fc0871e31d",
+    "asxCode": "SPK",
+    "name": "SPARK NEW ZEALAND LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "7536a3b2-f0c7-4d47-bad8-aa17338c8b2b",
+    "asxCode": "SPL",
+    "name": "STARPHARMA HOLDINGS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "8c61318d-6a41-41d7-8728-76521ae86120",
+    "asxCode": "SQ2",
+    "name": "BLOCK INC.",
+    "category": "Financial Services"
+  },
+  {
+    "id": "4bfafdfa-f3c8-405d-bb74-0a104c29c5b8",
+    "asxCode": "SRG",
+    "name": "SRG GLOBAL LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "c9ed7915-1e94-4c28-beb4-1961d333155b",
+    "asxCode": "SRL",
+    "name": "SUNRISE ENERGY METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "c79390ff-c0ce-4318-8d64-b87eea0c209a",
+    "asxCode": "SRV",
+    "name": "SERVCORP LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "78f82c61-e76e-4258-9e0d-e4106a3114b4",
+    "asxCode": "SSM",
+    "name": "SERVICE STREAM LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "22140283-2455-425a-a29a-cd2d160f9358",
+    "asxCode": "SSR",
+    "name": "SSR MINING INC.",
+    "category": "Materials"
+  },
+  {
+    "id": "101b236e-8ec0-4894-ae9f-9c5f8b065bb5",
+    "asxCode": "SST",
+    "name": "STEAMSHIPS TRADING COMPANY LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "01f3f8cf-c9fb-4a61-9d1c-79456b0e07c1",
+    "asxCode": "STA",
+    "name": "STRANDLINE RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "1eabb500-3826-422f-bfcf-ab26acf8362a",
+    "asxCode": "STO",
+    "name": "SANTOS LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "5cb054f9-660c-4170-9b50-b654c708b6bd",
+    "asxCode": "STX",
+    "name": "STRIKE ENERGY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "b2f6f8d0-98cd-421c-a8d5-b3a230883354",
+    "asxCode": "SUL",
+    "name": "SUPER RETAIL GROUP LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "d3099451-1479-4e3e-94a9-cf22f9370fd7",
+    "asxCode": "SUN",
+    "name": "SUNCORP GROUP LIMITED",
+    "category": "Insurance"
+  },
+  {
+    "id": "68ec48a3-d17b-4991-83cb-5729ba0c7b8e",
+    "asxCode": "SVL",
+    "name": "SILVER MINES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "0949388e-3105-42b4-911b-dee2663cb395",
+    "asxCode": "SVM",
+    "name": "SOVEREIGN METALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4e201749-39ea-4b27-9333-a63d2203c8c9",
+    "asxCode": "SVR",
+    "name": "SOLVAR LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "188befd0-91c5-4fd5-922f-6611440e3b65",
+    "asxCode": "SVW",
+    "name": "SEVEN GROUP HOLDINGS LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "0e91a671-370e-4ee1-82fc-4bc4e33f40cf",
+    "asxCode": "SWM",
+    "name": "SEVEN WEST MEDIA LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "07aac41c-5739-4ba8-aac3-00dcc334cadd",
+    "asxCode": "SXL",
+    "name": "SOUTHERN CROSS MEDIA GROUP LIMITED",
+    "category": "Media & Entertainment"
+  },
+  {
+    "id": "27a0f557-7b5a-48a7-a764-577357e51b02",
+    "asxCode": "SYA",
+    "name": "SAYONA MINING LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "78bc9e10-fe34-4f19-b2ba-cc83d9fe51d6",
+    "asxCode": "SYM",
+    "name": "SYMBIO HOLDINGS LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "b405d84a-6879-4af6-a1a1-616cb00ab7e6",
+    "asxCode": "SYR",
+    "name": "SYRAH RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "3566c266-d191-49e8-9c39-e47ef0f81150",
+    "asxCode": "TAH",
+    "name": "TABCORP HOLDINGS LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "fb1515be-409d-43ab-afa5-da6e0c2b2f83",
+    "asxCode": "TBN",
+    "name": "TAMBORAN RESOURCES LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "f90a6927-1371-4256-93cc-bd66f77753e9",
+    "asxCode": "TCL",
+    "name": "TRANSURBAN GROUP",
+    "category": "Transportation"
+  },
+  {
+    "id": "b78bf901-d9c8-40fd-8119-dc2b520b0f6d",
+    "asxCode": "TER",
+    "name": "TERRACOM LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "f9613b6b-ae2b-4c33-a2f8-a25d2043a11d",
+    "asxCode": "TGP",
+    "name": "360 CAPITAL GROUP",
+    "category": "Financial Services"
+  },
+  {
+    "id": "59ee4764-dc0e-47f7-a0d7-91ac2be5ba93",
+    "asxCode": "THL",
+    "name": "TOURISM HOLDINGS RENTALS LIMITED",
+    "category": "Transportation"
+  },
+  {
+    "id": "599da8d0-f220-4d53-9452-61f546dd9e93",
+    "asxCode": "TIE",
+    "name": "TIETTO MINERALS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "73c99456-dc35-4772-8028-606a8dec2ad6",
+    "asxCode": "TIG",
+    "name": "TIGERS REALM COAL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "09363fc6-d0d8-4490-957d-5c999e27c2ba",
+    "asxCode": "TLC",
+    "name": "THE LOTTERY CORPORATION LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "c6e93b42-49bf-4ebe-919d-9e3686f340a4",
+    "asxCode": "TLG",
+    "name": "TALGA GROUP LTD",
+    "category": "Materials"
+  },
+  {
+    "id": "cd2684d3-9460-4208-b62b-546d7722f43b",
+    "asxCode": "TLS",
+    "name": "TELSTRA GROUP LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "9a7010b8-ff44-4375-95f5-e793aaea4657",
+    "asxCode": "TLX",
+    "name": "TELIX PHARMACEUTICALS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "49660051-6019-4f68-90bf-098820d8954a",
+    "asxCode": "TNE",
+    "name": "TECHNOLOGY ONE LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "3572925c-c94f-49be-a6f2-d6da3758ae14",
+    "asxCode": "TPG",
+    "name": "TPG TELECOM LIMITED.",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "7228a48b-c7d9-4824-8d9f-c35088af3d97",
+    "asxCode": "TPW",
+    "name": "TEMPLE & WEBSTER GROUP LTD",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "6273351b-515f-49bc-92ae-a25fe322f2af",
+    "asxCode": "TRJ",
+    "name": "TRAJAN GROUP HOLDINGS LIMITED",
+    "category": "Pharmaceuticals, Biotechnology & Life Sciences"
+  },
+  {
+    "id": "744fd818-ac4b-42c1-82df-81c01be2028f",
+    "asxCode": "TUA",
+    "name": "TUAS LIMITED",
+    "category": "Telecommunication Services"
+  },
+  {
+    "id": "68389ffd-5d28-4397-a0f0-394a04550c92",
+    "asxCode": "TWE",
+    "name": "TREASURY WINE ESTATES LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "f6abe4fb-c278-457b-b452-8edc6fb923a4",
+    "asxCode": "TYR",
+    "name": "TYRO PAYMENTS LIMITED",
+    "category": "Financial Services"
+  },
+  {
+    "id": "dcd8eeb2-7765-43f7-b90f-94e3462e923e",
+    "asxCode": "UMG",
+    "name": "UNITED MALT GROUP LIMITED",
+    "category": "Food, Beverage & Tobacco"
+  },
+  {
+    "id": "701f5846-6b33-4132-8ce0-9ef0f3697039",
+    "asxCode": "UNI",
+    "name": "UNIVERSAL STORE HOLDINGS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "82503dad-3358-41f8-82db-f5b12dc3a146",
+    "asxCode": "UOS",
+    "name": "UNITED OVERSEAS AUSTRALIA LIMITED",
+    "category": "Real Estate Management & Development"
+  },
+  {
+    "id": "53c842ce-acc6-4515-91ad-727f1070b8aa",
+    "asxCode": "URF",
+    "name": "US MASTERS RESIDENTIAL PROPERTY FUND",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "b246f202-d402-4dc6-bf5a-da279ac9244e",
+    "asxCode": "VCX",
+    "name": "VICINITY CENTRES",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "bcd84642-9ea6-4498-863f-b08dae6de583",
+    "asxCode": "VEA",
+    "name": "VIVA ENERGY GROUP LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "5f1e2fde-06fe-47a0-afb5-14f3c3dd4945",
+    "asxCode": "VIT",
+    "name": "VITURA HEALTH LIMITED",
+    "category": "Health Care Equipment & Services"
+  },
+  {
+    "id": "00fe8e31-b3ea-40e4-967e-e292203af1a4",
+    "asxCode": "VNT",
+    "name": "VENTIA SERVICES GROUP LIMITED",
+    "category": "Capital Goods"
+  },
+  {
+    "id": "f16e8939-7e01-4478-8c58-cc4ca04bc634",
+    "asxCode": "VSL",
+    "name": "VULCAN STEEL LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "13baf65c-1184-4713-981c-32bf1888c652",
+    "asxCode": "VUK",
+    "name": "VIRGIN MONEY UK PLC",
+    "category": "Banks"
+  },
+  {
+    "id": "352cb12a-7d0e-433f-ba2d-8d4aeb440258",
+    "asxCode": "VUL",
+    "name": "VULCAN ENERGY RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "809676d3-2e51-4748-8272-1119b523eac5",
+    "asxCode": "WAF",
+    "name": "WEST AFRICAN RESOURCES LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "91fe9222-5293-4711-aceb-3fbd85b61740",
+    "asxCode": "WBC",
+    "name": "WESTPAC BANKING CORPORATION",
+    "category": "Banks"
+  },
+  {
+    "id": "07907687-088f-41b0-b245-d45e2ef7a8d6",
+    "asxCode": "WBT",
+    "name": "WEEBIT NANO LTD",
+    "category": "Semiconductors & Semiconductor Equipment"
+  },
+  {
+    "id": "f06f652c-9636-4e0e-8dbc-78fefa67136f",
+    "asxCode": "WDS",
+    "name": "WOODSIDE ENERGY GROUP LTD",
+    "category": "Energy"
+  },
+  {
+    "id": "c652501e-5bf4-4c11-a636-cb66c8984680",
+    "asxCode": "WEB",
+    "name": "WEBJET LIMITED",
+    "category": "Consumer Services"
+  },
+  {
+    "id": "d549e2a8-dbe0-472e-8119-0357af40620c",
+    "asxCode": "WES",
+    "name": "WESFARMERS LIMITED",
+    "category": "Consumer Discretionary Distribution & Retail"
+  },
+  {
+    "id": "5c074ee1-9726-410e-9ffe-02e08e2cf3f5",
+    "asxCode": "WGX",
+    "name": "WESTGOLD RESOURCES LIMITED.",
+    "category": "Materials"
+  },
+  {
+    "id": "9c425566-61fa-405b-9cea-db80fed5bb2f",
+    "asxCode": "WHC",
+    "name": "WHITEHAVEN COAL LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "83e94bd8-d911-4101-a2fb-d2bc9217973a",
+    "asxCode": "WOR",
+    "name": "WORLEY LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "2c2d2734-1593-480e-81d6-85add7dd3c7b",
+    "asxCode": "WOT",
+    "name": "WOTSO PROPERTY",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "d2f2efc9-acae-46d5-ab8d-803af9056f95",
+    "asxCode": "WOW",
+    "name": "WOOLWORTHS GROUP LIMITED",
+    "category": "Consumer Staples Distribution & Retail"
+  },
+  {
+    "id": "70e47bca-6c63-458a-86c4-c080cd1291e5",
+    "asxCode": "WPR",
+    "name": "WAYPOINT REIT",
+    "category": "Equity Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "id": "188a7cbe-9e14-464c-8703-4ada25ebcf04",
+    "asxCode": "WTC",
+    "name": "WISETECH GLOBAL LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "950f95b3-6952-4206-91e5-d21fe15b5d1f",
+    "asxCode": "XRO",
+    "name": "XERO LIMITED",
+    "category": "Software & Services"
+  },
+  {
+    "id": "1a82149b-6595-4186-9fe0-5ca62d740728",
+    "asxCode": "YAL",
+    "name": "YANCOAL AUSTRALIA LIMITED",
+    "category": "Energy"
+  },
+  {
+    "id": "5a63aa11-79df-4551-82e3-dbbff945e048",
+    "asxCode": "ZIM",
+    "name": "ZIMPLATS HOLDINGS LIMITED",
+    "category": "Materials"
+  },
+  {
+    "id": "4e18e62c-5c4d-4f2c-b902-6b62d277a4fc",
+    "asxCode": "ZIP",
+    "name": "ZIP CO LIMITED..",
+    "category": "Financial Services"
+  },
+  {
+    "id": "75c6caf0-5ab8-4ba0-b003-c3a4eef0f741",
+    "asxCode": "AMPPB",
+    "name": "AMP Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "88ba1312-713c-4083-922d-f610c5be247a",
+    "asxCode": "AN3PG",
+    "name": "ANZ Capital Notes 4",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "e92554e3-3286-499b-99c8-df63d93a696a",
+    "asxCode": "AN3PH",
+    "name": "ANZ Capital Notes 5",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "1fb43d2f-6e87-45fe-a9c7-c5eb65946459",
+    "asxCode": "AN3PI",
+    "name": "ANZ Capital Notes 6",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "d66efd8c-78c8-4d54-b42b-4f69a3fd2ade",
+    "asxCode": "AN3PJ",
+    "name": "ANZ Capital Notes 7",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "6d37d299-a298-4bfa-8bd8-9d06c986ab39",
+    "asxCode": "AN3PK",
+    "name": "ANZ Capital Notes 8",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "741a582c-142e-49a1-9912-3fd6d486b8dd",
+    "asxCode": "AYUHC",
+    "name": "Australian Unity Bonds - Series C ⑭",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "325e9c83-3409-4c13-9a31-894c580a7706",
+    "asxCode": "AYUHD",
+    "name": "Australian Unity Bonds - Sesries D ⑭",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "00853e41-02f3-4364-b7f0-c392dd73440a",
+    "asxCode": "BENPG",
+    "name": "Bendigo and Adelaide Bank CPS 4",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "5182ac0b-74bb-4ac4-b3ce-95e28ac849f6",
+    "asxCode": "BENPH",
+    "name": "Bendigo and Adelaide Bank Capital Note 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "3a7a3969-7cb8-4e49-90c3-da1657e3216d",
+    "asxCode": "BOQPE",
+    "name": "Bank of Queensland Limited Capital Notes",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "4037622f-a8bb-49a2-8bfb-7b2ad75240e6",
+    "asxCode": "BOQPF",
+    "name": "Bank Of Queensland Limited Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "0e4603a3-abe8-46b9-a5e6-bee17ecdbcec",
+    "asxCode": "BOQPG",
+    "name": "Bank of Queensland Limited Capital Notes 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "ec32d01c-6731-47b0-824f-4fc539822e9d",
+    "asxCode": "CBAPG",
+    "name": "CBA PERLS X",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "a81231fa-217a-4ebe-b639-d01235258903",
+    "asxCode": "CBAPH",
+    "name": "CBA PERLS XI",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "0e279bc7-49ec-499d-9a7d-d21ea53b7c9f",
+    "asxCode": "CBAPI",
+    "name": "CBA PERLS 12",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "0635bc2f-ae11-435f-b3d8-91f7a09c7386",
+    "asxCode": "CBAPJ",
+    "name": "CBA PERLS XIII",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "d8ef2c7e-5100-4897-9aaa-2191835cae32",
+    "asxCode": "CBAPK",
+    "name": "CBA PERLS XIV",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "3295db45-e182-4287-af9d-499eeb3ba79b",
+    "asxCode": "CBAPL",
+    "name": "CommBank PERLS XV Capital Notes",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "f405c5ea-509a-4141-a9e8-2c30c4eb933d",
+    "asxCode": "CGFPB",
+    "name": "Challenger Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "d349e0ab-2773-40a6-9022-b02ad68e0358",
+    "asxCode": "CGFPC",
+    "name": "Challenger Capital Notes 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "c0b28ddf-3183-49c1-96ff-94d43b95f363",
+    "asxCode": "CGFPD",
+    "name": "Challenger Capital Notes 4",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "ca70d28c-932d-466e-8005-9dded88a31ae",
+    "asxCode": "IAGPD",
+    "name": "IAG Capital Notes",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "10299931-ea0f-4323-8fe0-e92dbae24fa3",
+    "asxCode": "IAGPE",
+    "name": "Insurance Australia Group Limited Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "ed207936-c428-432d-b824-5018e1a5fa3e",
+    "asxCode": "MBLPC",
+    "name": "Macquarie Bank Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "55c305d5-115e-4ef1-be50-7af1f8041003",
+    "asxCode": "MBLPD",
+    "name": "Macquarie Bank Capital Notes 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "dd26b81c-ae75-482e-afef-7f37d1114b71",
+    "asxCode": "MQGPC",
+    "name": "Macquarie Group",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "d8f222e5-e2c6-4dd3-a82f-9764efe76649",
+    "asxCode": "MQGPD",
+    "name": "Macquarie Group Capital Notes 4",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "a5b909ef-3f07-486b-8180-a5fe6d2d4527",
+    "asxCode": "MQGPE",
+    "name": "Macquarie Group Capital Notes 5",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "1c9f3cff-85e0-49e7-8380-b1df862e48c6",
+    "asxCode": "MQGPF",
+    "name": "Macquarie Group Capital Notes 6",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "0f63b1dc-38c9-4597-9c0b-21bbd8e8f876",
+    "asxCode": "NABPE",
+    "name": "NAB Subordinated Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "f80ef5ba-b411-4ed4-a317-a998b282ffa6",
+    "asxCode": "NABPF",
+    "name": "NAB Capital Notes 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "cb19b15f-7011-44fb-961c-7a78aeee1095",
+    "asxCode": "NABPH",
+    "name": "NAB Capital Notes 5",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "affc7ae6-0f21-415a-8a09-c9b6ba81c5f1",
+    "asxCode": "NABPI",
+    "name": "NAB Capital Notes 6",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "9424cc71-ba92-4943-8c08-60422bc99d52",
+    "asxCode": "QUBHA",
+    "name": "QUBE Subordinated Notes",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "ca7dc25d-8bb2-441f-b3ba-9e2bb8825c71",
+    "asxCode": "RHCPA",
+    "name": "Ramsay Health Care",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "45917b5b-d2f7-4f7b-a024-2c256636c1c1",
+    "asxCode": "SUNPG",
+    "name": "Suncorp Capital Notes 2",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "e7b5228d-3311-4065-b2c0-6ab98e154b9b",
+    "asxCode": "SUNPH",
+    "name": "Suncorp Capital Notes 3",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "1c44aaec-fa6d-4a8b-aa7c-10f4fafd04b6",
+    "asxCode": "SUNPI",
+    "name": "Suncorp Capital Notes 4",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "7f7e21bc-a638-4c62-aed8-630f98f40ed7",
+    "asxCode": "WBCPH",
+    "name": "Westpac Capital Notes 5",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "10c28f2b-5f8b-44e2-bba6-4cf21ba5d01e",
+    "asxCode": "WBCPI",
+    "name": "Westpac Capital Notes 6",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "90fb781d-32e3-4510-9dc8-f2828edc63eb",
+    "asxCode": "WBCPJ",
+    "name": "Westpac Capital Notes 7",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "153de0da-5952-4d11-a3bf-56511d1f73c0",
+    "asxCode": "WBCPK",
+    "name": "Westpac Capital Notes 8",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "793a4173-fd45-43b9-af4a-ef4beaeca4e3",
+    "asxCode": "WBCPL",
+    "name": "Westpac Capital Notes 9",
+    "category": "Interest Rate Securities"
+  },
+  {
+    "id": "8d8255fc-4039-4a06-b9c4-919daad2f246",
+    "asxCode": "AFI",
+    "name": "Australian Foundation Investment Company",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "298a89e8-8a10-478b-9c59-96f68fcf2277",
+    "asxCode": "AMH",
+    "name": "AMCIL Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "75c60120-d159-496c-b5a1-b707f2521e76",
+    "asxCode": "ARG",
+    "name": "Argo Investments Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "d2e90310-2251-4460-ba51-842faffcc67b",
+    "asxCode": "AUI",
+    "name": "Australian United Investment Company Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "69aa11f8-a886-44b4-9ccb-71728d3a5486",
+    "asxCode": "CDM",
+    "name": "Cadence Capital Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "c8e7b1ed-e282-47bc-bc4c-438dffb5f4ba",
+    "asxCode": "DJW",
+    "name": "Djerriwarrh Investments Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "36b352fe-0d62-4caa-9a85-7ea90f71e1c8",
+    "asxCode": "DUI",
+    "name": "Diversified United Investment Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "ba306173-cb54-4ca5-8e7f-b1b9db54dd37",
+    "asxCode": "MFF",
+    "name": "Magellan Flagship Fund Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "3cf5752d-12e4-42a5-b885-3c3ee3935fe7",
+    "asxCode": "PAI",
+    "name": "Platinum Asia Investments Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "17d7d871-2755-4de8-bf78-7da1bfdcb593",
+    "asxCode": "PGF",
+    "name": "PM Capital Global Opportunities Fund",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "86766d16-af56-4eb0-8b7a-6e7d2e40d570",
+    "asxCode": "PIC",
+    "name": "Perpetual Equity Investment Company Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "0e2dee0a-36ed-44d7-880c-ab1fe1504fda",
+    "asxCode": "PMC",
+    "name": "Platinum Capital Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "b8676166-de48-48d8-af5c-73f939b2d570",
+    "asxCode": "QVE",
+    "name": "QV Equities Limited",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "bb117abd-4ba8-47e0-b3e8-d27920984c49",
+    "asxCode": "WLE",
+    "name": "Wilson Asset Management Leaders Fund ",
+    "category": "Listed Investment Companies"
+  },
+  {
+    "id": "43f9674f-9bd1-45ec-8fda-6e0da2b4517d",
+    "asxCode": "MGF",
+    "name": "Magellan Global Trust",
+    "category": "Listed Investment Trust"
+  },
+  {
+    "id": "72e2154d-8ccb-4024-8ac0-bc1c77146001",
+    "asxCode": "PE1",
+    "name": "Pengana Private Equity Trust ⑭",
+    "category": "Listed Investment Trust"
+  },
+  {
+    "id": "a33cad90-1fc7-479a-8888-b70541c0c70c",
+    "asxCode": "A200",
+    "name": "BetaShares Australia 200 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f3a2d402-6af8-47b1-9e47-4b507101b986",
+    "asxCode": "AAA",
+    "name": "BetaShares Aus High Interest Cash ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "82d916d8-6abd-4109-a204-09cad6a3fb0a",
+    "asxCode": "AGX1",
+    "name": "Antipodes Global Shares (Quoted Managed Fund)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "db805bf3-9834-4f4b-b0b5-1ede5e286860",
+    "asxCode": "BILL",
+    "name": "iShares Core Cash ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "5ddaaf8d-c5c1-4da4-a2fd-05f9a8e8a4a4",
+    "asxCode": "CRED",
+    "name": "BetaShares Aus Inv Grd Corp Bd ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "25f3d925-b34a-48bc-ad90-68c6210d569d",
+    "asxCode": "DJRE",
+    "name": "SPDR Dow Jones Global Real Estate ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "a5ab69fb-a85c-4ad0-b7ab-d3aa1204060d",
+    "asxCode": "ETHI",
+    "name": "BetaShares Global Sstnbty Ldrs ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "ec251ce3-2f88-405b-abac-bf4d2e034376",
+    "asxCode": "FAIR",
+    "name": "BetaShares Australian Sustnby Ldrs ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "5ef595a8-2123-4231-af17-719d2095d8dd",
+    "asxCode": "FLOT",
+    "name": "VanEck Australian Floating Rate ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "52321079-fa85-478b-bcb8-bd46a6b28b49",
+    "asxCode": "GLOB",
+    "name": "Barrow Hanley Global Share Fund",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "3d6ac2b9-f996-49ff-9140-4a9db5f2d923",
+    "asxCode": "GOLD",
+    "name": "ETFS Physical Gold ETC",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "39855206-a28f-4019-ab5f-282b49b65a12",
+    "asxCode": "HBRD",
+    "name": "BetaShares Active Australian Hybrids ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f8adfdf8-2aca-4a30-9c57-02cc7b6141db",
+    "asxCode": "IAA",
+    "name": "iShares Asia 50 ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f446a3ca-7209-4b83-aef0-1e6a08243edd",
+    "asxCode": "IAF",
+    "name": "iShares Core Composite Bond ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "7b7a9e08-3cac-476c-8fb8-c56900c5bee2",
+    "asxCode": "IEM",
+    "name": "iShares MSCI Emerging Markets ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "7e796c7c-a8a5-43a8-bcf1-3720e7832d6f",
+    "asxCode": "IEU",
+    "name": "iShares Europe ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f562ddf9-730d-42d5-9ec0-1690d5fad212",
+    "asxCode": "IFRA",
+    "name": "VanEck Vectors FTSE Glbl Infras(Hdg)ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "640b0940-89ef-4ddf-959a-21cbcd068eed",
+    "asxCode": "IHCB",
+    "name": "iShares Core Global Corporate Bond (AUD Hedged) ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "26a4c6d7-66d8-4aec-a227-d230e29c0279",
+    "asxCode": "IHD",
+    "name": "iShares S&P/ASX Dividend Opps ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "9127adce-7965-431a-8d08-6fe857256648",
+    "asxCode": "IHOO",
+    "name": "iShares Global 100 AUD Hedged ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8611062d-828f-47b8-a388-d3ecf5d423ec",
+    "asxCode": "IHVV",
+    "name": "iShares S&P 500 AUD Hedged ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "52054bde-d243-4ffe-81d4-5f39088e64b3",
+    "asxCode": "IJH",
+    "name": "iShares S&P Mid-Cap ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "495f1197-a828-4420-a865-116f7801546d",
+    "asxCode": "IJP",
+    "name": "iShares MSCI Japan ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "71b63312-b28b-4930-9c59-a0769bd04771",
+    "asxCode": "IJR",
+    "name": "iShares S&P Small-Cap ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "4adf77a7-8b65-4f30-83ca-05309d11df36",
+    "asxCode": "ILC",
+    "name": "iShares S&P/ASX 20 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "11068eb6-eaa3-42e8-8b3d-1a58b00eac2d",
+    "asxCode": "IOO",
+    "name": "iShares Global 100 ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "40e371ec-428c-4f58-a300-490682952bb5",
+    "asxCode": "IOZ",
+    "name": "iShares Core S&P/ASX 200 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "79e3ef62-25a5-43ea-b44c-9fe09c308488",
+    "asxCode": "ISEC",
+    "name": "iSEC Enhanced Cash ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8c9eef36-a4fd-4596-a888-221aef01ad9f",
+    "asxCode": "ISO",
+    "name": "iShares S&P/ASX Small Ordinaries ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f7f62942-3546-46d9-93a4-bd2e1340373f",
+    "asxCode": "IVE",
+    "name": "iShares MSCI EAFE ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "32cb868a-42ea-4f0b-a55e-9a50a0e4968a",
+    "asxCode": "IVV",
+    "name": "iShares Core S&P 500 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "afab0af7-23b8-4e46-8b26-e257bebaf9a6",
+    "asxCode": "IWLD",
+    "name": "iShares Core MSCI World All Cap ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "fae18e16-0371-4ae0-b938-9767af5892f4",
+    "asxCode": "IXI",
+    "name": "iShares Global Consumer Staples ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "7037fa35-ed8f-4a97-b45e-da1297ef9bca",
+    "asxCode": "IXJ",
+    "name": "iShares Global Healthcare ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "4ab0cb32-f0c9-4828-a2b0-e8caece968d7",
+    "asxCode": "IYLD",
+    "name": "iShares Yield Plus ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "7d1d5257-35fa-4f08-94b3-41474e760534",
+    "asxCode": "IZZ",
+    "name": "iShares China Large-Cap ETF (AU)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "07fbe455-536a-42d7-9ce2-e9ed63f5f923",
+    "asxCode": "MGOC",
+    "name": "Magellan Global Active ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "dc250d53-cd69-4872-8a17-cbb3c0ec0461",
+    "asxCode": "MHHT",
+    "name": "Magellan High Conviction Trust (Managed Fund)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "a52844cb-0e80-4e8e-a8a5-037a6590cb97",
+    "asxCode": "MICH",
+    "name": "Magellan Infrastructure Fund (Currency Hedged) (Managed Fund)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "22730d54-89e8-42f4-823a-abdd0d47bf0f",
+    "asxCode": "MVW",
+    "name": "VanEck Vectors Australian Equal Wt ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8f5e1fed-4416-49e8-87d9-ea1fda0e024c",
+    "asxCode": "NDQ",
+    "name": "BetaShares NASDAQ 100 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "28436571-37e5-47cd-9f83-290094f0bed3",
+    "asxCode": "OZR",
+    "name": "SPDR S&P/ASX 200 Resources ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "4ba36708-d3b4-41d0-ba43-afc0d681e197",
+    "asxCode": "PLUS",
+    "name": "VanEck Vectors Australian Corp Bd+ ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "13334fda-e7bc-44be-951e-98a978fd9c42",
+    "asxCode": "QPON",
+    "name": "BetaShares Australian Bank Senior Floating Rate Bond ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "64085b74-2b39-47ba-ab8e-d5cdb248199d",
+    "asxCode": "QUAL",
+    "name": "VanEck Vectors MSCI Wld ex Aus Qlty ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "ee035713-a3f9-4fdd-ba1b-80f235d172a0",
+    "asxCode": "RARI",
+    "name": "Russell Inv Australian Rspnb Inv ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "02fd19ff-7d1f-4126-9950-2484438ef07c",
+    "asxCode": "RDV",
+    "name": "Russell Inv High Dividend Aus Shrs ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "2debd3ee-d567-4211-a79c-c4c44cda8093",
+    "asxCode": "REIT",
+    "name": "VanEck FTSE International Property (Hedged)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "622d2c28-6bcb-4300-b6f5-10fc067028c8",
+    "asxCode": "SFY",
+    "name": "SPDR S&P/ASX 50 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "af48027e-7d2d-471a-87da-3b19af91dcd4",
+    "asxCode": "SLF",
+    "name": "SPDR S&P/ASX 200 Listed Property ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "efd9ee71-ff07-492c-b75e-7eb17f252e40",
+    "asxCode": "SSO",
+    "name": "SPDR S&P/ASX Small Ordinaries ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "546aeead-2a35-4e29-8dd5-ed54d37cc95b",
+    "asxCode": "STW",
+    "name": "SPDR S&P/ASX 200 ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "af64a2d1-6771-4f05-9a26-e2a6f00dff03",
+    "asxCode": "SYI",
+    "name": "SPDR MSCI Australia Sel Hi Div Yld ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "21efe3d6-17e8-48b1-a33a-3df4757c4fc0",
+    "asxCode": "USD",
+    "name": "BetaShares US Dollar ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "fc0a79e3-b8b2-48aa-8704-cfaeab19583b",
+    "asxCode": "VACF",
+    "name": "Vanguard Australian Corp Fxd Intr ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "747ef8cb-05e1-4f17-a5bf-aadb8288f989",
+    "asxCode": "VAF",
+    "name": "Vanguard Australian Fixed Interest ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "f74d3ef2-8889-40d2-ae2f-8120938e69dd",
+    "asxCode": "VAP",
+    "name": "Vanguard Australian Property Secs ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8a499f88-1d0b-49c3-9a07-e002e1297ab4",
+    "asxCode": "VAS",
+    "name": "Vanguard Australian Shares ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "99f63e5a-c13a-482c-9a83-750ff95ecf3f",
+    "asxCode": "VBLD",
+    "name": "Vanguard Global Infrastructure ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "51b82ed5-4a89-463a-b232-1e4eba105d3f",
+    "asxCode": "VBND",
+    "name": "Vanguard Global Aggregate Bd Hdg ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "54ba4b9f-e2f1-4d3c-99c7-9ad5e889fdca",
+    "asxCode": "VDBA",
+    "name": "Vanguard Diversified Balanced ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "64e45cc6-a912-4840-a14c-46855bd8f905",
+    "asxCode": "VDCO",
+    "name": "Vanguard Diversified Conservative ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "5ace66dc-8c92-460b-b4f1-415702268a07",
+    "asxCode": "VDGR",
+    "name": "Vanguard Diversified Growth ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "abf0ba0c-d65d-449c-8506-57e09c884d75",
+    "asxCode": "VDHG",
+    "name": "Vanguard Diversified High Growth ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "97d0c112-7840-451c-b3e4-20bf2f13abbc",
+    "asxCode": "VEFI",
+    "name": "Vanguard Ethically Conscious Global Aggregate Bond Index (Hedged) ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "afa5d427-8a85-42f0-bbf5-914e79658a48",
+    "asxCode": "VESG",
+    "name": "Vangaurd Ethically Conscious International Shares ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "da8ab704-d3b2-4e91-93a6-accc72f1e48e",
+    "asxCode": "VETH",
+    "name": "Vanguard Ethically Conscious Australian Shares ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8e1d6625-dfb3-4697-8c40-acdd27c0f25d",
+    "asxCode": "VEU",
+    "name": "Vanguard All-World ex-US Shares ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "92d93770-73e9-4ac3-8b91-a399db6772f7",
+    "asxCode": "VGAD",
+    "name": "Vanguard MSCI Intl (Hdg) ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "ced47edb-c495-46d0-8341-7c1ebbd5b15a",
+    "asxCode": "VGE",
+    "name": "Vanguard FTSE Emerging Markets Shrs ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8d31964b-4409-4026-94de-d939561e032f",
+    "asxCode": "VGS",
+    "name": "Vanguard MSCI Intl ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8350833b-7de8-44e7-b900-1ea1915da716",
+    "asxCode": "VHY",
+    "name": "Vanguard Australian Shares High Yld ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "7803e6d7-2e99-40e7-93f3-3c4c5693afa3",
+    "asxCode": "VISM",
+    "name": "Vanguard MSCI International Small Companies Index ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "0951e929-fd52-47e6-8c49-8ee72e625494",
+    "asxCode": "VMIN",
+    "name": "Vanguard Global Minimum Volatility Active ETF ",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "9733aed1-1815-450b-924b-dfdb646e2574",
+    "asxCode": "VSO",
+    "name": "Vanguard MSCI Australian Small Coms ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "8c8534db-03b6-4219-a925-eba0305c8e17",
+    "asxCode": "VTS",
+    "name": "Vanguard US Total Market Shares ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "20b8cbf6-7bc9-4135-95fc-2ab4c29286f3",
+    "asxCode": "VVLU",
+    "name": "Vanguard Global Value Equity Active ETF (Managed Fund)",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "c8ff6ee1-0a44-4e8e-a9d5-b8942f38dbaa",
+    "asxCode": "WDMF",
+    "name": "iShares Edge MSCI World Multifactor ETF",
+    "category": "Exchange Traded Fund"
+  },
+  {
+    "id": "035d8977-6566-450c-80a5-137deccd7d98",
+    "asxCode": "XARO",
+    "name": "ActiveX Ardea Real Outcome Bond Fund (Managed Fund)",
+    "category": "Exchange Traded Fund"
+  }
+]
