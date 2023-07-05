@@ -117,3 +117,26 @@
 // }
 
 // console.log(areThereDuplicates([1, 2, 3]));
+
+// function same(arr1, arr2) {
+//   if (arr1.length !== arr2.length) return false;
+//   let lookup = {};
+//   let i = 0;
+//   while (i < arr1.length) {
+//     let cur = lookup[Math.pow(arr1[i], 2)];
+//     cur >= 1
+//       ? (lookup[Math.pow(arr1[i], 2)] = cur + 1)
+//       : (lookup[Math.pow(arr1[i], 2)] = 1);
+//     i++;
+//   }
+//   i = 0;
+//   while (i < arr2.length - 1) {
+//     if (lookup[arr2[i]] >= 1) {
+//       lookup[arr2[i]] = lookup[arr2[i]] - 1;
+//       i++;
+//     } else return false;
+//   }
+//   return true;
+// }
+
+// console.log(same([1, 2, 3, 4, 5, 5, 5, 6], [36, 1, 4, 9, 16, 25, 25, 25]));

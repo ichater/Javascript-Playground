@@ -45,7 +45,7 @@ function countUniqueValues(arr) {
   return uniqueValues;
 }
 
-// console.log(countUniqueValues([1, 2, 3, 3, 3, 4, 5, 6, 7, 8, 9]));
+console.log(countUniqueValues([1, 2, 3, 3, 3, 4, 5, 6, 7, 8, 9]));
 
 // Using set as a way of finding unique values. Not a versatile solution
 // like multiple pointers but a good one for this use case
@@ -76,14 +76,14 @@ function coltsSolution(arr) {
 
 function averagePair(arr, avg) {
   // return false if there are no elements or if the smallest element is higher than the average
-  if (!arr.length) return false;
-  if (arr[0] > avg) return false;
+  if (!arr.length || arr[0] > avg) return false;
 
   const average = (one, two) => (one + two) / 2;
 
   let left = 0;
   let right = arr.length - 1;
 
+  // Get rid of elements from the right that can't be used
   while (arr[right] > avg * 2) {
     right -= 1;
     arr.pop();
@@ -106,11 +106,11 @@ function averagePair(arr, avg) {
   return false;
 }
 
-console.log(averagePair([1, 3, 3, 5, 6, 7, 10, 12, 30, 40, 50, 60], 8)); // true
-console.log(averagePair([1, 2, 3], 2.5)); // true
-console.log(averagePair([1, 3, 3, 5, 6, 7, 10, 12, 19], 8)); // true
-console.log(averagePair([-1, 0, 3, 4, 5, 6], 4.1)); // false
-console.log(averagePair([], 4)); // false
+// console.log(averagePair([1, 3, 3, 5, 6, 7, 10, 12, 30, 40, 50, 60], 8)); // true
+// console.log(averagePair([1, 2, 3], 2.5)); // true
+// console.log(averagePair([1, 3, 3, 5, 6, 7, 10, 12, 19], 8)); // true
+// console.log(averagePair([-1, 0, 3, 4, 5, 6], 4.1)); // false
+// console.log(averagePair([], 4)); // false
 
 // Write a function called isSubsequence which takes in two strings and
 // checks whether the characters in the first string form a subsequence
