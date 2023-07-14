@@ -66,13 +66,35 @@
 // arr.at(1)=3
 // console.log(arr.at(1));
 
-const arrObjects = [
-  { id: 1, comment: "i am a comment" },
-  { id: 2, comment: "i am a comment" },
-  { id: 3, comment: "i am a comment" },
+// const arrObjects = [
+//   { id: 1, comment: "i am a comment" },
+//   { id: 2, comment: "i am a comment" },
+//   { id: 3, comment: "i am a comment" },
+// ];
+
+// arrObjects[arrObjects.findIndex((e) => e.id === 2)].comment =
+//   "I am an exceptional comment";
+
+// console.log(arrObjects);
+
+const arr = [
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
 ];
 
-arrObjects[arrObjects.findIndex((e) => e.id === 2)].comment =
-  "I am an exceptional comment";
+function investmentDataParser(arr, num) {
+  let returnArr = [];
+  const pages = arr.length / num;
 
-console.log(arrObjects);
+  if (num > arr.length) return [arr];
+
+  for (let i = 0; i < pages; i++) {
+    returnArr[i] = [];
+    for (let j = 0; j <= num; j++) {
+      returnArr[i][j] = arr[i * pages + j];
+    }
+  }
+
+  return returnArr;
+}
+
+console.log(investmentDataParser(arr, 40));
